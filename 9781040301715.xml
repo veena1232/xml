@@ -1,0 +1,4622 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.4324/9781003463146</ce:doi>
+<itemid idtype="TPB-ID">20252000073100</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk" />
+<citation-language xml:lang="ENG" />
+<abstract-language xml:lang="ENG" />
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Transnational Asylum: Toward a Principled Framework</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+<ce:given-name>Nikolas Feith</ce:given-name>
+</author>
+<affiliation>
+<organization>Senior Lecturer at Melbourne Law School</organization>
+<country iso-code="AUS" />
+<ce:source-text>Nikolas Feith Tan is Senior Lecturer at Melbourne Law School in Australia and former Senior Researcher at the Danish Institute for Human Rights. He is also Visiting Professor at the MOBILE Centre, University of Copenhagen, Denmark, and Senior Research Affiliate at the University of London's Refugee Law Initiative, UK.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+<ce:given-name>Nikolas Feith</ce:given-name>
+</person>
+<affiliation>
+<organization>Senior Lecturer at Melbourne Law School</organization>
+<country iso-code="AUS" />
+<ce:source-text>Nikolas Feith Tan is Senior Lecturer at Melbourne Law School in Australia and former Senior Researcher at the Danish Institute for Human Rights. He is also Visiting Professor at the MOBILE Centre, University of Copenhagen, Denmark, and Senior Research Affiliate at the University of London's Refugee Law Initiative, UK.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2025 Nikolas Feith Tan</publishercopyright>
+<ce:para>This book presents an original framework of transnational asylum to inform future cooperation between states on asylum processing and refugee protection. The book provides scholarly guidance on how policies can be undertaken in a way that conforms with the rights of asylum seekers and refugees under international law, asking if transnational asylum offers a workable model for lawful international cooperation and responsibility-sharing. It engages with the practical and legal modalities needed to ensure respect for binding obligations in the context of the current trend of rejection of territorial asylum among some states. The book puts forward a blueprint for how existing policies of deterrence and externalisation can be retooled to share, rather than shift, responsibility for refugees. This book will be of key interest to scholars, students, policymakers and practitioners interested and working in Human Rights, International Refugee Law and Refugee Studies.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="USA">
+<sourcetitle>Transnational Asylum: Toward a Principled Framework</sourcetitle>
+<sourcetitle-abbrev>Transnatl. n.a.: n.a. a Principled Framew.</sourcetitle-abbrev>
+<isbn type="print" length="13">9781032732190</isbn>
+<isbn type="electronic" length="13">9781040301715</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>196</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025" />
+<publicationdate>
+<year>2025</year>
+<month>03</month>
+<day>19</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.taylorfrancis.com/books/mono/10.4324/9781003463146</ce:e-address>
+</website>
+<publisher>
+<publishername>Taylor and Francis</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="189">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Racial Borders</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.T.</ce:initials>
+<ce:surname>Achiume</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Georgetown Immigration Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<volisspag>
+<volume-issue-number>
+<vol-first>110</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>445</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Achiume ET, ‘Racial Borders’ (2021) 110 Georgetown Immigration Law Journal 445.</ref-fulltext>
+<ce:source-text>Achiume ET, ‘Racial Borders’ (2021) 110 Georgetown Immigration Law Journal 445.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.F.</ce:initials>
+<ce:surname>Afeef</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Politics of Extraterritorial Processing: Offshore Asylum Policies in Europe and the Pacific</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Refugee Studies Centre</ref-text>
+</ref-info>
+<ref-fulltext>Afeef KF, The Politics of Extraterritorial Processing: Offshore Asylum Policies in Europe and the Pacific (Refugee Studies Centre Working Paper No. 36, 2006).</ref-fulltext>
+<ce:source-text>Afeef KF, The Politics of Extraterritorial Processing: Offshore Asylum Policies in Europe and the Pacific (Refugee Studies Centre Working Paper No. 36, 2006).</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Unfinished Work of the Global Compact on Refugees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.A.</ce:initials>
+<ce:surname>Aleinikoff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>611</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Aleinikoff TA, ‘The Unfinished Work of the Global Compact on Refugees’ (2018) 30 International Journal of Refugee Law 611.</ref-fulltext>
+<ce:source-text>Aleinikoff TA, ‘The Unfinished Work of the Global Compact on Refugees’ (2018) 30 International Journal of Refugee Law 611.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.A.</ce:initials>
+<ce:surname>Aleinikoff</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Zamore</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Arc of Protection: Reforming the International Refugee Regime</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>Stanford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Aleinikoff TA and Zamore L, The Arc of Protection: Reforming the International Refugee Regime (Stanford University Press, 2019).</ref-fulltext>
+<ce:source-text>Aleinikoff TA and Zamore L, The Arc of Protection: Reforming the International Refugee Regime (Stanford University Press, 2019).</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Transnationalizing Rights: International Human Rights Law in Cross-Border Contexts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Altwicker</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>581</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Altwicker T, ‘Transnationalizing Rights: International Human Rights Law in Cross-Border Contexts’ (2018) 29 European Journal of International Law 581.</ref-fulltext>
+<ce:source-text>Altwicker T, ‘Transnationalizing Rights: International Human Rights Law in Cross-Border Contexts’ (2018) 29 European Journal of International Law 581.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Crisis and cure: A reply to Hathaway/Neve and Schuck</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Anker</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Fitzpatrick</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Shacknove</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Harvard Human Rights Journal</ref-sourcetitle>
+<ref-publicationyear first="1998" />
+<volisspag>
+<volume-issue-number>
+<vol-first>11</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>295</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Anker D, Fitzpatrick J and Shacknove A, ‘Crisis and cure: A reply to Hathaway/Neve and Schuck’ (1998) 11 Harvard Human Rights Journal 295.</ref-fulltext>
+<ce:source-text>Anker D, Fitzpatrick J and Shacknove A, ‘Crisis and cure: A reply to Hathaway/Neve and Schuck’ (1998) 11 Harvard Human Rights Journal 295.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Offshore Processing of Asylum Seekers–Is Australia Complying With Its International Legal Obligations</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.J.</ce:initials>
+<ce:surname>Archbold</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>QUT Law Review</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>137</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Archbold LJ, ‘Offshore Processing of Asylum Seekers–Is Australia Complying With Its International Legal Obligations’ (2015) 15 QUT Law Review 137.</ref-fulltext>
+<ce:source-text>Archbold LJ, ‘Offshore Processing of Asylum Seekers–Is Australia Complying With Its International Legal Obligations’ (2015) 15 QUT Law Review 137.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.P.</ce:initials>
+<ce:surname>Aust</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Complicity and the Law of State Responsibility</ref-sourcetitle>
+<ref-publicationyear first="2011" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Aust HP, Complicity and the Law of State Responsibility (Cambridge University Press 2011).</ref-fulltext>
+<ce:source-text>Aust HP, Complicity and the Law of State Responsibility (Cambridge University Press 2011).</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Azhigulova</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bilateral Resettlement Agreements: Any Promising Future for Expanding Refugee Protection Space? A Case Study of the Guantanamo ex-Detainees Seeking Asylum in Central Asia</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+</volume-issue-number>
+</volisspag>
+<ref-text>Refugee Law Initative</ref-text>
+</ref-info>
+<ref-fulltext>Azhigulova K, ‘Bilateral Resettlement Agreements: Any Promising Future for Expanding Refugee Protection Space? A Case Study of the Guantanamo ex-Detainees Seeking Asylum in Central Asia’ (Refugee Law Initative Working Paper No 19, 2017).</ref-fulltext>
+<ce:source-text>Azhigulova K, ‘Bilateral Resettlement Agreements: Any Promising Future for Expanding Refugee Protection Space? A Case Study of the Guantanamo ex-Detainees Seeking Asylum in Central Asia’ (Refugee Law Initative Working Paper No 19, 2017).</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Australian and Israeli Agreements for the Permanent Transfer of Refugees: Stretching Further the (Il)legality and (Im)morality of Western Externalization Policies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Bar-Tuvia</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Bar-Tuvia S, ‘Australian and Israeli Agreements for the Permanent Transfer of Refugees: Stretching Further the (Il)legality and (Im)morality of Western Externalization Policies’ (2018) 30 International Journal of Refugee Law 1.</ref-fulltext>
+<ce:source-text>Bar-Tuvia S, ‘Australian and Israeli Agreements for the Permanent Transfer of Refugees: Stretching Further the (Il)legality and (Im)morality of Western Externalization Policies’ (2018) 30 International Journal of Refugee Law 1.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Battjes</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Asylum Law and International Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<ref-text>Nijhoff</ref-text>
+</ref-info>
+<ref-fulltext>Battjes H, European Asylum Law and International Law (Nijhoff 2006).</ref-fulltext>
+<ce:source-text>Battjes H, European Asylum Law and International Law (Nijhoff 2006).</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Extraterritoriality of the European Convention on Human Rights: Why Human Rights Depend on Jurisdiction and What Jurisdiction Amounts to</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Besson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Leiden Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>857</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Besson S, ‘The Extraterritoriality of the European Convention on Human Rights: Why Human Rights Depend on Jurisdiction and What Jurisdiction Amounts to’ (2012) 25 Leiden Journal of International Law 857.</ref-fulltext>
+<ce:source-text>Besson S, ‘The Extraterritoriality of the European Convention on Human Rights: Why Human Rights Depend on Jurisdiction and What Jurisdiction Amounts to’ (2012) 25 Leiden Journal of International Law 857.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Betts</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Collier</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge: Transforming a Broken Refugee System</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>234</first-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Penguin UK</ref-text>
+</ref-info>
+<ref-fulltext>Betts A and Collier P, Refuge: Transforming a Broken Refugee System (Penguin UK, 2017) 234.</ref-fulltext>
+<ce:source-text>Betts A and Collier P, Refuge: Transforming a Broken Refugee System (Penguin UK, 2017) 234.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Betts</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Costello</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>N.</ce:initials>
+<ce:surname>Zaun</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>A Fair Share: Refugees and Responsibility-sharing</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Delmi</ref-text>
+</ref-info>
+<ref-fulltext>Betts A, Costello C and Zaun N, A Fair Share: Refugees and Responsibility-sharing (Delmi 2017).</ref-fulltext>
+<ce:source-text>Betts A, Costello C and Zaun N, A Fair Share: Refugees and Responsibility-sharing (Delmi 2017).</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The State of the Right of Asylum in International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Boed</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Duke Journal of Comparative and International Law</ref-sourcetitle>
+<ref-publicationyear first="1994" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Boed R, ‘The State of the Right of Asylum in International Law’ (1994) 5 Duke Journal of Comparative and International Law 1.</ref-fulltext>
+<ce:source-text>Boed R, ‘The State of the Right of Asylum in International Law’ (1994) 5 Duke Journal of Comparative and International Law 1.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Establishing State Responsibility for Breaching Human Rights Treaty Obligations: Avenues under UN Human Rights Treaties</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Boerefijn</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Netherlands International Law Review</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>167</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Boerefijn I, ‘Establishing State Responsibility for Breaching Human Rights Treaty Obligations: Avenues under UN Human Rights Treaties’ (2009) 56 Netherlands International Law Review 167.</ref-fulltext>
+<ce:source-text>Boerefijn I, ‘Establishing State Responsibility for Breaching Human Rights Treaty Obligations: Avenues under UN Human Rights Treaties’ (2009) 56 Netherlands International Law Review 167.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Asylum Procedures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Á</ce:initials>
+<ce:surname>Botero</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Vedsted-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of International Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>588</first-page>
+<last-page>606</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Botero Á and Vedsted-Hansen J, ‘Asylum Procedures‘ in Foster M, McAdam J and Costello C (eds), The Oxford Handbook of International Refugee Law (Oxford University Press 2021) 588–606.</ref-fulltext>
+<ce:source-text>Botero Á and Vedsted-Hansen J, ‘Asylum Procedures‘ in Foster M, McAdam J and Costello C (eds), The Oxford Handbook of International Refugee Law (Oxford University Press 2021) 588–606.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Brownlie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Principles of Public International Law</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Brownlie I, Principles of Public International Law (7th edn, Oxford University Press 2008).</ref-fulltext>
+<ce:source-text>Brownlie I, Principles of Public International Law (7th edn, Oxford University Press 2008).</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Safe Country Notion in European Asylum Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Byrne</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Shacknove</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Harvard Human Rights Journal</ref-sourcetitle>
+<ref-publicationyear first="1996" />
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>185</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Byrne R and Shacknove A, ‘The Safe Country Notion in European Asylum Law’ (1996) 9 Harvard Human Rights Journal 185.</ref-fulltext>
+<ce:source-text>Byrne R and Shacknove A, ‘The Safe Country Notion in European Asylum Law’ (1996) 9 Harvard Human Rights Journal 185.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Fairness, Failure, and Future in the Refugee Regime</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cantor</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>627</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cantor D ‘Fairness, Failure, and Future in the Refugee Regime’ (2019) 30 International Journal of Refugee Law 627.</ref-fulltext>
+<ce:source-text>Cantor D ‘Fairness, Failure, and Future in the Refugee Regime’ (2019) 30 International Journal of Refugee Law 627.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Externalisation, Access to Territorial Asylum, and International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cantor</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>120</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cantor D and others, ‘Externalisation, Access to Territorial Asylum, and International Law’ (2022) 34 International Journal of Refugee Law 120.</ref-fulltext>
+<ce:source-text>Cantor D and others, ‘Externalisation, Access to Territorial Asylum, and International Law’ (2022) 34 International Journal of Refugee Law 120.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Carrera</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Offshoring Asylum and Migration in Australia, Spain, Tunisia and the US: Lessons learned and feasibility for the EU</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<ref-text>CEPS Research Report</ref-text>
+</ref-info>
+<ref-fulltext>Carrera S and others, ‘Offshoring Asylum and Migration in Australia, Spain, Tunisia and the US: Lessons learned and feasibility for the EU’ (CEPS Research Report, September 2018).</ref-fulltext>
+<ce:source-text>Carrera S and others, ‘Offshoring Asylum and Migration in Australia, Spain, Tunisia and the US: Lessons learned and feasibility for the EU’ (CEPS Research Report, September 2018).</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Carrera</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Guild</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Offshore Processing of Asylum Applications Out of Sight, Out of Mind?</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>CEPS</ref-text>
+</ref-info>
+<ref-fulltext>Carrera S and Guild E, Offshore Processing of Asylum Applications Out of Sight, Out of Mind? (CEPS, 2017).</ref-fulltext>
+<ce:source-text>Carrera S and Guild E, Offshore Processing of Asylum Applications Out of Sight, Out of Mind? (CEPS, 2017).</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Global Compact on Refugees: One Step Forward, Two Steps Back</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Chimni</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>630</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Chimni B, ‘Global Compact on Refugees: One Step Forward, Two Steps Back’ (2019) 30 International Journal of Refugee Law 630.</ref-fulltext>
+<ce:source-text>Chimni B, ‘Global Compact on Refugees: One Step Forward, Two Steps Back’ (2019) 30 International Journal of Refugee Law 630.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Asylum Procedures Directive and the Proliferation of Safe Country Practices: Deterrence, Deflection and the Dismantling of International Protection?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Costello</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Migration and Law</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>35</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Costello C ‘The Asylum Procedures Directive and the Proliferation of Safe Country Practices: Deterrence, Deflection and the Dismantling of International Protection?’ (2005) 7 European Journal of Migration and Law 35.</ref-fulltext>
+<ce:source-text>Costello C ‘The Asylum Procedures Directive and the Proliferation of Safe Country Practices: Deterrence, Deflection and the Dismantling of International Protection?’ (2005) 7 European Journal of Migration and Law 35.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugees and (Other) Migrants: Will the Global Compacts Ensure Safe Flight and Onward Mobility for Refugees?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Costello</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>634</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Costello C, ‘Refugees and (Other) Migrants: Will the Global Compacts Ensure Safe Flight and Onward Mobility for Refugees?’ (2019) 30 International Journal of Refugee Law 634.</ref-fulltext>
+<ce:source-text>Costello C, ‘Refugees and (Other) Migrants: Will the Global Compacts Ensure Safe Flight and Onward Mobility for Refugees?’ (2019) 30 International Journal of Refugee Law 634.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Crawford</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The International Law Commission’s Articles on State Responsibility: Introduction, Text and Commentaries</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Crawford J, The International Law Commission’s Articles on State Responsibility: Introduction, Text and Commentaries (Cambridge University Press 2002).</ref-fulltext>
+<ce:source-text>Crawford J, The International Law Commission’s Articles on State Responsibility: Introduction, Text and Commentaries (Cambridge University Press 2002).</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Crawford</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>State Responsibility: The General Part</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Crawford J State Responsibility: The General Part (Cambridge University Press 2013).</ref-fulltext>
+<ce:source-text>Crawford J State Responsibility: The General Part (Cambridge University Press 2013).</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A New Asylum Paradigm?: Globalization, Migration and the Uncertain Future of the International Refugee Regime</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Crisp</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>St Antony’s International Review</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>39</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Crisp J, ‘A New Asylum Paradigm?: Globalization, Migration and the Uncertain Future of the International Refugee Regime’ (2003) 1 St Antony’s International Review 39.</ref-fulltext>
+<ce:source-text>Crisp J, ‘A New Asylum Paradigm?: Globalization, Migration and the Uncertain Future of the International Refugee Regime’ (2003) 1 St Antony’s International Review 39.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Finding Space for Protection: An Inside Account of the Evolution of UNHCR’s Urban Refugee Policy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Crisp</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>87</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Crisp J ‘Finding Space for Protection: An Inside Account of the Evolution of UNHCR’s Urban Refugee Policy’ (2017) 33 Refuge 87.</ref-fulltext>
+<ce:source-text>Crisp J ‘Finding Space for Protection: An Inside Account of the Evolution of UNHCR’s Urban Refugee Policy’ (2017) 33 Refuge 87.</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Cruz</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Shifting responsibility: carriers’ liability in the member states of the European Union and North America</ref-sourcetitle>
+<ref-publicationyear first="1995" />
+<ref-text>Trentham Books and School of Oriental &amp; African Studies</ref-text>
+</ref-info>
+<ref-fulltext>Cruz A, Shifting responsibility: carriers’ liability in the member states of the European Union and North America (Trentham Books and School of Oriental &amp; African Studies 1995).</ref-fulltext>
+<ce:source-text>Cruz A, Shifting responsibility: carriers’ liability in the member states of the European Union and North America (Trentham Books and School of Oriental &amp; African Studies 1995).</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Da Costa</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Extraterritorial Application of Selected Human Rights Treaties</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<ref-text>Martinus Nijhoff</ref-text>
+</ref-info>
+<ref-fulltext>Da Costa K, The Extraterritorial Application of Selected Human Rights Treaties (Martinus Nijhoff 2012).</ref-fulltext>
+<ce:source-text>Da Costa K, The Extraterritorial Application of Selected Human Rights Treaties (Martinus Nijhoff 2012).</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Public Power and Preventive Responsibility: Attributing the Wrongs of International Joint Ventures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Dannenbaum</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Distribution of Responsibilities in International Law</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dannenbaum T, ‘Public Power and Preventive Responsibility: Attributing the Wrongs of International Joint Ventures’ in Nollkaemper A and Jacobs D (eds), Distribution of Responsibilities in International Law (Cambridge University Press 2015).</ref-fulltext>
+<ce:source-text>Dannenbaum T, ‘Public Power and Preventive Responsibility: Attributing the Wrongs of International Joint Ventures’ in Nollkaemper A and Jacobs D (eds), Distribution of Responsibilities in International Law (Cambridge University Press 2015).</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Detention of Australia’s Asylum Seekers in Nauru: Is Deprivation of Liberty by Any Other Name Just as Unlawful?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Dastyari</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>University of New South Wales Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<volisspag>
+<volume-issue-number>
+<vol-first>38</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>669</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dastyari A, ‘Detention of Australia’s Asylum Seekers in Nauru: Is Deprivation of Liberty by Any Other Name Just as Unlawful?’ (2015a) 38 University of New South Wales Law Journal 669.</ref-fulltext>
+<ce:source-text>Dastyari A, ‘Detention of Australia’s Asylum Seekers in Nauru: Is Deprivation of Liberty by Any Other Name Just as Unlawful?’ (2015a) 38 University of New South Wales Law Journal 669.</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Dastyari</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>United States Migrant Interdiction and the Detention of Refugees in Guantánamo Bay</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Dastyari A United States Migrant Interdiction and the Detention of Refugees in Guantánamo Bay (Cambridge University Press 2015b).</ref-fulltext>
+<ce:source-text>Dastyari A United States Migrant Interdiction and the Detention of Refugees in Guantánamo Bay (Cambridge University Press 2015b).</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Asylum at Sea: The Legality of Shipboard Refugee Status Determination Procedures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Dastyari</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Ghezelbash</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dastyari A and Ghezelbash D, ‘Asylum at Sea: The Legality of Shipboard Refugee Status Determination Procedures’ (2020) 32 International Journal of Refugee Law 1.</ref-fulltext>
+<ce:source-text>Dastyari A and Ghezelbash D, ‘Asylum at Sea: The Legality of Shipboard Refugee Status Determination Procedures’ (2020) 32 International Journal of Refugee Law 1.</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Not for Export: The Failure of Australia’s Extraterritorial Processing Regime in Papua New Guinea and the Decision of the PNG Supreme Court in Namah</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Dastyari</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>O’Sullivan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Monash University Law Review</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>308</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dastyari A and O’Sullivan M, ‘Not for Export: The Failure of Australia’s Extraterritorial Processing Regime in Papua New Guinea and the Decision of the PNG Supreme Court in Namah’ (2016) 42 Monash University Law Review 308.</ref-fulltext>
+<ce:source-text>Dastyari A and O’Sullivan M, ‘Not for Export: The Failure of Australia’s Extraterritorial Processing Regime in Papua New Guinea and the Decision of the PNG Supreme Court in Namah’ (2016) 42 Monash University Law Review 308.</ce:source-text>
+</reference>
+<reference seq="38">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.E.</ce:initials>
+<ce:surname>Davies</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Legitimising Rejection: International Refugee Law in Southeast Asia</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<ref-text>Brill</ref-text>
+</ref-info>
+<ref-fulltext>Davies SE, Legitimising Rejection: International Refugee Law in Southeast Asia (Brill 2008).</ref-fulltext>
+<ce:source-text>Davies SE, Legitimising Rejection: International Refugee Law in Southeast Asia (Brill 2008).</ce:source-text>
+</reference>
+<reference seq="39">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Closing Legal Black Holes: The Role of Extraterritorial Jurisdiction in Refugee Rights Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>de Boer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Refugee Studies</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>118</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>de Boer T, ‘Closing Legal Black Holes: The Role of Extraterritorial Jurisdiction in Refugee Rights Protection’ (2014) 28 Journal of Refugee Studies 118.</ref-fulltext>
+<ce:source-text>de Boer T, ‘Closing Legal Black Holes: The Role of Extraterritorial Jurisdiction in Refugee Rights Protection’ (2014) 28 Journal of Refugee Studies 118.</ce:source-text>
+</reference>
+<reference seq="40">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Legal Abyss of Discretion in the Resettlement of Refugees: Cherry-Picking and the Lack of Due Process in the EU</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>de Boer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Zieck</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>54</first-page>
+<last-page>85</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>de Boer T and Zieck M, ‘The Legal Abyss of Discretion in the Resettlement of Refugees: Cherry-Picking and the Lack of Due Process in the EU‘ (2020) 32(1) International Journal of Refugee Law 54–85.</ref-fulltext>
+<ce:source-text>de Boer T and Zieck M, ‘The Legal Abyss of Discretion in the Resettlement of Refugees: Cherry-Picking and the Lack of Due Process in the EU‘ (2020) 32(1) International Journal of Refugee Law 54–85.</ce:source-text>
+</reference>
+<reference seq="41">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.E.</ce:initials>
+<ce:surname>de Oliveira</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>External Processing: A Tool to Expand Protection or Further Restrict Territorial Asylum?</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<ref-text>Migration Policy Institute</ref-text>
+</ref-info>
+<ref-fulltext>de Oliveira PE and Tan NF, External Processing: A Tool to Expand Protection or Further Restrict Territorial Asylum? (Migration Policy Institute, 2023).</ref-fulltext>
+<ce:source-text>de Oliveira PE and Tan NF, External Processing: A Tool to Expand Protection or Further Restrict Territorial Asylum? (Migration Policy Institute, 2023).</ce:source-text>
+</reference>
+<reference seq="42">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Europe Beyond Its Borders: Refugee And Human Rights Protection In Extraterritorial Immigration Control</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>den Heijer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Extraterritorial Immigration Control: Legal Challenges</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>193</first-page>
+<last-page>194</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Brill</ref-text>
+</ref-info>
+<ref-fulltext>den Heijer M ‘Europe Beyond Its Borders: Refugee And Human Rights Protection In Extraterritorial Immigration Control’ in Ryan B and Mitsilegas V (eds), Extraterritorial Immigration Control: Legal Challenges (Brill 2010) 193–94.</ref-fulltext>
+<ce:source-text>den Heijer M ‘Europe Beyond Its Borders: Refugee And Human Rights Protection In Extraterritorial Immigration Control’ in Ryan B and Mitsilegas V (eds), Extraterritorial Immigration Control: Legal Challenges (Brill 2010) 193–94.</ce:source-text>
+</reference>
+<reference seq="43">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>den Heijer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Europe and Extraterritorial Asylum</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<ref-text>Bloomsbury</ref-text>
+</ref-info>
+<ref-fulltext>den Heijer M, Europe and Extraterritorial Asylum (Bloomsbury 2012).</ref-fulltext>
+<ce:source-text>den Heijer M, Europe and Extraterritorial Asylum (Bloomsbury 2012).</ce:source-text>
+</reference>
+<reference seq="44">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Shared Responsibility Before the European Court of Human Rights</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>den Heijer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Netherlands International Law Review</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<volisspag>
+<volume-issue-number>
+<vol-first>60</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>411</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>den Heijer M ‘Shared Responsibility Before the European Court of Human Rights’ (2013) 60 Netherlands International Law Review 411.</ref-fulltext>
+<ce:source-text>den Heijer M ‘Shared Responsibility Before the European Court of Human Rights’ (2013) 60 Netherlands International Law Review 411.</ce:source-text>
+</reference>
+<reference seq="45">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Practice of Shared Responsibility in Relation to Refoulement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>den Heijer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Practice of Shared Responsibility in International Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>den Heijer M ‘The Practice of Shared Responsibility in Relation to Refoulement’ (2016) in Nollkaemper A, Plakokefalos I and Schechinger J (eds), The Practice of Shared Responsibility in International Law (Cambridge University Press 2017).</ref-fulltext>
+<ce:source-text>den Heijer M ‘The Practice of Shared Responsibility in Relation to Refoulement’ (2016) in Nollkaemper A, Plakokefalos I and Schechinger J (eds), The Practice of Shared Responsibility in International Law (Cambridge University Press 2017).</ce:source-text>
+</reference>
+<reference seq="46">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Extraterritorial Human Rights and the Concept of ‘Jurisdiction’</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>den Heijer</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Lawson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Global Justice, State Duties: The Extraterritorial Scope of Economic, Social, and Cultural Rights in International Law</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>den Heijer M and Lawson R, ‘Extraterritorial Human Rights and the Concept of ‘Jurisdiction’’ in Langford M and others (eds), Global Justice, State Duties: The Extraterritorial Scope of Economic, Social, and Cultural Rights in International Law (Cambridge University Press 2013).</ref-fulltext>
+<ce:source-text>den Heijer M and Lawson R, ‘Extraterritorial Human Rights and the Concept of ‘Jurisdiction’’ in Langford M and others (eds), Global Justice, State Duties: The Extraterritorial Scope of Economic, Social, and Cultural Rights in International Law (Cambridge University Press 2013).</ce:source-text>
+</reference>
+<reference seq="47">
+<ref-info>
+<ref-title>
+<ref-titletext-english>International Cooperation and Responsibility-Sharing to Protect Refugees: What, Why and How</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Dowd</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International and Comparative Law Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>66</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>863</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Dowd R and McAdam J, ‘International Cooperation and Responsibility-Sharing to Protect Refugees: What, Why and How’ (2017) 66 International and Comparative Law Quarterly 863.</ref-fulltext>
+<ce:source-text>Dowd R and McAdam J, ‘International Cooperation and Responsibility-Sharing to Protect Refugees: What, Why and How’ (2017) 66 International and Comparative Law Quarterly 863.</ce:source-text>
+</reference>
+<reference seq="48">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Model International Mobility Convention</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Doyle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Columbia Journal of Transnational Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>56</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>219</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Doyle M, ‘The Model International Mobility Convention’ (2017) 56 Columbia Journal of Transnational Law 219.</ref-fulltext>
+<ce:source-text>Doyle M, ‘The Model International Mobility Convention’ (2017) 56 Columbia Journal of Transnational Law 219.</ce:source-text>
+</reference>
+<reference seq="49">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Human Rights, Refugees, and the Right ‘to Enjoy’ Asylum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Edwards</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>293</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Edwards A, ‘Human Rights, Refugees, and the Right ‘to Enjoy’ Asylum’ (2005) 17 International Journal of Refugee Law 293.</ref-fulltext>
+<ce:source-text>Edwards A, ‘Human Rights, Refugees, and the Right ‘to Enjoy’ Asylum’ (2005) 17 International Journal of Refugee Law 293.</ce:source-text>
+</reference>
+<reference seq="50">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mass Flight: The Case for International Asylum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Einarsen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="1995" />
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>551</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Einarsen T, ‘Mass Flight: The Case for International Asylum’ (1995) 7 International Journal of Refugee Law 551.</ref-fulltext>
+<ce:source-text>Einarsen T, ‘Mass Flight: The Case for International Asylum’ (1995) 7 International Journal of Refugee Law 551.</ce:source-text>
+</reference>
+<reference seq="51">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Outsourcing Obligations to Developing Nations: Australia’s Refugee Resettlement Agreement with Cambodia</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Failla</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Monash University Law Review</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>42</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>638</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Failla M, ‘Outsourcing Obligations to Developing Nations: Australia’s Refugee Resettlement Agreement with Cambodia’ (2016) 42 Monash University Law Review 638.</ref-fulltext>
+<ce:source-text>Failla M, ‘Outsourcing Obligations to Developing Nations: Australia’s Refugee Resettlement Agreement with Cambodia’ (2016) 42 Monash University Law Review 638.</ce:source-text>
+</reference>
+<reference seq="52">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.S.</ce:initials>
+<ce:surname>FitzGerald</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>FitzGerald DS, Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers (Oxford University Press 2019).</ref-fulltext>
+<ce:source-text>FitzGerald DS, Refuge Beyond Reach: How Rich Democracies Repel Asylum Seekers (Oxford University Press 2019).</ce:source-text>
+</reference>
+<reference seq="53">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Protection Elsewhere: The Legal Implications of Requiring Refugees to Seek Protection in Another State</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Foster</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Michigan Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>223</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Foster M, ‘Protection Elsewhere: The Legal Implications of Requiring Refugees to Seek Protection in Another State’ (2006) 28 Michigan Journal of International Law 223.</ref-fulltext>
+<ce:source-text>Foster M, ‘Protection Elsewhere: The Legal Implications of Requiring Refugees to Seek Protection in Another State’ (2006) 28 Michigan Journal of International Law 223.</ce:source-text>
+</reference>
+<reference seq="54">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Responsibility Sharing or Shifting? “Safe” Third Countries and International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Foster</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>64</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Foster M ‘Responsibility Sharing or Shifting? “Safe” Third Countries and International Law’ (2008) 25 Refuge 64.</ref-fulltext>
+<ce:source-text>Foster M ‘Responsibility Sharing or Shifting? “Safe” Third Countries and International Law’ (2008) 25 Refuge 64.</ce:source-text>
+</reference>
+<reference seq="55">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Implications of the Failed ‘Malaysian Solution’: The Australian High Court and Refugee Responsibility Sharing at International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Foster</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Melbourne Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>13</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>395</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Foster M ‘The Implications of the Failed ‘Malaysian Solution’: The Australian High Court and Refugee Responsibility Sharing at International Law’ (2012) 13 Melbourne Journal of International Law 395.</ref-fulltext>
+<ce:source-text>Foster M ‘The Implications of the Failed ‘Malaysian Solution’: The Australian High Court and Refugee Responsibility Sharing at International Law’ (2012) 13 Melbourne Journal of International Law 395.</ce:source-text>
+</reference>
+<reference seq="56">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Bringing Protection Home: Healing the Schism between International Obligations and National Safeguards Created by Extraterritorial Processing</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Frances</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>273</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Frances A, ‘Bringing Protection Home: Healing the Schism between International Obligations and National Safeguards Created by Extraterritorial Processing’ (2008) 20 International Journal of Refugee Law 273.</ref-fulltext>
+<ce:source-text>Frances A, ‘Bringing Protection Home: Healing the Schism between International Obligations and National Safeguards Created by Extraterritorial Processing’ (2008) 20 International Journal of Refugee Law 273.</ce:source-text>
+</reference>
+<reference seq="57">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Practice of Shared Responsibility in relation to Extraterritorial Refugee Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Frenzen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Practice of Shared Responsibility in International Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>3</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>506</first-page>
+<last-page>526</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Frenzen N, ‘The Practice of Shared Responsibility in relation to Extraterritorial Refugee Protection’ in Nollkaemper A, Plakokefalos I and Schechinger J (eds), The Practice of Shared Responsibility in International Law, vol 3 (Cambridge University Press 2017) 506–26.</ref-fulltext>
+<ce:source-text>Frenzen N, ‘The Practice of Shared Responsibility in relation to Extraterritorial Refugee Protection’ in Nollkaemper A, Plakokefalos I and Schechinger J (eds), The Practice of Shared Responsibility in International Law, vol 3 (Cambridge University Press 2017) 506–26.</ce:source-text>
+</reference>
+<reference seq="58">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Extraterritorialisation of Asylum and the Advent of Protection Lite</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>DIIS</ref-text>
+</ref-info>
+<ref-fulltext>Gammeltoft-Hansen T ‘The Extraterritorialisation of Asylum and the Advent of Protection Lite’ (DIIS working paper, 2007).</ref-fulltext>
+<ce:source-text>Gammeltoft-Hansen T ‘The Extraterritorialisation of Asylum and the Advent of Protection Lite’ (DIIS working paper, 2007).</ce:source-text>
+</reference>
+<reference seq="59">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Access to Asylum: International Refugee Law and the Globalisation of Migration Control</ref-sourcetitle>
+<ref-publicationyear first="2011" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Gammeltoft-Hansen T, Access to Asylum: International Refugee Law and the Globalisation of Migration Control (Cambridge University Press 2011).</ref-fulltext>
+<ce:source-text>Gammeltoft-Hansen T, Access to Asylum: International Refugee Law and the Globalisation of Migration Control (Cambridge University Press 2011).</ce:source-text>
+</reference>
+<reference seq="60">
+<ref-info>
+<ref-title>
+<ref-titletext-english>International Cooperation on Migration Control: A Legal Research Agenda</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Migration and Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+<iss-first>4</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>373</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gammeltoft-Hansen T ‘International Cooperation on Migration Control: A Legal Research Agenda’ (2018) 20(4) European Journal of Migration and Law 373.</ref-fulltext>
+<ce:source-text>Gammeltoft-Hansen T ‘International Cooperation on Migration Control: A Legal Research Agenda’ (2018) 20(4) European Journal of Migration and Law 373.</ce:source-text>
+</reference>
+<reference seq="61">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Non-Refoulement in a World of Cooperative Deterrence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Columbia Journal of Transnational Law</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>235</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gammeltoft-Hansen T and Hathaway JC, ‘Non-Refoulement in a World of Cooperative Deterrence’ (2014) 53 Columbia Journal of Transnational Law 235.</ref-fulltext>
+<ce:source-text>Gammeltoft-Hansen T and Hathaway JC, ‘Non-Refoulement in a World of Cooperative Deterrence’ (2014) 53 Columbia Journal of Transnational Law 235.</ce:source-text>
+</reference>
+<reference seq="62">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The End of the Deterrence Paradigm? Future Directions for Global Refugee Policy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal on Migration and Human Security</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>28</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Gammeltoft-Hansen T and Tan NF, ‘The End of the Deterrence Paradigm? Future Directions for Global Refugee Policy’ (2017) 5 Journal on Migration and Human Security 28.</ref-fulltext>
+<ce:source-text>Gammeltoft-Hansen T and Tan NF, ‘The End of the Deterrence Paradigm? Future Directions for Global Refugee Policy’ (2017) 5 Journal on Migration and Human Security 28.</ce:source-text>
+</reference>
+<reference seq="63">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The EU Discussions on Extraterritorial Processing: Solution or Conundrum?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Garlick</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>601</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Garlick M, ‘The EU Discussions on Extraterritorial Processing: Solution or Conundrum?’ (2006) 18 International Journal of Refugee Law 601.</ref-fulltext>
+<ce:source-text>Garlick M, ‘The EU Discussions on Extraterritorial Processing: Solution or Conundrum?’ (2006) 18 International Journal of Refugee Law 601.</ce:source-text>
+</reference>
+<reference seq="64">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Garlick</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Potential and Pitfalls of Extraterritorial Processing of Asylum Claims</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Migration Policy Institute</ref-text>
+</ref-info>
+<ref-fulltext>Garlick M The Potential and Pitfalls of Extraterritorial Processing of Asylum Claims (Migration Policy Institute, 2015).</ref-fulltext>
+<ce:source-text>Garlick M The Potential and Pitfalls of Extraterritorial Processing of Asylum Claims (Migration Policy Institute, 2015).</ce:source-text>
+</reference>
+<reference seq="65">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Future Legal Management of Mass Migration</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.I.</ce:initials>
+<ce:surname>Garvey</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Lawyer</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>121</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Garvey JI, ‘The Future Legal Management of Mass Migration’ (2018) 15 International Lawyer 121.</ref-fulltext>
+<ce:source-text>Garvey JI, ‘The Future Legal Management of Mass Migration’ (2018) 15 International Lawyer 121.</ce:source-text>
+</reference>
+<reference seq="66">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Ghezelbash</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge Lost: Asylum Law in an Interdependent World</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ghezelbash D Refuge Lost: Asylum Law in an Interdependent World (Cambridge University Press 2018).</ref-fulltext>
+<ce:source-text>Ghezelbash D Refuge Lost: Asylum Law in an Interdependent World (Cambridge University Press 2018).</ce:source-text>
+</reference>
+<reference seq="67">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Hyper-legalism and Obfuscation: How States Evade Their International Obligations Towards Refugees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Ghezelbash</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of Comparative Law</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>479</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ghezelbash D, ‘Hyper-legalism and Obfuscation: How States Evade Their International Obligations Towards Refugees’ (2020) 68 American Journal of Comparative Law 479.</ref-fulltext>
+<ce:source-text>Ghezelbash D, ‘Hyper-legalism and Obfuscation: How States Evade Their International Obligations Towards Refugees’ (2020) 68 American Journal of Comparative Law 479.</ce:source-text>
+</reference>
+<reference seq="68">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The End of the Right to Seek Asylum? COVID-19 and the Future of Refugee Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Ghezelbash</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>668</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ghezelbash D and Tan NF, ‘The End of the Right to Seek Asylum? COVID-19 and the Future of Refugee Protection’ (2020) 32 International Journal of Refugee Law 668.</ref-fulltext>
+<ce:source-text>Ghezelbash D and Tan NF, ‘The End of the Right to Seek Asylum? COVID-19 and the Future of Refugee Protection’ (2020) 32 International Journal of Refugee Law 668.</ce:source-text>
+</reference>
+<reference seq="69">
+<ref-info>
+<ref-title>
+<ref-titletext-english>State Responsibility Beyond Borders: What Legal Basis for Italy’s Push-backs to Libya?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Giuffré</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<volisspag>
+<volume-issue-number>
+<vol-first>24</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>692</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Giuffré M, ‘State Responsibility Beyond Borders: What Legal Basis for Italy’s Push-backs to Libya?’ (2013) 24 International Journal of Refugee Law 692.</ref-fulltext>
+<ce:source-text>Giuffré M, ‘State Responsibility Beyond Borders: What Legal Basis for Italy’s Push-backs to Libya?’ (2013) 24 International Journal of Refugee Law 692.</ce:source-text>
+</reference>
+<reference seq="70">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Glazebrook</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Papua New Guinea’s refugee track record and its obligations under the 2013 Regional Resettlement Arrangement with Australia</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>SSGM</ref-text>
+</ref-info>
+<ref-fulltext>Glazebrook D, ‘Papua New Guinea’s refugee track record and its obligations under the 2013 Regional Resettlement Arrangement with Australia’ (SSGM discussion paper, 2014).</ref-fulltext>
+<ce:source-text>Glazebrook D, ‘Papua New Guinea’s refugee track record and its obligations under the 2013 Regional Resettlement Arrangement with Australia’ (SSGM discussion paper, 2014).</ce:source-text>
+</reference>
+<reference seq="71">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Gleeson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Offshore: Behind the wire on Manus and Nauru</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<ref-text>NewSouth</ref-text>
+</ref-info>
+<ref-fulltext>Gleeson M, Offshore: Behind the wire on Manus and Nauru (NewSouth 2016).</ref-fulltext>
+<ce:source-text>Gleeson M, Offshore: Behind the wire on Manus and Nauru (NewSouth 2016).</ce:source-text>
+</reference>
+<reference seq="72">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Safe Country? Says Who?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="1992" />
+<volisspag>
+<volume-issue-number>
+<vol-first>4</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>248</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS, ‘Safe Country? Says Who?’ (1992) 4 International Journal of Refugee Law 248.</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS, ‘Safe Country? Says Who?’ (1992) 4 International Journal of Refugee Law 248.</ce:source-text>
+</reference>
+<reference seq="73">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Refugee in International Law</ref-sourcetitle>
+<ref-publicationyear first="1996" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS, The Refugee in International Law (2nd edn, Oxford University Press 1996).</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS, The Refugee in International Law (2nd edn, Oxford University Press 1996).</ce:source-text>
+</reference>
+<reference seq="74">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Extraterritorial Processing of Claims to Asylum or Protection: The Legal Responsibilities of States and International Organisations</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>UTS Law Review</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>26</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS, ‘The Extraterritorial Processing of Claims to Asylum or Protection: The Legal Responsibilities of States and International Organisations’ (2007) 9 UTS Law Review 26.</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS, ‘The Extraterritorial Processing of Claims to Asylum or Protection: The Legal Responsibilities of States and International Organisations’ (2007) 9 UTS Law Review 26.</ce:source-text>
+</reference>
+<reference seq="75">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The International Law of Refugee Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Refugee and Forced Migration Studies</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS, ‘The International Law of Refugee Protection’ in Fiddian-Qasmiyeh Elena and others (eds), The Oxford Handbook of Refugee and Forced Migration Studies (Oxford University Press 2014).</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS, ‘The International Law of Refugee Protection’ in Fiddian-Qasmiyeh Elena and others (eds), The Oxford Handbook of Refugee and Forced Migration Studies (Oxford University Press 2014).</ce:source-text>
+</reference>
+<reference seq="76">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Mediterranean Papers: Athens, Naples, and Istanbul</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>276</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS ‘The Mediterranean Papers: Athens, Naples, and Istanbul’ (2016) 28 International Journal of Refugee Law 276.</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS ‘The Mediterranean Papers: Athens, Naples, and Istanbul’ (2016) 28 International Journal of Refugee Law 276.</ce:source-text>
+</reference>
+<reference seq="77">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Refugee in International Law</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS and McAdam J, The Refugee in International Law (3rd edn, Oxford University Press, 2007).</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS and McAdam J, The Refugee in International Law (3rd edn, Oxford University Press, 2007).</ce:source-text>
+</reference>
+<reference seq="78">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.S.</ce:initials>
+<ce:surname>Goodwin-Gill</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Refugee in International Law</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Goodwin-Gill GS and McAdam J, The Refugee in International Law (4th edn, Oxford University Press, 2021).</ref-fulltext>
+<ce:source-text>Goodwin-Gill GS and McAdam J, The Refugee in International Law (4th edn, Oxford University Press, 2021).</ce:source-text>
+</reference>
+<reference seq="79">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Concept of ‘Safe Country’ and Expeditious Asylum Procedures: A Western European Perspective</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Hailbronner</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="1993" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>31</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hailbronner K, ‘The Concept of ‘Safe Country’ and Expeditious Asylum Procedures: A Western European Perspective’ (1993) 5 International Journal of Refugee Law 31.</ref-fulltext>
+<ce:source-text>Hailbronner K, ‘The Concept of ‘Safe Country’ and Expeditious Asylum Procedures: A Western European Perspective’ (1993) 5 International Journal of Refugee Law 31.</ce:source-text>
+</reference>
+<reference seq="80">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugee Resettlement as an Alternative to Asylum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Hashimoto</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Survey Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>37</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>162</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hashimoto N, ‘Refugee Resettlement as an Alternative to Asylum’ (2018) 37 Refugee Survey Quarterly 162.</ref-fulltext>
+<ce:source-text>Hashimoto N, ‘Refugee Resettlement as an Alternative to Asylum’ (2018) 37 Refugee Survey Quarterly 162.</ce:source-text>
+</reference>
+<reference seq="81">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Emerging Politics of Non-entree</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugees</ref-sourcetitle>
+<ref-publicationyear first="1992" />
+<volisspag>
+<volume-issue-number>
+<vol-first>91</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>40</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hathaway JC, ‘The Emerging Politics of Non-entree’ (1992) 91 Refugees 40.</ref-fulltext>
+<ce:source-text>Hathaway JC, ‘The Emerging Politics of Non-entree’ (1992) 91 Refugees 40.</ce:source-text>
+</reference>
+<reference seq="82">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Rights of Refugees under International Law</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hathaway JC The Rights of Refugees under International Law (Cambridge University Press 2005).</ref-fulltext>
+<ce:source-text>Hathaway JC The Rights of Refugees under International Law (Cambridge University Press 2005).</ce:source-text>
+</reference>
+<reference seq="83">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Why Refugee Law Still Matters</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Melbourne Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>89</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hathaway JC ‘Why Refugee Law Still Matters’ (2007) 8 Melbourne Journal of International Law 89.</ref-fulltext>
+<ce:source-text>Hathaway JC ‘Why Refugee Law Still Matters’ (2007) 8 Melbourne Journal of International Law 89.</ce:source-text>
+</reference>
+<reference seq="84">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Global Cop-Out on Refugees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>591</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hathaway JC ‘The Global Cop-Out on Refugees’ (2019) 30 International Journal of Refugee Law 591.</ref-fulltext>
+<ce:source-text>Hathaway JC ‘The Global Cop-Out on Refugees’ (2019) 30 International Journal of Refugee Law 591.</ce:source-text>
+</reference>
+<reference seq="85">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Rights of Refugees under International Law</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hathaway JC The Rights of Refugees under International Law (2 edn, Cambridge University Press 2021).</ref-fulltext>
+<ce:source-text>Hathaway JC The Rights of Refugees under International Law (2 edn, Cambridge University Press 2021).</ce:source-text>
+</reference>
+<reference seq="86">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Foster</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Law of Refugee Status</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Hathaway JC and Foster M, The Law of Refugee Status (Cambridge University Press 2014).</ref-fulltext>
+<ce:source-text>Hathaway JC and Foster M, The Law of Refugee Status (Cambridge University Press 2014).</ce:source-text>
+</reference>
+<reference seq="87">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Making International Refugee Law Relevant Again: A Proposal for Collectivized and Solution-oriented Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.C.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.A.</ce:initials>
+<ce:surname>Neve</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Harvard Human Rights Journal</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<volisspag>
+<volume-issue-number>
+<vol-first>10</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hathaway JC and Neve RA, ‘Making International Refugee Law Relevant Again: A Proposal for Collectivized and Solution-oriented Protection’ (1997) 10 Harvard Human Rights Journal.</ref-fulltext>
+<ce:source-text>Hathaway JC and Neve RA, ‘Making International Refugee Law Relevant Again: A Proposal for Collectivized and Solution-oriented Protection’ (1997) 10 Harvard Human Rights Journal.</ce:source-text>
+</reference>
+<reference seq="88">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Do Human Rights Treaties Make a Difference?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.A.</ce:initials>
+<ce:surname>Hathaway</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Yale Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1935</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hathaway OA, ‘Do Human Rights Treaties Make a Difference?’ (2002) Yale Law Journal 1935.</ref-fulltext>
+<ce:source-text>Hathaway OA, ‘Do Human Rights Treaties Make a Difference?’ (2002) Yale Law Journal 1935.</ce:source-text>
+</reference>
+<reference seq="89">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Migration and International Economic Institutions</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Haus</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Global Migrants, Global Refugees: Problems and Solutions</ref-sourcetitle>
+<ref-publicationyear first="2001" />
+<ref-text>New York, Berghahn Books</ref-text>
+</ref-info>
+<ref-fulltext>Haus L, ‘Migration and International Economic Institutions‘ in Zolberg A and Benda P (eds), Global Migrants, Global Refugees: Problems and Solutions (New York, Berghahn Books 2001).</ref-fulltext>
+<ce:source-text>Haus L, ‘Migration and International Economic Institutions‘ in Zolberg A and Benda P (eds), Global Migrants, Global Refugees: Problems and Solutions (New York, Berghahn Books 2001).</ce:source-text>
+</reference>
+<reference seq="90">
+<ref-info>
+<ref-title>
+<ref-titletext-english>In-country Programs: The Procedure and Politics of an Additional Pathway to Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Higgins</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Research Handbook on International Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>Edward Elgar</ref-text>
+</ref-info>
+<ref-fulltext>Higgins C, ‘In-country Programs: The Procedure and Politics of an Additional Pathway to Protection’ in Juss SS (ed), Research Handbook on International Refugee Law (Edward Elgar 2019).</ref-fulltext>
+<ce:source-text>Higgins C, ‘In-country Programs: The Procedure and Politics of an Additional Pathway to Protection’ in Juss SS (ed), Research Handbook on International Refugee Law (Edward Elgar 2019).</ce:source-text>
+</reference>
+<reference seq="91">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Right to Have Rights as a Right to Enter: Addressing a Lacuna in the International Refugee Protection Regime</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.L.</ce:initials>
+<ce:surname>Hirsch</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.</ce:initials>
+<ce:surname>Bell</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights Review</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>417</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Hirsch AL and Bell N, ‘The Right to Have Rights as a Right to Enter: Addressing a Lacuna in the International Refugee Protection Regime’ (2017) 18 Human Rights Review 417.</ref-fulltext>
+<ce:source-text>Hirsch AL and Bell N, ‘The Right to Have Rights as a Right to Enter: Addressing a Lacuna in the International Refugee Protection Regime’ (2017) 18 Human Rights Review 417.</ce:source-text>
+</reference>
+<reference seq="92">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Transnational Tort and Access to Remedy under the UN Guiding Principles on Business and Human Rights: Kamasaee v Commonwealth</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Holly</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Melbourne Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>19</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>52</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Holly G, ‘Transnational Tort and Access to Remedy under the UN Guiding Principles on Business and Human Rights: Kamasaee v Commonwealth’ (2018) 19 Melbourne Journal of International Law 52.</ref-fulltext>
+<ce:source-text>Holly G, ‘Transnational Tort and Access to Remedy under the UN Guiding Principles on Business and Human Rights: Kamasaee v Commonwealth’ (2018) 19 Melbourne Journal of International Law 52.</ce:source-text>
+</reference>
+<reference seq="93">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Challenges to Australia’s Offshore Detention Regime and the Limits of Strategic Tort Litigation</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Holly</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>German Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>21</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>549</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Holly G, ‘Challenges to Australia’s Offshore Detention Regime and the Limits of Strategic Tort Litigation’ (2020) 21 German Law Journal 549.</ref-fulltext>
+<ce:source-text>Holly G, ‘Challenges to Australia’s Offshore Detention Regime and the Limits of Strategic Tort Litigation’ (2020) 21 German Law Journal 549.</ce:source-text>
+</reference>
+<reference seq="94">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Protecting Syrians in Turkey: A Legal Analysis</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ineli-Ciger</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>555</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ineli-Ciger M, ‘Protecting Syrians in Turkey: A Legal Analysis’ (2017) 29 International Journal of Refugee Law 555.</ref-fulltext>
+<ce:source-text>Ineli-Ciger M, ‘Protecting Syrians in Turkey: A Legal Analysis’ (2017) 29 International Journal of Refugee Law 555.</ce:source-text>
+</reference>
+<reference seq="95">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugee Law Initiative Declaration on Externalisation and Asylum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.L.</ce:initials>
+<ce:surname>Initiative</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+<iss-first>1</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>114</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Initiative RL ‘Refugee Law Initiative Declaration on Externalisation and Asylum’ (2022) 34(1) International Journal of Refugee Law 114.</ref-fulltext>
+<ce:source-text>Initiative RL ‘Refugee Law Initiative Declaration on Externalisation and Asylum’ (2022) 34(1) International Journal of Refugee Law 114.</ce:source-text>
+</reference>
+<reference seq="96">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Jackson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Complicity in International Law</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Jackson M, Complicity in International Law (Oxford University Press 2015).</ref-fulltext>
+<ce:source-text>Jackson M, Complicity in International Law (Oxford University Press 2015).</ce:source-text>
+</reference>
+<reference seq="97">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Moving Beyond Protection Space: Developing a Law of Asylum in South-East Asia</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Jones</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Protection and the Role of Law: Conflicting Identities</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Jones M., ‘Moving Beyond Protection Space: Developing a Law of Asylum in South-East Asia’ in Kneebone S, Stevens D and Baldassar L (eds), Refugee Protection and the Role of Law: Conflicting Identities (Routledge 2014).</ref-fulltext>
+<ce:source-text>Jones M., ‘Moving Beyond Protection Space: Developing a Law of Asylum in South-East Asia’ in Kneebone S, Stevens D and Baldassar L (eds), Refugee Protection and the Role of Law: Conflicting Identities (Routledge 2014).</ce:source-text>
+</reference>
+<reference seq="98">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Transnational Operations Carried Out from a State’s Own Territory: Armed Drones and the Extraterritorial Effect of International Human Rights Conventions</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.V.</ce:initials>
+<ce:surname>Kessing</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights and the Dark Side of Globalisation: Transnational law enforcement and migration control</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>81</first-page>
+<last-page>98</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Kessing P.V., ‘Transnational Operations Carried Out from a State’s Own Territory: Armed Drones and the Extraterritorial Effect of International Human Rights Conventions’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational law enforcement and migration control (Routledge 2017) 81–98.</ref-fulltext>
+<ce:source-text>Kessing P.V., ‘Transnational Operations Carried Out from a State’s Own Territory: Armed Drones and the Extraterritorial Effect of International Human Rights Conventions’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational law enforcement and migration control (Routledge 2017) 81–98.</ce:source-text>
+</reference>
+<reference seq="99">
+<ref-info>
+<ref-title>
+<ref-titletext-english>“Crisis Rhetoric” and Derogations from the AFSJ: Is EU Asylum Policy Discriminatory or does its Implementation Reflect the Rule of Law?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kienast</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cuadernos Europeos de Deusto</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>117</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kienast J, ‘“Crisis Rhetoric” and Derogations from the AFSJ: Is EU Asylum Policy Discriminatory or does its Implementation Reflect the Rule of Law?’ (2022) 6 Cuadernos Europeos de Deusto 117.</ref-fulltext>
+<ce:source-text>Kienast J, ‘“Crisis Rhetoric” and Derogations from the AFSJ: Is EU Asylum Policy Discriminatory or does its Implementation Reflect the Rule of Law?’ (2022) 6 Cuadernos Europeos de Deusto 117.</ce:source-text>
+</reference>
+<reference seq="100">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Assessing Australia’s Push Back the Boats Policy Under International Law: Legality and Accountability for Maritime Interceptions of Irregular Migrants</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Klein</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Melbourne Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>414</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Klein N, ‘Assessing Australia’s Push Back the Boats Policy Under International Law: Legality and Accountability for Maritime Interceptions of Irregular Migrants’ (2014) 15 Melbourne Journal of International Law 414.</ref-fulltext>
+<ce:source-text>Klein N, ‘Assessing Australia’s Push Back the Boats Policy Under International Law: Legality and Accountability for Maritime Interceptions of Irregular Migrants’ (2014) 15 Melbourne Journal of International Law 414.</ce:source-text>
+</reference>
+<reference seq="101">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Concept Of State Jurisdiction And The Applicability Of The Non-Refoulement Principle To Extraterritorial Interception Measures</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Klug</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Howe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Extraterrestrial Immigration Control</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<ref-text>Brill</ref-text>
+</ref-info>
+<ref-fulltext>Klug A and Howe T, ‘The Concept Of State Jurisdiction And The Applicability Of The Non-Refoulement Principle To Extraterritorial Interception Measures’ in Ryan B and Mitsilegas V (eds), Extraterritorial Immigration Control (Brill 2010).</ref-fulltext>
+<ce:source-text>Klug A and Howe T, ‘The Concept Of State Jurisdiction And The Applicability Of The Non-Refoulement Principle To Extraterritorial Interception Measures’ in Ryan B and Mitsilegas V (eds), Extraterritorial Immigration Control (Brill 2010).</ce:source-text>
+</reference>
+<reference seq="102">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Pacific Plan: The Provision of ‘Effective Protection’?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kneebone</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>696</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Kneebone S, ‘The Pacific Plan: The Provision of ‘Effective Protection’?’ (2006) 18 International Journal of Refugee Law 696.</ref-fulltext>
+<ce:source-text>Kneebone S, ‘The Pacific Plan: The Provision of ‘Effective Protection’?’ (2006) 18 International Journal of Refugee Law 696.</ce:source-text>
+</reference>
+<reference seq="103">
+<ref-info>
+<ref-title>
+<ref-titletext-english>America’s Offshore Refugee Camps</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.H.</ce:initials>
+<ce:surname>Koh</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>University of Richmond Law Review</ref-sourcetitle>
+<ref-publicationyear first="1994" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>139</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Koh HH, ‘America’s Offshore Refugee Camps’ (1994) 29 University of Richmond Law Review 139.</ref-fulltext>
+<ce:source-text>Koh HH, ‘America’s Offshore Refugee Camps’ (1994) 29 University of Richmond Law Review 139.</ce:source-text>
+</reference>
+<reference seq="104">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Who is Doing Asylum in Niger?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Lambert</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Anthropologie &amp; Développement N° 51, 2020: Dossier–Perspectives Ouest-africaines Sur Les Politiques Migratoires Et Sécuritaires Européennes</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>85</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lambert L “Who is Doing Asylum in Niger?.” Anthropologie &amp; Développement N° 51, 2020: Dossier–Perspectives Ouest-africaines Sur Les Politiques Migratoires Et Sécuritaires Européennes (2020) 85.</ref-fulltext>
+<ce:source-text>Lambert L “Who is Doing Asylum in Niger?.” Anthropologie &amp; Développement N° 51, 2020: Dossier–Perspectives Ouest-africaines Sur Les Politiques Migratoires Et Sécuritaires Européennes (2020) 85.</ce:source-text>
+</reference>
+<reference seq="105">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Extraterritorial Asylum Processing: The Libya-Niger Emergency Transit Mechanism</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Lambert</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Forced Migration Review</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>18</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lambert L, ‘Extraterritorial Asylum Processing: The Libya-Niger Emergency Transit Mechanism’ (2021) 68 Forced Migration Review 18.</ref-fulltext>
+<ce:source-text>Lambert L, ‘Extraterritorial Asylum Processing: The Libya-Niger Emergency Transit Mechanism’ (2021) 68 Forced Migration Review 18.</ce:source-text>
+</reference>
+<reference seq="106">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Complicity in an Internationally Wrongful Act</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Lanovoy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>134</first-page>
+<last-page>168</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Lanovoy V, ‘Complicity in an Internationally Wrongful Act‘ in Nollkaemper A and Plakokefalos I (eds), Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art (Cambridge University Press 2014) 134–68.</ref-fulltext>
+<ce:source-text>Lanovoy V, ‘Complicity in an Internationally Wrongful Act‘ in Nollkaemper A and Plakokefalos I (eds), Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art (Cambridge University Press 2014) 134–68.</ce:source-text>
+</reference>
+<reference seq="107">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Life after Bankovic: On the Extraterritorial Application of the European Convention on Human Rights</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Lawson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Extraterrestrial Application of Human Rights Treaties</ref-sourcetitle>
+<ref-publicationyear first="2004" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>83</first-page>
+<last-page>123</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Intersentia</ref-text>
+</ref-info>
+<ref-fulltext>Lawson R, ‘Life after Bankovic: On the Extraterritorial Application of the European Convention on Human Rights’ in Coomans F and Kamminga MT (eds), Extraterritorial Application of Human Rights Treaties (Intersentia 2004) 83–123.</ref-fulltext>
+<ce:source-text>Lawson R, ‘Life after Bankovic: On the Extraterritorial Application of the European Convention on Human Rights’ in Coomans F and Kamminga MT (eds), Extraterritorial Application of Human Rights Treaties (Intersentia 2004) 83–123.</ce:source-text>
+</reference>
+<reference seq="108">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Secondary Refugee Movements and the Return of Asylum Seekers to Third Countries: The Meaning of Effective Protection</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.H.</ce:initials>
+<ce:surname>Legomsky</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>567</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Legomsky SH, ‘Secondary Refugee Movements and the Return of Asylum Seekers to Third Countries: The Meaning of Effective Protection’ (2003) 15 International Journal of Refugee Law 567.</ref-fulltext>
+<ce:source-text>Legomsky SH, ‘Secondary Refugee Movements and the Return of Asylum Seekers to Third Countries: The Meaning of Effective Protection’ (2003) 15 International Journal of Refugee Law 567.</ce:source-text>
+</reference>
+<reference seq="109">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Manufacturing Displacement. Externalization and Postcoloniality in European Migration Control</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Lemberg-Pedersen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Global Affairs</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+<iss-first>3</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>247</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Lemberg-Pedersen M, ‘Manufacturing Displacement. Externalization and Postcoloniality in European Migration Control’ (2019) 5(3) Global Affairs 247.</ref-fulltext>
+<ce:source-text>Lemberg-Pedersen M, ‘Manufacturing Displacement. Externalization and Postcoloniality in European Migration Control’ (2019) 5(3) Global Affairs 247.</ce:source-text>
+</reference>
+<reference seq="110">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Extra-territorial Processing of Asylum Claims</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Léonard</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Kaunert</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Forced Migration Review</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>48</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Léonard S and Kaunert C, ‘The Extra-territorial Processing of Asylum Claims‘ (2016) Forced Migration Review 48.</ref-fulltext>
+<ce:source-text>Léonard S and Kaunert C, ‘The Extra-territorial Processing of Asylum Claims‘ (2016) Forced Migration Review 48.</ce:source-text>
+</reference>
+<reference seq="111">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Some Observations on the Legal Responsibility of States and International Organizations in the Extraterritorial Processing of Asylum Claims</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Liguori</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Italian Yearbook of International Law</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>135</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Liguori A, ‘Some Observations on the Legal Responsibility of States and International Organizations in the Extraterritorial Processing of Asylum Claims’ (2016) 25 The Italian Yearbook of International Law 135.</ref-fulltext>
+<ce:source-text>Liguori A, ‘Some Observations on the Legal Responsibility of States and International Organizations in the Extraterritorial Processing of Asylum Claims’ (2016) 25 The Italian Yearbook of International Law 135.</ce:source-text>
+</reference>
+<reference seq="112">
+<ref-info>
+<ref-title>
+<ref-titletext-english>State Responsibility and the Primary-secondary Rules Terminology – The Role of Language for an Understanding of the International Legal System</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>U.</ce:initials>
+<ce:surname>Linderfalk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nordic Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<volisspag>
+<volume-issue-number>
+<vol-first>78</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>53</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Linderfalk U, ‘State Responsibility and the Primary-secondary Rules Terminology – The Role of Language for an Understanding of the International Legal System’ (2009) 78 Nordic Journal of International Law 53.</ref-fulltext>
+<ce:source-text>Linderfalk U, ‘State Responsibility and the Primary-secondary Rules Terminology – The Role of Language for an Understanding of the International Legal System’ (2009) 78 Nordic Journal of International Law 53.</ce:source-text>
+</reference>
+<reference seq="113">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Maritime Legal Black Holes: Migration and Rightlessness in International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>I.</ce:initials>
+<ce:surname>Mann</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>347</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mann I, ‘Maritime Legal Black Holes: Migration and Rightlessness in International Law’ (2017) 29 European Journal of International Law 347.</ref-fulltext>
+<ce:source-text>Mann I, ‘Maritime Legal Black Holes: Migration and Rightlessness in International Law’ (2017) 29 European Journal of International Law 347.</ce:source-text>
+</reference>
+<reference seq="114">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Right to Leave by Sea: Legal Limits on EU Migration Control by Third Countries</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Markard</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>27</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>591</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Markard N, ‘The Right to Leave by Sea: Legal Limits on EU Migration Control by Third Countries’ (2016) 27 European Journal of International Law 591.</ref-fulltext>
+<ce:source-text>Markard N, ‘The Right to Leave by Sea: Legal Limits on EU Migration Control by Third Countries’ (2016) 27 European Journal of International Law 591.</ce:source-text>
+</reference>
+<reference seq="115">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Australian Refugee Protection in the Wake of the Tampa</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Mathew</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>American Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2002" />
+<volisspag>
+<volume-issue-number>
+<vol-first>96</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>661</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Mathew P, ‘Australian Refugee Protection in the Wake of the Tampa’ (2002) 96 American Journal of International Law 661.</ref-fulltext>
+<ce:source-text>Mathew P, ‘Australian Refugee Protection in the Wake of the Tampa’ (2002) 96 American Journal of International Law 661.</ce:source-text>
+</reference>
+<reference seq="116">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Mathew</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Harley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugees, Regionalism and Responsibility</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<ref-text>Edward Elgar</ref-text>
+</ref-info>
+<ref-fulltext>Mathew P and Harley T, Refugees, Regionalism and Responsibility (Edward Elgar 2016).</ref-fulltext>
+<ce:source-text>Mathew P and Harley T, Refugees, Regionalism and Responsibility (Edward Elgar 2016).</ce:source-text>
+</reference>
+<reference seq="117">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Complementary Protection in International Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>McAdam J, Complementary Protection in International Refugee Law (Oxford University Press 2007).</ref-fulltext>
+<ce:source-text>McAdam J, Complementary Protection in International Refugee Law (Oxford University Press 2007).</ce:source-text>
+</reference>
+<reference seq="118">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Extraterritorial processing in Europe</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<ref-text>Kaldor Centre for International Refugee Law Policy Brief</ref-text>
+</ref-info>
+<ref-fulltext>McAdam J, Extraterritorial processing in Europe (Kaldor Centre for International Refugee Law Policy Brief, 2015).</ref-fulltext>
+<ce:source-text>McAdam J, Extraterritorial processing in Europe (Kaldor Centre for International Refugee Law Policy Brief, 2015).</ce:source-text>
+</reference>
+<reference seq="119">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Enduring Relevance of the 1951 Refugee Convention</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>McAdam J ‘The Enduring Relevance of the 1951 Refugee Convention’ (2017) 29 International Journal of Refugee Law 1.</ref-fulltext>
+<ce:source-text>McAdam J ‘The Enduring Relevance of the 1951 Refugee Convention’ (2017) 29 International Journal of Refugee Law 1.</ce:source-text>
+</reference>
+<reference seq="120">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugee Protection and the Art of the Deal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>McConnachie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Human Rights Practice</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>9</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>190</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>McConnachie K, ‘Refugee Protection and the Art of the Deal’ (2017) 9 Journal of Human Rights Practice 190.</ref-fulltext>
+<ce:source-text>McConnachie K, ‘Refugee Protection and the Art of the Deal’ (2017) 9 Journal of Human Rights Practice 190.</ce:source-text>
+</reference>
+<reference seq="121">
+<ref-info>
+<ref-title>
+<ref-titletext-english>‘It Would Be Okay If They Came through the Proper Channels’: Community Perceptions and Attitudes toward Asylum Seekers in Australia</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.H.</ce:initials>
+<ce:surname>McKay</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>S.L.</ce:initials>
+<ce:surname>Thomas</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:surname>Kneebone</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Refugee Studies</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>25</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>113</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>McKay FH, Thomas SL and Kneebone S, ‘‘It Would Be Okay If They Came through the Proper Channels’: Community Perceptions and Attitudes toward Asylum Seekers in Australia’ (2012) 25 Journal of Refugee Studies 113.</ref-fulltext>
+<ce:source-text>McKay FH, Thomas SL and Kneebone S, ‘‘It Would Be Okay If They Came through the Proper Channels’: Community Perceptions and Attitudes toward Asylum Seekers in Australia’ (2012) 25 Journal of Refugee Studies 113.</ce:source-text>
+</reference>
+<reference seq="122">
+<ref-info>
+<ref-title>
+<ref-titletext-english>From Compromise to Principle: Clarifying the Concept of State Jurisdiction in Human Rights Treaties</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Milanovic</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights Law Review</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<volisspag>
+<volume-issue-number>
+<vol-first>8</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>411</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Milanovic M ‘From Compromise to Principle: Clarifying the Concept of State Jurisdiction in Human Rights Treaties’ (2008) 8 Human Rights Law Review 411.</ref-fulltext>
+<ce:source-text>Milanovic M ‘From Compromise to Principle: Clarifying the Concept of State Jurisdiction in Human Rights Treaties’ (2008) 8 Human Rights Law Review 411.</ce:source-text>
+</reference>
+<reference seq="123">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Al-Skeini and Al-Jedda in Strasbourg</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Milanovic</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>23</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>121</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Milanovic M, ‘Al-Skeini and Al-Jedda in Strasbourg’ (2012) 23 European Journal of International Law 121.</ref-fulltext>
+<ce:source-text>Milanovic M, ‘Al-Skeini and Al-Jedda in Strasbourg’ (2012) 23 European Journal of International Law 121.</ce:source-text>
+</reference>
+<reference seq="124">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Jurisdiction and Responsibility: Trends in the Jurisprudence of the Strasbourg Court</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Milanovic</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Convention on Human Rights and General International Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Milanovic M ‘Jurisdiction and Responsibility: Trends in the Jurisprudence of the Strasbourg Court’ in Aaken Av and Motoc I (eds), European Convention on Human Rights and General International Law (Oxford University Press 2018).</ref-fulltext>
+<ce:source-text>Milanovic M ‘Jurisdiction and Responsibility: Trends in the Jurisprudence of the Strasbourg Court’ in Aaken Av and Motoc I (eds), European Convention on Human Rights and General International Law (Oxford University Press 2018).</ce:source-text>
+</reference>
+<reference seq="125">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Moodley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Rethinking “Regional Processing”: Could the Lessons Learned from the Comprehensive Plan of Action for Indochinese Refugees (CPA) Offer a Roadmap for International Cooperation in Response to ‘Regional’ Refugee Situations?</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<ref-text>UNSW</ref-text>
+</ref-info>
+<ref-fulltext>Moodley R, Rethinking “Regional Processing”: Could the Lessons Learned from the Comprehensive Plan of Action for Indochinese Refugees (CPA) Offer a Roadmap for International Cooperation in Response to ‘Regional’ Refugee Situations? (UNSW Law Research Paper, 2022).</ref-fulltext>
+<ce:source-text>Moodley R, Rethinking “Regional Processing”: Could the Lessons Learned from the Comprehensive Plan of Action for Indochinese Refugees (CPA) Offer a Roadmap for International Cooperation in Response to ‘Regional’ Refugee Situations? (UNSW Law Research Paper, 2022).</ce:source-text>
+</reference>
+<reference seq="126">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Moodley</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Regional Processing by the European Union - A Bridge Over Troubled Water?</ref-sourcetitle>
+<ref-publicationyear first="2024" />
+<ref-text>UNSW</ref-text>
+</ref-info>
+<ref-fulltext>Moodley R, Regional Processing by the European Union - A Bridge Over Troubled Water? (UNSW, 2024).</ref-fulltext>
+<ce:source-text>Moodley R, Regional Processing by the European Union - A Bridge Over Troubled Water? (UNSW, 2024).</ce:source-text>
+</reference>
+<reference seq="127">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Rise of Consensual Containment: From “Contactless Control” to “Contactless Responsibility” for Migratory Flows</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Moreno-Lax</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Giuffré</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Research Handbook on International Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<ref-text>Elgar Elgar</ref-text>
+</ref-info>
+<ref-fulltext>Moreno-Lax V and Giuffré M, ‘The Rise of Consensual Containment: From “Contactless Control” to “Contactless Responsibility” for Migratory Flows’ in Juss S (ed), Research Handbook on International Refugee Law (Elgar Elgar, 2019).</ref-fulltext>
+<ce:source-text>Moreno-Lax V and Giuffré M, ‘The Rise of Consensual Containment: From “Contactless Control” to “Contactless Responsibility” for Migratory Flows’ in Juss S (ed), Research Handbook on International Refugee Law (Elgar Elgar, 2019).</ce:source-text>
+</reference>
+<reference seq="128">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Comparing Cooperation on Migration Control: Italy–Libya and Australia–Indonesia</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Mussi</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Irish Yearbook of International Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Hart-Bloomsbury</ref-text>
+</ref-info>
+<ref-fulltext>Mussi F and Tan NF, ‘Comparing Cooperation on Migration Control: Italy–Libya and Australia–Indonesia’ in Mullally S (ed), Irish Yearbook of International Law (Hart-Bloomsbury 2017).</ref-fulltext>
+<ce:source-text>Mussi F and Tan NF, ‘Comparing Cooperation on Migration Control: Italy–Libya and Australia–Indonesia’ in Mullally S (ed), Irish Yearbook of International Law (Hart-Bloomsbury 2017).</ce:source-text>
+</reference>
+<reference seq="129">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Netherlands Advisory Committee on Migration Affairs</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>External Processing: Conditions applying to the Processing of Asylum Applications outside the European Union</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+</ref-info>
+<ref-fulltext>Netherlands Advisory Committee on Migration Affairs, External Processing: Conditions applying to the Processing of Asylum Applications outside the European Union (Advisory Report No 32, 2010).</ref-fulltext>
+<ce:source-text>Netherlands Advisory Committee on Migration Affairs, External Processing: Conditions applying to the Processing of Asylum Applications outside the European Union (Advisory Report No 32, 2010).</ce:source-text>
+</reference>
+<reference seq="130">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugee Externalisation Policies: What We Have Learnt and Where Are We Going?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Nethery</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Dastyari</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Externalisation Policies: Responsibility, Legitimacy and Accountability</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>209</first-page>
+<last-page>218</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Nethery A and Dastyari A, ‘Refugee Externalisation Policies: What We Have Learnt and Where Are We Going?’ in Azadeh Dastyari, Amy Nethery and Asher Hirsch (eds), Refugee Externalisation Policies: Responsibility, Legitimacy and Accountability (Routledge 2022) 209–18.</ref-fulltext>
+<ce:source-text>Nethery A and Dastyari A, ‘Refugee Externalisation Policies: What We Have Learnt and Where Are We Going?’ in Azadeh Dastyari, Amy Nethery and Asher Hirsch (eds), Refugee Externalisation Policies: Responsibility, Legitimacy and Accountability (Routledge 2022) 209–18.</ce:source-text>
+</reference>
+<reference seq="131">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Secrecy and Human Rights Abuse in Australia’s Offshore Immigration Detention Centres</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Nethery</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Holman</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The International Journal of Human Rights</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nethery A and Holman R, ‘Secrecy and Human Rights Abuse in Australia’s Offshore Immigration Detention Centres’ (2016) 20 The International Journal of Human Rights.</ref-fulltext>
+<ce:source-text>Nethery A and Holman R, ‘Secrecy and Human Rights Abuse in Australia’s Offshore Immigration Detention Centres’ (2016) 20 The International Journal of Human Rights.</ce:source-text>
+</reference>
+<reference seq="132">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Noll</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Negotiating Asylum: The EU Acquis, Extraterritorial Protection and the Common Market of Deflection</ref-sourcetitle>
+<ref-publicationyear first="2000" />
+<ref-text>Martinus Nijhoff</ref-text>
+</ref-info>
+<ref-fulltext>Noll G, Negotiating Asylum: The EU Acquis, Extraterritorial Protection and the Common Market of Deflection (Martinus Nijhoff 2000).</ref-fulltext>
+<ce:source-text>Noll G, Negotiating Asylum: The EU Acquis, Extraterritorial Protection and the Common Market of Deflection (Martinus Nijhoff 2000).</ce:source-text>
+</reference>
+<reference seq="133">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Risky Games? A Theoretical Approach to Burden-Sharing in the Asylum Field</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Noll</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Refugee Studies</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<volisspag>
+<volume-issue-number>
+<vol-first>16</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>236</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Noll G. ‘Risky Games? A Theoretical Approach to Burden-Sharing in the Asylum Field’ (2003a) 16 Journal of Refugee Studies 236.</ref-fulltext>
+<ce:source-text>Noll G. ‘Risky Games? A Theoretical Approach to Burden-Sharing in the Asylum Field’ (2003a) 16 Journal of Refugee Studies 236.</ce:source-text>
+</reference>
+<reference seq="134">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Visions of the Exceptional: Legal and Theoretical Issues Raised by Transit Processing Centres and Protection Zones</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Noll</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Migration and Law</ref-sourcetitle>
+<ref-publicationyear first="2003" />
+<volisspag>
+<volume-issue-number>
+<vol-first>5</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>303</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Noll G. ‘Visions of the Exceptional: Legal and Theoretical Issues Raised by Transit Processing Centres and Protection Zones’ (2003b) 5 European Journal of Migration and Law 303.</ref-fulltext>
+<ce:source-text>Noll G. ‘Visions of the Exceptional: Legal and Theoretical Issues Raised by Transit Processing Centres and Protection Zones’ (2003b) 5 European Journal of Migration and Law 303.</ce:source-text>
+</reference>
+<reference seq="135">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Non-Communitarians: Refugee and Asylum Policies</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Noll</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Vedsted-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The EU and Human Rights</ref-sourcetitle>
+<ref-publicationyear first="1999" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Noll G and Vedsted-Hansen J, ‘Non-Communitarians: Refugee and Asylum Policies’ in Alston P, Bustelo M and Heenan J (eds), The EU and Human Rights (Oxford University Press 1999).</ref-fulltext>
+<ce:source-text>Noll G and Vedsted-Hansen J, ‘Non-Communitarians: Refugee and Asylum Policies’ in Alston P, Bustelo M and Heenan J (eds), The EU and Human Rights (Oxford University Press 1999).</ce:source-text>
+</reference>
+<reference seq="136">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Introduction</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Nollkaemper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Nollkaemper A, ‘Introduction’ in Nollkaemper A and Plakokefalos I (eds), Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art (Cambridge University Press 2014).</ref-fulltext>
+<ce:source-text>Nollkaemper A, ‘Introduction’ in Nollkaemper A and Plakokefalos I (eds), Principles of Shared Responsibility in International Law: An Appraisal of the State of the Art (Cambridge University Press 2014).</ce:source-text>
+</reference>
+<reference seq="137">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Shared Responsibility for Human Rights Violations: A Relational Account</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Nollkaemper</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Nollkaemper A, ‘Shared Responsibility for Human Rights Violations: A Relational Account’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control (Routledge 2017).</ref-fulltext>
+<ce:source-text>Nollkaemper A, ‘Shared Responsibility for Human Rights Violations: A Relational Account’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control (Routledge 2017).</ce:source-text>
+</reference>
+<reference seq="138">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Shared Responsibility in International Law: A Conceptual Framework</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Nollkaemper</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Jacobs</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Michigan Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>34</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>359</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nollkaemper A and Jacobs D, ‘Shared Responsibility in International Law: A Conceptual Framework’ (2012) 34 Michigan Journal of International Law 359.</ref-fulltext>
+<ce:source-text>Nollkaemper A and Jacobs D, ‘Shared Responsibility in International Law: A Conceptual Framework’ (2012) 34 Michigan Journal of International Law 359.</ce:source-text>
+</reference>
+<reference seq="139">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Equivocal Helpers—Complicit States, Mixed Messages and International Law</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Nolte</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>H.P.</ce:initials>
+<ce:surname>Aust</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International and Comparative Law Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<volisspag>
+<volume-issue-number>
+<vol-first>58</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Nolte G and Aust HP, ‘Equivocal Helpers—Complicit States, Mixed Messages and International Law’ (2009) 58 International and Comparative Law Quarterly 1.</ref-fulltext>
+<ce:source-text>Nolte G and Aust HP, ‘Equivocal Helpers—Complicit States, Mixed Messages and International Law’ (2009) 58 International and Comparative Law Quarterly 1.</ce:source-text>
+</reference>
+<reference seq="140">
+<ref-info>
+<ref-title>
+<ref-titletext-english>State Responsibility and the Principle of Joint and Several Liability</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.E.</ce:initials>
+<ce:surname>Noyes</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>B.D.</ce:initials>
+<ce:surname>Smith</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Yale Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="1988" />
+<volisspag>
+<volume-issue-number>
+<vol-first>13</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>225</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Noyes JE and Smith BD, ‘State Responsibility and the Principle of Joint and Several Liability’ (1988) 13 Yale Journal of International Law 225.</ref-fulltext>
+<ce:source-text>Noyes JE and Smith BD, ‘State Responsibility and the Principle of Joint and Several Liability’ (1988) 13 Yale Journal of International Law 225.</ce:source-text>
+</reference>
+<reference seq="141">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Ethics of Resettlement: Australia and the Asia–Pacific Region</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>O’Sullivan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The International Journal of Human Rights</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>241</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>O’Sullivan M, ‘The Ethics of Resettlement: Australia and the Asia–Pacific Region’ (2015) 20 The International Journal of Human Rights 241.</ref-fulltext>
+<ce:source-text>O’Sullivan M, ‘The Ethics of Resettlement: Australia and the Asia–Pacific Region’ (2015) 20 The International Journal of Human Rights 241.</ce:source-text>
+</reference>
+<reference seq="142">
+<ref-info>
+<ref-title>
+<ref-titletext-english>State Responsibility for Complicity in Genocide</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Palchetti</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The UN Genocide Convention: A Commentary</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Palchetti P, ‘State Responsibility for Complicity in Genocide’ in Paola Gaeta (ed), The UN Genocide Convention: A Commentary (Oxford University Press 2009).</ref-fulltext>
+<ce:source-text>Palchetti P, ‘State Responsibility for Complicity in Genocide’ in Paola Gaeta (ed), The UN Genocide Convention: A Commentary (Oxford University Press 2009).</ce:source-text>
+</reference>
+<reference seq="143">
+<ref-info>
+<ref-title>
+<ref-titletext-english>New Deterrence Scripts in Australia’s Rejuvenated Offshore Detention Regime for Asylum Seekers</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Pickering</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Weber</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Law &amp; Social Inquiry</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>39</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1006</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Pickering S and Weber L, ‘New Deterrence Scripts in Australia’s Rejuvenated Offshore Detention Regime for Asylum Seekers’ (2014) 39 Law &amp; Social Inquiry 1006.</ref-fulltext>
+<ce:source-text>Pickering S and Weber L, ‘New Deterrence Scripts in Australia’s Rejuvenated Offshore Detention Regime for Asylum Seekers’ (2014) 39 Law &amp; Social Inquiry 1006.</ce:source-text>
+</reference>
+<reference seq="144">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Popjoy</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Child in International Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Popjoy JM, The Child in International Refugee Law (Cambridge University Press 2017).</ref-fulltext>
+<ce:source-text>Popjoy JM, The Child in International Refugee Law (Cambridge University Press 2017).</ce:source-text>
+</reference>
+<reference seq="145">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Comprehensive Plan of Action for Indochinese Refugees, 1989–1997: Sharing the Burden and Passing the Buck</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>W.C.</ce:initials>
+<ce:surname>Robinson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Journal of Refugee Studies</ref-sourcetitle>
+<ref-publicationyear first="2004" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>319</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Robinson WC, ‘The Comprehensive Plan of Action for Indochinese Refugees, 1989–1997: Sharing the Burden and Passing the Buck’ (2004) 17 Journal of Refugee Studies 319.</ref-fulltext>
+<ce:source-text>Robinson WC, ‘The Comprehensive Plan of Action for Indochinese Refugees, 1989–1997: Sharing the Burden and Passing the Buck’ (2004) 17 Journal of Refugee Studies 319.</ce:source-text>
+</reference>
+<reference seq="146">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Ryngaert</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Jurisdiction in International Law</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<ref-text>Oxford University Press</ref-text>
+</ref-info>
+<ref-fulltext>Ryngaert C, Jurisdiction in International Law (Oxford University Press 2008).</ref-fulltext>
+<ce:source-text>Ryngaert C, Jurisdiction in International Law (Oxford University Press 2008).</ce:source-text>
+</reference>
+<reference seq="147">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Denial of Human Dignity in the Age of Human Rights under Australia’s Operation Sovereign Borders</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Salyer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Contemporary Pacific</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>512</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Salyer J, ‘The Denial of Human Dignity in the Age of Human Rights under Australia’s Operation Sovereign Borders’ (2020) 32 The Contemporary Pacific 512.</ref-fulltext>
+<ce:source-text>Salyer J, ‘The Denial of Human Dignity in the Age of Human Rights under Australia’s Operation Sovereign Borders’ (2020) 32 The Contemporary Pacific 512.</ce:source-text>
+</reference>
+<reference seq="148">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Untangling Extra-Territorial Jurisdiction from International Responsibility in Jaloud v. Netherlands: Old Problem, New Solutions?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Sari</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Military Law and the Law of War Review</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>287</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sari A, ‘Untangling Extra-Territorial Jurisdiction from International Responsibility in Jaloud v. Netherlands: Old Problem, New Solutions?’ (2015) 53 Military Law and the Law of War Review 287.</ref-fulltext>
+<ce:source-text>Sari A, ‘Untangling Extra-Territorial Jurisdiction from International Responsibility in Jaloud v. Netherlands: Old Problem, New Solutions?’ (2015) 53 Military Law and the Law of War Review 287.</ce:source-text>
+</reference>
+<reference seq="149">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Cuban Migration Dilemma: An Examination of the United States’ Policy of Temporary Protection in Offshore Safe Havens</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.E.</ce:initials>
+<ce:surname>Sartori</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Georgetown Immigration Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2000" />
+<volisspag>
+<volume-issue-number>
+<vol-first>15</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>319</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sartori M.E., ‘The Cuban Migration Dilemma: An Examination of the United States’ Policy of Temporary Protection in Offshore Safe Havens’ (2000) 15 Georgetown Immigration Law Journal 319.</ref-fulltext>
+<ce:source-text>Sartori M.E., ‘The Cuban Migration Dilemma: An Examination of the United States’ Policy of Temporary Protection in Offshore Safe Havens’ (2000) 15 Georgetown Immigration Law Journal 319.</ce:source-text>
+</reference>
+<reference seq="150">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.I.</ce:initials>
+<ce:surname>Schoenholtz</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Ramji-Nogales</ce:surname>
+</author>
+<author seq="3">
+<ce:initials>P.G.</ce:initials>
+<ce:surname>Schrag</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The End of Asylum</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<ref-text>Georgetown University Press</ref-text>
+</ref-info>
+<ref-fulltext>Schoenholtz A.I., Ramji-Nogales J. and Schrag P.G., The End of Asylum (Georgetown University Press 2021).</ref-fulltext>
+<ce:source-text>Schoenholtz A.I., Ramji-Nogales J. and Schrag P.G., The End of Asylum (Georgetown University Press 2021).</ce:source-text>
+</reference>
+<reference seq="151">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugee Burden-sharing: A Modest Proposal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Schuck</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Yale Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="1997" />
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>243</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Schuck P.H., ‘Refugee Burden-sharing: A Modest Proposal’ (1997) 22 Yale Journal of International Law 243.</ref-fulltext>
+<ce:source-text>Schuck P.H., ‘Refugee Burden-sharing: A Modest Proposal’ (1997) 22 Yale Journal of International Law 243.</ce:source-text>
+</reference>
+<reference seq="152">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.H.</ce:initials>
+<ce:surname>Schuck</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Burden-Sharing: A Modest Proposal Fifteen Years Later?</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>John M. Olin Center for Studies in Law, Economics, and Public Policy</ref-text>
+</ref-info>
+<ref-fulltext>Schuck P.H., ‘Refugee Burden-Sharing: A Modest Proposal Fifteen Years Later?’ (John M. Olin Center for Studies in Law, Economics, and Public Policy, Research Paper No. 506, 2014).</ref-fulltext>
+<ce:source-text>Schuck P.H., ‘Refugee Burden-Sharing: A Modest Proposal Fifteen Years Later?’ (John M. Olin Center for Studies in Law, Economics, and Public Policy, Research Paper No. 506, 2014).</ce:source-text>
+</reference>
+<reference seq="153">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Shachar</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Shifting Border: Legal Cartographies of Migration and Mobility</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<ref-text>Manchester University Press</ref-text>
+</ref-info>
+<ref-fulltext>Shachar A, The Shifting Border: Legal Cartographies of Migration and Mobility (Manchester University Press 2020).</ref-fulltext>
+<ce:source-text>Shachar A, The Shifting Border: Legal Cartographies of Migration and Mobility (Manchester University Press 2020).</ce:source-text>
+</reference>
+<reference seq="154">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Mixed Up: International Law and the Meaning(s) of “Mixed Migration”</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Sharpe</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Survey Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>37</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>116</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Sharpe M, ‘Mixed Up: International Law and the Meaning(s) of “Mixed Migration”’ (2018) 37 Refugee Survey Quarterly 116.</ref-fulltext>
+<ce:source-text>Sharpe M, ‘Mixed Up: International Law and the Meaning(s) of “Mixed Migration”’ (2018) 37 Refugee Survey Quarterly 116.</ce:source-text>
+</reference>
+<reference seq="155">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Shaw</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Law</ref-sourcetitle>
+<ref-publicationyear first="2008" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Shaw M, International Law (Cambridge University Press 2008).</ref-fulltext>
+<ce:source-text>Shaw M, International Law (Cambridge University Press 2008).</ce:source-text>
+</reference>
+<reference seq="156">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Jurisdiction in Complicity Cases: Rendition and Refoulement in Domestic and International Courts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Shepson</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Columbia Journal of Transnational Law</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>53</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>701</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Shepson S, ‘Jurisdiction in Complicity Cases: Rendition and Refoulement in Domestic and International Courts’ (2014) 53 Columbia Journal of Transnational Law 701.</ref-fulltext>
+<ce:source-text>Shepson S, ‘Jurisdiction in Complicity Cases: Rendition and Refoulement in Domestic and International Courts’ (2014) 53 Columbia Journal of Transnational Law 701.</ce:source-text>
+</reference>
+<reference seq="157">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Global Mobility Infrastructure: Reconceptualising the Externalisation of Migration Control</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Spijkerboer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Migration and Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>452</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Spijkerboer T ‘The Global Mobility Infrastructure: Reconceptualising the Externalisation of Migration Control’ (2018) 20 European Journal of Migration and Law 452.</ref-fulltext>
+<ce:source-text>Spijkerboer T ‘The Global Mobility Infrastructure: Reconceptualising the Externalisation of Migration Control’ (2018) 20 European Journal of Migration and Law 452.</ce:source-text>
+</reference>
+<reference seq="158">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Coloniality and Case Law on the Australian Asylum Offshoring Scheme</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Spijkerboer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Migration and Border Studies</ref-sourcetitle>
+<ref-publicationyear first="2023" />
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>132</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Spijkerboer T, ‘Coloniality and Case Law on the Australian Asylum Offshoring Scheme’ (2023) 7 International Journal of Migration and Border Studies 132.</ref-fulltext>
+<ce:source-text>Spijkerboer T, ‘Coloniality and Case Law on the Australian Asylum Offshoring Scheme’ (2023) 7 International Journal of Migration and Border Studies 132.</ce:source-text>
+</reference>
+<reference seq="159">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Regional Collaborative Responses to the Global Migration Crisis: Refugee Law, Human Rights and Shared State Responsibility: The Australia-Cambodia Refugee Resettlement Agreement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Szablewska</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Ly</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Australian Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>91</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>186</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Szablewska N and Ly R, ‘Regional Collaborative Responses to the Global Migration Crisis: Refugee Law, Human Rights and Shared State Responsibility: The Australia-Cambodia Refugee Resettlement Agreement’ (2017) 91 Australian Law Journal 186.</ref-fulltext>
+<ce:source-text>Szablewska N and Ly R, ‘Regional Collaborative Responses to the Global Migration Crisis: Refugee Law, Human Rights and Shared State Responsibility: The Australia-Cambodia Refugee Resettlement Agreement’ (2017) 91 Australian Law Journal 186.</ce:source-text>
+</reference>
+<reference seq="160">
+<ref-info>
+<ref-title>
+<ref-titletext-english>State Responsibility and Migration Control: Australia’s International Deterrence Model</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Tan N.F. 'State Responsibility and Migration Control: Australia’s International Deterrence Model’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control (Routledge 2017).</ref-fulltext>
+<ce:source-text>Tan N.F. 'State Responsibility and Migration Control: Australia’s International Deterrence Model’ in Gammeltoft-Hansen T and Vedsted-Hansen J (eds), Human Rights and the Dark Side of Globalisation: Transnational Law Enforcement and Migration Control (Routledge 2017).</ce:source-text>
+</reference>
+<reference seq="161">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Cooperation on Refugees: Between Protection and Deterrence</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<ref-text>Aarhus University</ref-text>
+</ref-info>
+<ref-fulltext>Tan N.F. International Cooperation on Refugees: Between Protection and Deterrence (Aarhus University, 2018a).</ref-fulltext>
+<ce:source-text>Tan N.F. International Cooperation on Refugees: Between Protection and Deterrence (Aarhus University, 2018a).</ce:source-text>
+</reference>
+<reference seq="162">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Manus Island Regional Processing Centre: A legal taxonomy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Journal of Migration and Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>20</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>427</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tan N.F. ‘The Manus Island Regional Processing Centre: A legal taxonomy’ (2018b) 20 European Journal of Migration and Law 427.</ref-fulltext>
+<ce:source-text>Tan N.F. ‘The Manus Island Regional Processing Centre: A legal taxonomy’ (2018b) 20 European Journal of Migration and Law 427.</ce:source-text>
+</reference>
+<reference seq="163">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Conceptualising Externalisation: Still Fit for Purpose?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Forced Migration Review</ref-sourcetitle>
+<ref-publicationyear first="2021" />
+<volisspag>
+<volume-issue-number>
+<vol-first>68</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>8</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tan N.F. ‘Conceptualising Externalisation: Still Fit for Purpose?’ (2021) 68 Forced Migration Review 8.</ref-fulltext>
+<ce:source-text>Tan N.F. ‘Conceptualising Externalisation: Still Fit for Purpose?’ (2021) 68 Forced Migration Review 8.</ce:source-text>
+</reference>
+<reference seq="164">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Visions of the Realistic? Denmark’s Legal Basis for Extraterritorial Asylum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Nordic Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<volisspag>
+<volume-issue-number>
+<vol-first>91</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>172</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tan N.F. ‘Visions of the Realistic? Denmark’s Legal Basis for Extraterritorial Asylum’ (2022) 91 Nordic Journal of International Law 172.</ref-fulltext>
+<ce:source-text>Tan N.F. ‘Visions of the Realistic? Denmark’s Legal Basis for Extraterritorial Asylum’ (2022) 91 Nordic Journal of International Law 172.</ce:source-text>
+</reference>
+<reference seq="165">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A Topographical Approach to Accountability for Human Rights Violations in Migration Control</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gammeltoft-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>German Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>21</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>335</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tan N.F. and Gammeltoft-Hansen T, ‘A Topographical Approach to Accountability for Human Rights Violations in Migration Control’ (2020) 21 German Law Journal 335.</ref-fulltext>
+<ce:source-text>Tan N.F. and Gammeltoft-Hansen T, ‘A Topographical Approach to Accountability for Human Rights Violations in Migration Control’ (2020) 21 German Law Journal 335.</ce:source-text>
+</reference>
+<reference seq="166">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Michigan Guidelines on Protection Elsewhere</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kienast</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Michigan Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tan N.F. and Kienast J, ‘The Michigan Guidelines on Protection Elsewhere’ (2006) 28 Michigan Journal of International Law.</ref-fulltext>
+<ce:source-text>Tan N.F. and Kienast J, ‘The Michigan Guidelines on Protection Elsewhere’ (2006) 28 Michigan Journal of International Law.</ce:source-text>
+</reference>
+<reference seq="167">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.F.</ce:initials>
+<ce:surname>Tan</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Kienast</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Right of Asylum in Comparative Regional Perspectives: Access, Procedures and Protection</ref-sourcetitle>
+<ref-publicationyear first="2022" />
+<ref-text>ASILE</ref-text>
+</ref-info>
+<ref-fulltext>Tan N.F. and Kienast J, The Right of Asylum in Comparative Regional Perspectives: Access, Procedures and Protection (ASILE working paper, 2022).</ref-fulltext>
+<ce:source-text>Tan N.F. and Kienast J, The Right of Asylum in Comparative Regional Perspectives: Access, Procedures and Protection (ASILE working paper, 2022).</ce:source-text>
+</reference>
+<reference seq="168">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Pacific Solution or a Pacific Nightmare: The Difference between Burden Shifting and Responsibility Sharing</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Taylor</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Asian-Pacific Law &amp; Policy Journal</ref-sourcetitle>
+<ref-publicationyear first="2005" />
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Taylor S, ‘The Pacific Solution or a Pacific Nightmare: The Difference between Burden Shifting and Responsibility Sharing’ (2005) 6 Asian-Pacific Law &amp; Policy Journal 1.</ref-fulltext>
+<ce:source-text>Taylor S, ‘The Pacific Solution or a Pacific Nightmare: The Difference between Burden Shifting and Responsibility Sharing’ (2005) 6 Asian-Pacific Law &amp; Policy Journal 1.</ce:source-text>
+</reference>
+<reference seq="169">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Australian Funded Care and Maintenance of Asylum Seekers in Indonesia and PNG: All Care but No Responsibility?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Taylor</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>University of New South Wales Law Journal</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<volisspag>
+<volume-issue-number>
+<vol-first>33</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>337</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Taylor S, ‘Australian Funded Care and Maintenance of Asylum Seekers in Indonesia and PNG: All Care but No Responsibility?’ (2010) 33 University of New South Wales Law Journal 337.</ref-fulltext>
+<ce:source-text>Taylor S, ‘Australian Funded Care and Maintenance of Asylum Seekers in Indonesia and PNG: All Care but No Responsibility?’ (2010) 33 University of New South Wales Law Journal 337.</ce:source-text>
+</reference>
+<reference seq="170">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Legal Framework for Entry and Border Controls</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Thym</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>EU Immigration and Asylum Law: Commentary</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<ref-text>C.H. Beck</ref-text>
+</ref-info>
+<ref-fulltext>Thym D, ‘Legal Framework for Entry and Border Controls’ in Kay Hailbronner and Daniel Thym (eds), EU Immigration and Asylum Law: Commentary (2nd edn, C.H. Beck 2016).</ref-fulltext>
+<ce:source-text>Thym D, ‘Legal Framework for Entry and Border Controls’ in Kay Hailbronner and Daniel Thym (eds), EU Immigration and Asylum Law: Commentary (2nd edn, C.H. Beck 2016).</ce:source-text>
+</reference>
+<reference seq="171">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Legal Framework for EU Asylum Policy</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Thym</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Hailbronner</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>EU Immigration and Asylum Law: Commentary</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<page-information>
+<pages>
+<first-page>1023</first-page>
+<last-page>1053</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>C.H. Beck</ref-text>
+</ref-info>
+<ref-fulltext>Thym D and Hailbronner K, ‘Legal Framework for EU Asylum Policy’ in Hailbronner K and Thym D (eds), EU Immigration and Asylum Law: Commentary (2nd edn C.H. Beck 2016) 1023–53.</ref-fulltext>
+<ce:source-text>Thym D and Hailbronner K, ‘Legal Framework for EU Asylum Policy’ in Hailbronner K and Thym D (eds), EU Immigration and Asylum Law: Commentary (2nd edn C.H. Beck 2016) 1023–53.</ce:source-text>
+</reference>
+<reference seq="172">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Processes and Critiques of the Indo-Chinese Comprehensive Plan of Action: An Instrument of International Burden-Sharing?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Towle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2006" />
+<volisspag>
+<volume-issue-number>
+<vol-first>18</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>537</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Towle R, ‘Processes and Critiques of the Indo-Chinese Comprehensive Plan of Action: An Instrument of International Burden-Sharing?’ (2006) 18 International Journal of Refugee Law 537.</ref-fulltext>
+<ce:source-text>Towle R, ‘Processes and Critiques of the Indo-Chinese Comprehensive Plan of Action: An Instrument of International Burden-Sharing?’ (2006) 18 International Journal of Refugee Law 537.</ce:source-text>
+</reference>
+<reference seq="173">
+<ref-info>
+<ref-title>
+<ref-titletext-english>'The Makings of a Success’: The Global Compact on Refugees and the Inaugural Global Refugee Forum</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.D.</ce:initials>
+<ce:surname>Triggs</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>P.C.</ce:initials>
+<ce:surname>Wall</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2020" />
+<volisspag>
+<volume-issue-number>
+<vol-first>32</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>283</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Triggs G.D. and Wall P.C., ‘‘The Makings of a Success’: The Global Compact on Refugees and the Inaugural Global Refugee Forum’ (2020) 32 International Journal of Refugee Law 283.</ref-fulltext>
+<ce:source-text>Triggs G.D. and Wall P.C., ‘‘The Makings of a Success’: The Global Compact on Refugees and the Inaugural Global Refugee Forum’ (2020) 32 International Journal of Refugee Law 283.</ce:source-text>
+</reference>
+<reference seq="174">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Promise and Potential of the Global Compact on Refugees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Türk</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2019" />
+<volisspag>
+<volume-issue-number>
+<vol-first>30</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>575</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Türk V, ‘The Promise and Potential of the Global Compact on Refugees’ (2019) 30 International Journal of Refugee Law 575.</ref-fulltext>
+<ce:source-text>Türk V, ‘The Promise and Potential of the Global Compact on Refugees’ (2019) 30 International Journal of Refugee Law 575.</ce:source-text>
+</reference>
+<reference seq="175">
+<ref-info>
+<ref-title>
+<ref-titletext-english>From Burdens and Responsibilities to Opportunities: The Comprehensive Refugee Response Framework and a Global Compact on Refugees</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Türk</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Garlick</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>656</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Türk V and Garlick M, ‘From Burdens and Responsibilities to Opportunities: The Comprehensive Refugee Response Framework and a Global Compact on Refugees’ (2016) 28 International Journal of Refugee Law 656.</ref-fulltext>
+<ce:source-text>Türk V and Garlick M, ‘From Burdens and Responsibilities to Opportunities: The Comprehensive Refugee Response Framework and a Global Compact on Refugees’ (2016) 28 International Journal of Refugee Law 656.</ce:source-text>
+</reference>
+<reference seq="176">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Reconstructing the Effective Control Criterion in Extraterrestrial Human Rights Breaches: Direct attribution of Wrongfulness, Due Diligence, and Concurrent Responsibility</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.P.</ce:initials>
+<ce:surname>Tzevelekos</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Michigan Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<volisspag>
+<volume-issue-number>
+<vol-first>36</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>129</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Tzevelekos TP, ‘Reconstructing the Effective Control Criterion in Extraterrestrial Human Rights Breaches: Direct attribution of Wrongfulness, Due Diligence, and Concurrent Responsibility’ (2014) 36 Michigan Journal of International Law 129.</ref-fulltext>
+<ce:source-text>Tzevelekos TP, ‘Reconstructing the Effective Control Criterion in Extraterrestrial Human Rights Breaches: Direct attribution of Wrongfulness, Due Diligence, and Concurrent Responsibility’ (2014) 36 Michigan Journal of International Law 129.</ce:source-text>
+</reference>
+<reference seq="177">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Protection of Asylum Seekers in Australian-Pacific Offshore Processing: The Legal Deficit of Human Rights in a Nodal Reality</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>van Berlo</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Human Rights Law Review</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>17</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>33</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>van Berlo P, ‘The Protection of Asylum Seekers in Australian-Pacific Offshore Processing: The Legal Deficit of Human Rights in a Nodal Reality’ (2017) 17 Human Rights Law Review 33.</ref-fulltext>
+<ce:source-text>van Berlo P, ‘The Protection of Asylum Seekers in Australian-Pacific Offshore Processing: The Legal Deficit of Human Rights in a Nodal Reality’ (2017) 17 Human Rights Law Review 33.</ce:source-text>
+</reference>
+<reference seq="178">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Strategic Use of Resettlement: Changing the Face of Protection?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>van Selm</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refuge</ref-sourcetitle>
+<ref-publicationyear first="2004" />
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>39</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>van Selm J, ‘The Strategic Use of Resettlement: Changing the Face of Protection?’ (2004) 22 Refuge 39.</ref-fulltext>
+<ce:source-text>van Selm J, ‘The Strategic Use of Resettlement: Changing the Face of Protection?’ (2004) 22 Refuge 39.</ce:source-text>
+</reference>
+<reference seq="179">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Non-admission Policies and the Right to Protection: Refugees ‘Choice Versus States’ Exclusion</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Vedsted-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Refugee Rights and Realities: Evolving International Concepts and Regimes</ref-sourcetitle>
+<ref-publicationyear first="1999" />
+<ref-text>Cambridge University Press</ref-text>
+</ref-info>
+<ref-fulltext>Vedsted-Hansen J ‘Non-admission Policies and the Right to Protection: Refugees ‘Choice Versus States’ Exclusion’ in Nicholson F and Twomey P (eds), Refugee Rights and Realities: Evolving International Concepts and Regimes (Cambridge University Press 1999).</ref-fulltext>
+<ce:source-text>Vedsted-Hansen J ‘Non-admission Policies and the Right to Protection: Refugees ‘Choice Versus States’ Exclusion’ in Nicholson F and Twomey P (eds), Refugee Rights and Realities: Evolving International Concepts and Regimes (Cambridge University Press 1999).</ce:source-text>
+</reference>
+<reference seq="180">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Asylum Procedures and the Assessment of Asylum Requests</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Vedsted-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Research Handbook on International Law and Migration</ref-sourcetitle>
+<ref-publicationyear first="2014" />
+<ref-text>Edward Elgar</ref-text>
+</ref-info>
+<ref-fulltext>Vedsted-Hansen J ‘The Asylum Procedures and the Assessment of Asylum Requests’ in Chetail V and Bauloz C (eds), Research Handbook on International Law and Migration (Edward Elgar 2014).</ref-fulltext>
+<ce:source-text>Vedsted-Hansen J ‘The Asylum Procedures and the Assessment of Asylum Requests’ in Chetail V and Bauloz C (eds), Research Handbook on International Law and Migration (Edward Elgar 2014).</ce:source-text>
+</reference>
+<reference seq="181">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Asylum Procedures Directive 2013/32/EU</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Vedsted-Hansen</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>EU Immigration and Asylum Law</ref-sourcetitle>
+<ref-publicationyear first="2016" />
+<ref-text>Nomos</ref-text>
+</ref-info>
+<ref-fulltext>Vedsted-Hansen J, ‘Asylum Procedures Directive 2013/32/EU’ in Hailbronner K and Thym D (eds), EU Immigration and Asylum Law (Nomos 2016).</ref-fulltext>
+<ce:source-text>Vedsted-Hansen J, ‘Asylum Procedures Directive 2013/32/EU’ in Hailbronner K and Thym D (eds), EU Immigration and Asylum Law (Nomos 2016).</ce:source-text>
+</reference>
+<reference seq="182">
+<ref-info>
+<ref-title>
+<ref-titletext-english>A New Link in the Chain: Could a Framework Convention for Refugee Responsibility Sharing Fulfil the Promise of the 1967 Protocol?</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Wall</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2017" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>201</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wall P, ‘A New Link in the Chain: Could a Framework Convention for Refugee Responsibility Sharing Fulfil the Promise of the 1967 Protocol?’ (2017) 29 International Journal of Refugee Law 201.</ref-fulltext>
+<ce:source-text>Wall P, ‘A New Link in the Chain: Could a Framework Convention for Refugee Responsibility Sharing Fulfil the Promise of the 1967 Protocol?’ (2017) 29 International Journal of Refugee Law 201.</ce:source-text>
+</reference>
+<reference seq="183">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Triggering State Obligations Extraterritorially: The Spatial Test in Certain Human Rights Treaties</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wilde</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Israel Law Review</ref-sourcetitle>
+<ref-publicationyear first="2007" />
+<volisspag>
+<volume-issue-number>
+<vol-first>40</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>503</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wilde R ‘Triggering State Obligations Extraterritorially: The Spatial Test in Certain Human Rights Treaties’ (2007) 40 Israel Law Review 503.</ref-fulltext>
+<ce:source-text>Wilde R ‘Triggering State Obligations Extraterritorially: The Spatial Test in Certain Human Rights Treaties’ (2007) 40 Israel Law Review 503.</ce:source-text>
+</reference>
+<reference seq="184">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Extraterritorial Application of International Human Rights Law on Civil and Political Rights</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Wilde</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Routledge Handbook of International Human Rights Law</ref-sourcetitle>
+<ref-publicationyear first="2013" />
+<ref-text>Routledge</ref-text>
+</ref-info>
+<ref-fulltext>Wilde R, ‘The Extraterritorial Application of International Human Rights Law on Civil and Political Rights‘ in Sheeran S and Rodley N (eds), Routledge Handbook of International Human Rights Law (Routledge 2013).</ref-fulltext>
+<ce:source-text>Wilde R, ‘The Extraterritorial Application of International Human Rights Law on Civil and Political Rights‘ in Sheeran S and Rodley N (eds), Routledge Handbook of International Human Rights Law (Routledge 2013).</ce:source-text>
+</reference>
+<reference seq="185">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Australian Asylum Policy all at Sea: An analysis of Plaintiff M70/2011 v Minister for Immigration and Citizenship and the Australia–Malaysia Arrangement</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Wood</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>McAdam</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International and Comparative Law Quarterly</ref-sourcetitle>
+<ref-publicationyear first="2012" />
+<volisspag>
+<volume-issue-number>
+<vol-first>61</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>274</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wood T and McAdam J, ‘Australian Asylum Policy all at Sea: An analysis of Plaintiff M70/2011 v Minister for Immigration and Citizenship and the Australia–Malaysia Arrangement’ (2012) 61 International and Comparative Law Quarterly 274.</ref-fulltext>
+<ce:source-text>Wood T and McAdam J, ‘Australian Asylum Policy all at Sea: An analysis of Plaintiff M70/2011 v Minister for Immigration and Citizenship and the Australia–Malaysia Arrangement’ (2012) 61 International and Comparative Law Quarterly 274.</ce:source-text>
+</reference>
+<reference seq="186">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Wouters</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Legal Standards for the Protection from Refoulement</ref-sourcetitle>
+<ref-publicationyear first="2009" />
+<ref-text>Intersentia</ref-text>
+</ref-info>
+<ref-fulltext>Wouters K, International Legal Standards for the Protection from Refoulement (Intersentia 2009).</ref-fulltext>
+<ce:source-text>Wouters K, International Legal Standards for the Protection from Refoulement (Intersentia 2009).</ce:source-text>
+</reference>
+<reference seq="187">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The Marine I Case: a Comment</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Wouters</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Den Heijer</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>International Journal of Refugee Law</ref-sourcetitle>
+<ref-publicationyear first="2010" />
+<volisspag>
+<volume-issue-number>
+<vol-first>22</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>1</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Wouters K and Den Heijer M, ‘The Marine I Case: a Comment’ (2010) 22 International Journal of Refugee Law 1.</ref-fulltext>
+<ce:source-text>Wouters K and Den Heijer M, ‘The Marine I Case: a Comment’ (2010) 22 International Journal of Refugee Law 1.</ce:source-text>
+</reference>
+<reference seq="188">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Refugees and the Right to Freedom of Movement: From Flight to Return</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Zieck</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Michigan Journal of International Law</ref-sourcetitle>
+<ref-publicationyear first="2018" />
+<volisspag>
+<volume-issue-number>
+<vol-first>39</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>19</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Zieck M, ‘Refugees and the Right to Freedom of Movement: From Flight to Return’ (2018) 39 Michigan Journal of International Law 19.</ref-fulltext>
+<ce:source-text>Zieck M, ‘Refugees and the Right to Freedom of Movement: From Flight to Return’ (2018) 39 Michigan Journal of International Law 19.</ce:source-text>
+</reference>
+<reference seq="189">
+<ref-info>
+<ref-title>
+<ref-titletext-english>No Asylum for ‘Infiltrators’: The Legal Predicament of Eritrean and Sudanese Nationals in Israel</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Ziegler</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Immigration, Asylum and Nationality Law</ref-sourcetitle>
+<ref-publicationyear first="2015" />
+<volisspag>
+<volume-issue-number>
+<vol-first>29</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>172</first-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Ziegler R, ‘No Asylum for ‘Infiltrators’: The Legal Predicament of Eritrean and Sudanese Nationals in Israel’ (2015) 29 Immigration, Asylum and Nationality Law 172.</ref-fulltext>
+<ce:source-text>Ziegler R, ‘No Asylum for ‘Infiltrators’: The Legal Predicament of Eritrean and Sudanese Nationals in Israel’ (2015) 29 Immigration, Asylum and Nationality Law 172.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
