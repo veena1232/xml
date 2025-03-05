@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-03T10:23:15</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="37">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Europe Agrees to Sweeping Rescue Plan for Greek Crisis</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Baker</ce:surname>
+<ce:given-name>Luke</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Toyer</ce:surname>
+<ce:given-name>Julien</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Reuters</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>July 22</ref-text>
+</ref-info>
+<ref-fulltext>Luke Baker and Julien Toyer, “Europe Agrees to Sweeping Rescue Plan for Greek Crisis,” Reuters, July 22, 2011;</ref-fulltext>
+<ce:source-text>Luke Baker and Julien Toyer, “Europe Agrees to Sweeping Rescue Plan for Greek Crisis,” Reuters, July 22, 2011;</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Christie</ce:surname>
+<ce:given-name>Rebecca</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Banks Agree to Participate in Greek Bond Exchange, Debt Buyback</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, July 22</ref-text>
+</ref-info>
+<ref-fulltext>Rebecca Christie, “Banks Agree to Participate in Greek Bond Exchange, Debt Buyback,” Bloomberg News, July 22, 2011</ref-fulltext>
+<ce:source-text>Rebecca Christie, “Banks Agree to Participate in Greek Bond Exchange, Debt Buyback,” Bloomberg News, July 22, 2011</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Nedialkov</ce:surname>
+<ce:given-name>Stefan</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>Ghose</ce:surname>
+<ce:given-name>Ronit</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Atienza</ce:surname>
+<ce:given-name>Alex</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hellenic Banks— Fancy a Haircut</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Citigroup research report, April 20</ref-text>
+</ref-info>
+<ref-fulltext>Stefan Nedialkov, Ronit Ghose, and Alex Atienza, “Hellenic Banks— Fancy a Haircut?” Citigroup research report, April 20, 2011.</ref-fulltext>
+<ce:source-text>Stefan Nedialkov, Ronit Ghose, and Alex Atienza, “Hellenic Banks— Fancy a Haircut?” Citigroup research report, April 20, 2011.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Central Statistics Office (Ireland)</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Quarterly National Accounts— Quarter 1 2011</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>published June 23</ref-text>
+</ref-info>
+<ref-fulltext>Central Statistics Office (Ireland), “Quarterly National Accounts— Quarter 1 2011,” published June 23, 2011;</ref-fulltext>
+<ce:source-text>Central Statistics Office (Ireland), “Quarterly National Accounts— Quarter 1 2011,” published June 23, 2011;</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ernst &amp; Young</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Outlook for Ireland</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Ernst &amp; Young Eurozone Forecast, Summer Edition, June</ref-text>
+</ref-info>
+<ref-fulltext>Ernst &amp; Young, “Outlook for Ireland,” Ernst &amp; Young Eurozone Forecast, Summer Edition, June 2011;</ref-fulltext>
+<ce:source-text>Ernst &amp; Young, “Outlook for Ireland,” Ernst &amp; Young Eurozone Forecast, Summer Edition, June 2011;</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Statistics Iceland</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Quarterly National Accounts, 1St Quarter 2011</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>published June 8</ref-text>
+</ref-info>
+<ref-fulltext>Statistics Iceland, “Quarterly National Accounts, 1st Quarter 2011,” published June 8, 2011;</ref-fulltext>
+<ce:source-text>Statistics Iceland, “Quarterly National Accounts, 1st Quarter 2011,” published June 8, 2011;</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Panchal</ce:surname>
+<ce:given-name>Gaurav</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Noonan Says Ireland has Enough Money to Last into 2H 2013</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, June 7</ref-text>
+</ref-info>
+<ref-fulltext>Gaurav Panchal, “Noonan Says Ireland Has Enough Money to Last Into 2H 2013,” Bloomberg News, June 7, 2011.</ref-fulltext>
+<ce:source-text>Gaurav Panchal, “Noonan Says Ireland Has Enough Money to Last Into 2H 2013,” Bloomberg News, June 7, 2011.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Hornung</ce:surname>
+<ce:given-name>Dietmar</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Oosterveld</ce:surname>
+<ce:given-name>Bart</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moody’ S Downgrades Ireland to Ba1; Outlook Remains Negative</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Moody’ s Investors Service press release, July 12</ref-text>
+</ref-info>
+<ref-fulltext>Dietmar Hornung and Bart Oosterveld, “Moody’ s Downgrades Ireland to Ba1; Outlook Remains Negative,” Moody’ s Investors Service press release, July 12, 2011.</ref-fulltext>
+<ce:source-text>Dietmar Hornung and Bart Oosterveld, “Moody’ s Downgrades Ireland to Ba1; Outlook Remains Negative,” Moody’ s Investors Service press release, July 12, 2011.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Economist Intelligence Unit</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Spain: Tough Sell</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>EIU Business Europe Select, June 1</ref-text>
+</ref-info>
+<ref-fulltext>Economist Intelligence Unit, “Spain: Tough Sell,” EIU Business Europe Select, June 1, 2011;</ref-fulltext>
+<ce:source-text>Economist Intelligence Unit, “Spain: Tough Sell,” EIU Business Europe Select, June 1, 2011;</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>European Commission</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Council Recommendation on the National Reform Programme 2011 of Spain and Delivering a Council Opinion on the Updated Stability Programme of Spain, 2011– 2014</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>SEC (2011) 817 Final, June 7</ref-text>
+</ref-info>
+<ref-fulltext>European Commission, “Council Recommendation on the National Reform Programme 2011 of Spain and Delivering a Council Opinion on the Updated Stability Programme of Spain, 2011– 2014,” SEC (2011) 817 Final, June 7, 2011;</ref-fulltext>
+<ce:source-text>European Commission, “Council Recommendation on the National Reform Programme 2011 of Spain and Delivering a Council Opinion on the Updated Stability Programme of Spain, 2011– 2014,” SEC (2011) 817 Final, June 7, 2011;</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Bankrupt’ Claim Heightens Spanish Regional Debt Fears</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Mallet</ce:surname>
+<ce:given-name>Victor</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 6</ref-text>
+</ref-info>
+<ref-fulltext>Victor Mallet, “‘Bankrupt’ Claim Heightens Spanish Regional Debt Fears,” Financial Times, June 6, 2011;</ref-fulltext>
+<ce:source-text>Victor Mallet, “‘Bankrupt’ Claim Heightens Spanish Regional Debt Fears,” Financial Times, June 6, 2011;</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Penty</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Sills</ce:surname>
+<ce:given-name>Ben</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bankia Drops in Madrid Trading Debut after Cutting IPO</ref-sourcetitle>
+</ref-info>
+<ref-fulltext>Charles Penty and Ben Sills, “Bankia Drops in Madrid Trading Debut After Cutting IPO</ref-fulltext>
+<ce:source-text>Charles Penty and Ben Sills, “Bankia Drops in Madrid Trading Debut After Cutting IPO</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-sourcetitle>Price</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, July 20</ref-text>
+</ref-info>
+<ref-fulltext>Price,” Bloomberg News, July 20, 2011;</ref-fulltext>
+<ce:source-text>Price,” Bloomberg News, July 20, 2011;</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Penty</ce:surname>
+<ce:given-name>Charles</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Sills</ce:surname>
+<ce:given-name>Ben</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Civica Unchanged in Madrid Debut after $849 Million IPO</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, July 21</ref-text>
+</ref-info>
+<ref-fulltext>Charles Penty and Ben Sills, “Civica Unchanged in Madrid Debut After $849 Million IPO,” Bloomberg News, July 21, 2011;</ref-fulltext>
+<ce:source-text>Charles Penty and Ben Sills, “Civica Unchanged in Madrid Debut After $849 Million IPO,” Bloomberg News, July 21, 2011;</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Bjork</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Spain’ S CAM Will Get EUR2.8B Injection from Bailout Fund</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Dow Jones, July 14</ref-text>
+</ref-info>
+<ref-fulltext>Christopher Bjork, “Spain’ s CAM Will Get EUR2.8B Injection From Bailout Fund,” Dow Jones, July 14, 2011.</ref-fulltext>
+<ce:source-text>Christopher Bjork, “Spain’ s CAM Will Get EUR2.8B Injection From Bailout Fund,” Dow Jones, July 14, 2011.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Few Banks Fail EU Exams</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Enrich</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>S.S.M.</ce:initials>
+<ce:surname>Oz</ce:surname>
+<ce:given-name>Sara Schaefer Muñ</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>16</first-page>
+<last-page>17</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>July</ref-text>
+</ref-info>
+<ref-fulltext>David Enrich, and Sara Schaefer Muñ oz, “Few Banks Fail EU Exams,” Wall Street Journal, July 16– 17, 2011;</ref-fulltext>
+<ce:source-text>David Enrich, and Sara Schaefer Muñ oz, “Few Banks Fail EU Exams,” Wall Street Journal, July 16– 17, 2011;</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>German Bank Snubs Stress Tests</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Masters</ce:surname>
+<ce:given-name>Brooke</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>July 14</ref-text>
+</ref-info>
+<ref-fulltext>James Wilson and Brooke Masters, “German Bank Snubs Stress Tests,” Financial Times, July 14, 2011;</ref-fulltext>
+<ce:source-text>James Wilson and Brooke Masters, “German Bank Snubs Stress Tests,” Financial Times, July 14, 2011;</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Finch</ce:surname>
+<ce:given-name>Gavin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>EU Stress Tests Include Writedown in Greek Government Bonds</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, July 15</ref-text>
+</ref-info>
+<ref-fulltext>Gavin Finch, “EU Stress Tests Include Writedown in Greek Government Bonds,” Bloomberg News, July 15, 2011;</ref-fulltext>
+<ce:source-text>Gavin Finch, “EU Stress Tests Include Writedown in Greek Government Bonds,” Bloomberg News, July 15, 2011;</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-sourcetitle>Results of the 2011 EU- Wide Stress Test</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>European Banking Authority press release, July 15</ref-text>
+</ref-info>
+<ref-fulltext>“Results of the 2011 EU- Wide Stress Test,” European Banking Authority press release, July 15, 2011.</ref-fulltext>
+<ce:source-text>“Results of the 2011 EU- Wide Stress Test,” European Banking Authority press release, July 15, 2011.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>The World Held Hostage by Credit Default Swaps</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.C.</ce:initials>
+<ce:surname>Whalen</ce:surname>
+<ce:given-name>R. Christopher</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Institutional Risk Analyst</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 21</ref-text>
+</ref-info>
+<ref-fulltext>R. Christopher Whalen, “The World Held Hostage by Credit Default Swaps,” The Institutional Risk Analyst, June 21, 2011.</ref-fulltext>
+<ce:source-text>R. Christopher Whalen, “The World Held Hostage by Credit Default Swaps,” The Institutional Risk Analyst, June 21, 2011.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bank of America Corp</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Bank of America Announces Agreement on Legacy Countrywide Mortgage Repurchase and Servicing Claims</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>company press release, June 29</ref-text>
+</ref-info>
+<ref-fulltext>Bank of America Corp., “Bank of America Announces Agreement on Legacy Countrywide Mortgage Repurchase and Servicing Claims,” company press release, June 29, 2011;</ref-fulltext>
+<ce:source-text>Bank of America Corp., “Bank of America Announces Agreement on Legacy Countrywide Mortgage Repurchase and Servicing Claims,” company press release, June 29, 2011;</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.M.</ce:initials>
+<ce:surname>Goldberg</ce:surname>
+<ce:given-name>Jason M.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>B.</ce:initials>
+<ce:surname>Morton</ce:surname>
+<ce:given-name>Brian</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>M.J.</ce:initials>
+<ce:surname>Keating</ce:surname>
+<ce:given-name>Matthew J.</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>I.</ce:initials>
+<ce:surname>Blyakher</ce:surname>
+<ce:given-name>Inna</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>CFC Agreement Reduces, Doesn’ T Eliminate Uncertainties</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Barclays Capital research report, June 30</ref-text>
+</ref-info>
+<ref-fulltext>Jason M. Goldberg, Brian Morton, Matthew, J. Keating, and Inna Blyakher, “CFC Agreement Reduces, Doesn’ t Eliminate Uncertainties (Now Including Capital),” Barclays Capital research report, June 30, 2011;</ref-fulltext>
+<ce:source-text>Jason M. Goldberg, Brian Morton, Matthew, J. Keating, and Inna Blyakher, “CFC Agreement Reduces, Doesn’ t Eliminate Uncertainties (Now Including Capital),” Barclays Capital research report, June 30, 2011;</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.</ce:initials>
+<ce:surname>Son</ce:surname>
+<ce:given-name>Hugh</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bill Clinton Says Bofa Deal May Lead to Principal Reduction</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, June 30</ref-text>
+</ref-info>
+<ref-fulltext>Hugh Son, “Bill Clinton Says BofA Deal May Lead to Principal Reduction,” Bloomberg News, June 30, 2011.</ref-fulltext>
+<ce:source-text>Hugh Son, “Bill Clinton Says BofA Deal May Lead to Principal Reduction,” Bloomberg News, June 30, 2011.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>U.S. Securities and Exchange Commission company filing by Citigroup Inc</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2011"/>
+<ref-text>Form 8- K, fi le number 1- 9924, filed on May 17</ref-text>
+</ref-info>
+<ref-fulltext>U.S. Securities and Exchange Commission company filing by Citigroup Inc., Form 8- K, fi le number 1- 9924, filed on May 17, 2011;</ref-fulltext>
+<ce:source-text>U.S. Securities and Exchange Commission company filing by Citigroup Inc., Form 8- K, fi le number 1- 9924, filed on May 17, 2011;</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Citigroup Inc</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Statement by Citi Chairman Richard D. Parsons on Retention Award to CEO Vikram S. Pandit</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>company press release, May 18</ref-text>
+</ref-info>
+<ref-fulltext>Citigroup Inc., “Statement by Citi Chairman Richard D. Parsons on Retention Award to CEO Vikram S. Pandit,” company press release, May 18, 2011.</ref-fulltext>
+<ce:source-text>Citigroup Inc., “Statement by Citi Chairman Richard D. Parsons on Retention Award to CEO Vikram S. Pandit,” company press release, May 18, 2011.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-english>CEO Tells Fed Chief New Rules Hurt Banks</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.R.</ce:initials>
+<ce:surname>Crittenden</ce:surname>
+<ce:given-name>Michael R.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 8</ref-text>
+</ref-info>
+<ref-fulltext>Michael R. Crittenden, “CEO Tells Fed Chief New Rules Hurt Banks.” Wall Street Journal, June 8, 2011;</ref-fulltext>
+<ce:source-text>Michael R. Crittenden, “CEO Tells Fed Chief New Rules Hurt Banks.” Wall Street Journal, June 8, 2011;</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Pengelly</ce:surname>
+<ce:given-name>Mark</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Boon to US Leverage Ratios as FASB Ditches Netting Proposals</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Risk, June 27</ref-text>
+</ref-info>
+<ref-fulltext>Mark Pengelly, “Boon to US leverage ratios as FASB ditches netting proposals,” Risk, June 27, 2011;</ref-fulltext>
+<ce:source-text>Mark Pengelly, “Boon to US leverage ratios as FASB ditches netting proposals,” Risk, June 27, 2011;</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.K.</ce:initials>
+<ce:surname>Tarullo</ce:surname>
+<ce:given-name>Daniel K.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Regulating Systemically Important Financial Firms</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>speech given at the Peter G. Peterson Institute for International Economics, Washington, DC, June 3</ref-text>
+</ref-info>
+<ref-fulltext>Daniel K. Tarullo, “Regulating Systemically Important Financial Firms,” speech given at the Peter G. Peterson Institute for International Economics, Washington, DC, June 3, 2011.</ref-fulltext>
+<ce:source-text>Daniel K. Tarullo, “Regulating Systemically Important Financial Firms,” speech given at the Peter G. Peterson Institute for International Economics, Washington, DC, June 3, 2011.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Geithner Toys With Leaving</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Paletta</ce:surname>
+<ce:given-name>Damian</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.E.</ce:initials>
+<ce:surname>Lee</ce:surname>
+<ce:given-name>Carol E.</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>July 1</ref-text>
+</ref-info>
+<ref-fulltext>Damian Paletta and Carol E. Lee, “Geithner Toys With Leaving,” Wall Street Journal, July 1, 2011;</ref-fulltext>
+<ce:source-text>Damian Paletta and Carol E. Lee, “Geithner Toys With Leaving,” Wall Street Journal, July 1, 2011;</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Bradley</ce:surname>
+<ce:given-name>Tahman</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Geithner Staying on at Treasury</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>ABC News, August 7</ref-text>
+</ref-info>
+<ref-fulltext>Tahman Bradley, “Geithner Staying On at Treasury,” ABC News, August 7, 2011;</ref-fulltext>
+<ce:source-text>Tahman Bradley, “Geithner Staying On at Treasury,” ABC News, August 7, 2011;</ce:source-text>
+</reference>
+<reference seq="31">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Appelbaum</ce:surname>
+<ce:given-name>Binyamin</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Official from F.D.I.C. Picked to Lead Banking Regulator</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>New York Times, July 2</ref-text>
+</ref-info>
+<ref-fulltext>Binyamin Appelbaum, “Official From F.D.I.C. Picked to Lead Banking Regulator,” New York Times, July 2, 2011;</ref-fulltext>
+<ce:source-text>Binyamin Appelbaum, “Official From F.D.I.C. Picked to Lead Banking Regulator,” New York Times, July 2, 2011;</ce:source-text>
+</reference>
+<reference seq="32">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Zibel</ce:surname>
+<ce:given-name>Alan</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>McGrane</ce:surname>
+<ce:given-name>Victoria</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Senators Call for Obama to Replace OCC’ S Walsh</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Dow Jones Newswires, June 22</ref-text>
+</ref-info>
+<ref-fulltext>Alan Zibel and Victoria McGrane, “Senators Call For Obama to Replace OCC’ s Walsh,” Dow Jones Newswires, June 22, 2011;</ref-fulltext>
+<ce:source-text>Alan Zibel and Victoria McGrane, “Senators Call For Obama to Replace OCC’ s Walsh,” Dow Jones Newswires, June 22, 2011;</ce:source-text>
+</reference>
+<reference seq="33">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Warning on Bank Rules Reform</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>T.</ce:initials>
+<ce:surname>Braithwaite</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 22</ref-text>
+</ref-info>
+<ref-fulltext>Tom Braithwaite, “Warning on Bank Rules Reform,” Financial Times, June 22, 2011.</ref-fulltext>
+<ce:source-text>Tom Braithwaite, “Warning on Bank Rules Reform,” Financial Times, June 22, 2011.</ce:source-text>
+</reference>
+<reference seq="34">
+<ref-info>
+<ref-title>
+<ref-titletext-english>World Bank Warns on Threat of Social Unrest</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bureau of Labor Statistics data</ce:text>
+</collaboration>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Giles</ce:surname>
+<ce:given-name>Chris</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>April 15</ref-text>
+</ref-info>
+<ref-fulltext>Bureau of Labor Statistics data; Chris Giles, “World Bank Warns on Threat of Social Unrest,” Financial Times, April 15, 2011;</ref-fulltext>
+<ce:source-text>Bureau of Labor Statistics data; Chris Giles, “World Bank Warns on Threat of Social Unrest,” Financial Times, April 15, 2011;</ce:source-text>
+</reference>
+<reference seq="35">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Inflation Moves to Center Stage, Highlights Fed and G20 Impotence</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Morici</ce:surname>
+<ce:given-name>Peter</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Daily Commentary</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>April 15</ref-text>
+</ref-info>
+<ref-fulltext>Peter Morici, “Inflation Moves to Center Stage, Highlights Fed and G20 Impotence,” Daily Commentary, April 15, 2011;</ref-fulltext>
+<ce:source-text>Peter Morici, “Inflation Moves to Center Stage, Highlights Fed and G20 Impotence,” Daily Commentary, April 15, 2011;</ce:source-text>
+</reference>
+<reference seq="36">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Standard &amp; Poor’s Rating Services</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>S &amp; P Lowers United States LT Rtg to ‘AA+’; Outlook Negative</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>press release, August 5</ref-text>
+</ref-info>
+<ref-fulltext>Standard &amp; Poor’s Rating Services, “S &amp; P Lowers United States LT Rtg To ‘AA+’; Outlook Negative,” press release, August 5, 2011;</ref-fulltext>
+<ce:source-text>Standard &amp; Poor’s Rating Services, “S &amp; P Lowers United States LT Rtg To ‘AA+’; Outlook Negative,” press release, August 5, 2011;</ce:source-text>
+</reference>
+<reference seq="37">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Moody’s Investors Service</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Moody’ S Places U.S. Aaa Government Bond Rating and Related Ratings on Review for Possible Downgrade</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>press release, July 13</ref-text>
+</ref-info>
+<ref-fulltext>Moody’s Investors Service, “Moody’ s Places U.S. Aaa Government Bond Rating and Related Ratings on Review for Possible Downgrade,” press release, July 13, 2011.</ref-fulltext>
+<ce:source-text>Moody’s Investors Service, “Moody’ s Places U.S. Aaa Government Bond Rating and Related Ratings on Review for Possible Downgrade,” press release, July 13, 2011.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

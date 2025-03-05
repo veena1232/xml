@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119202707</ce:doi>
+<itemid idtype="TPB-ID">20252000065206</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Zombie Banks: How Broken Banks and Debtor Nations Are Crippling the Global Economy</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Onaran</ce:surname>
+<ce:given-name>Yalman</ce:given-name>
+</author>
+<affiliation>
+<organization>Bloomberg News</organization>
+<city>Istanbul</city>
+<country iso-code="TUR" />
+<ce:source-text>Yalman Onaran was born in Istanbul, Turkey. He came to the United States for college and realized it was home as well. After finishing the College of Wooster in Ohio and Columbia University’s School of Journalism and School of International and Public Affairs, Onaran started working as a reporter. He found himself in war zones first, ducking bullets and shrapnel. The switch to financial journalism was coincidental, but it sucked him in when he realized the powerful leaders of the business world had to be held to account for their actions just as much as the politicians of the world. Onaran has been working for Bloomberg News since 1998 in many capacities, including Istanbul bureau chief and magazine writer. He was the finance reporter responsible for the coverage of Lehman Brothers and Bear Stearns when the financial crisis hit. He’s currently a senior writer focusing on global and national banking issues and lives in New Jersey.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Onaran</ce:surname>
+<ce:given-name>Yalman</ce:given-name>
+</person>
+<affiliation>
+<organization>Bloomberg News</organization>
+<city>Istanbul</city>
+<country iso-code="TUR" />
+<ce:source-text>Yalman Onaran was born in Istanbul, Turkey. He came to the United States for college and realized it was home as well. After finishing the College of Wooster in Ohio and Columbia University’s School of Journalism and School of International and Public Affairs, Onaran started working as a reporter. He found himself in war zones first, ducking bullets and shrapnel. The switch to financial journalism was coincidental, but it sucked him in when he realized the powerful leaders of the business world had to be held to account for their actions just as much as the politicians of the world. Onaran has been working for Bloomberg News since 1998 in many capacities, including Istanbul bureau chief and magazine writer. He was the finance reporter responsible for the coverage of Lehman Brothers and Bear Stearns when the financial crisis hit. He’s currently a senior writer focusing on global and national banking issues and lives in New Jersey.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>Copyright © 2012 by Yalman Onaran. All rights reserved.</publishercopyright>
+<ce:para>An in-depth look at the problems surrounding zombie banks and their dangerous effect on the global economy “The title is worthy of a B movie, but it's also apt. Bloomberg News reporter Yalman Onaran, supported by former U.S. Federal Deposit Insurance Corp. chief Sheila Bair - who provides a foreword and numerous interviews - urge that insolvent banks both small and too big to fail be allowed to do precisely that.  Reading bank balance sheets is not everyone's idea of a good time. But Mr. Onaran, with support from Ms. Bair, does the chore and explains what it means.  Mr. Onaran shows that the process of rescuing dead and dying banks is increasing systemic risk in the global banking system. And that is really more frightening than scream flicks from Tinseltown.”  -- Financial Post “Yalman Onaran knows of putrid financial institutions, having written about them in his native Turkey so successfully he brought down a few in Istanbul in the late '90's.” -- Huffington Post “Do We Love Zombie Banks? The new book by Yalman Onaran of Bloomberg News, Zombie Banks: How Broken Banks and Debtor Nations Are Crippling the Global Economy, is a well-organized and clearly written discussion of the use of leverage to provide growth in many different economies. Onaran has carefully researched the zombie phenomenon and makes some important points in this concise volume about both public policy and the concerns of investors. One of the more interesting early threads in the book is the juxtaposition of the experience of the US in the S&L crisis and Japan in the 1980s and 1990s with the US today. Zombie Banks is a good review of the latest thinking about the ebb and flow of the political economy.” -- R. Christopher Whalen, author of Inflated Zombie banking has become standard operating procedure for big debtor nations. They prop up failing institutions, print money, and avoid financial corrections. But in an attempt to prolong the inevitable, bigger problems are created. The approach used now has not, and will not, work. This timely book reveals why. Zombie Banks tells the story of how debtor nations and failing institutions are damaging the long-term prospects of the global economy. Author Yalman Onaran, a veteran Bloomberg News reporter and financial banking sector expert, examines exactly what a zombie bank is and why they are kept alive. He also discusses how they hurt economic recovery and what needs to be done in order to restore stability. Along the way, Onaran takes an honest look at how we arrived at this point and details the harsh realities that must be faced, and the serious steps that must be taken, in order to get things headed in the right direction.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Zombie Banks: How Broken Banks and Debtor Nations Are Crippling the Global Economy</sourcetitle>
+<sourcetitle-abbrev>Zombie Banks: How n.a. Banks and debt. Nations Are Crippling the Global Economy</sourcetitle-abbrev>
+<isbn type="print" length="13">9781118094525</isbn>
+<isbn type="electronic" length="13">9781119202707</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>184</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>02</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119202707</ce:e-address>
+</website>
+<publisher>
+<publishername>wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>

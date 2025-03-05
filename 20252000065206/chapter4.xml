@@ -1,0 +1,568 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-03T09:09:33</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="28">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Deutsche Bank</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Building a Retail Powerhouse in Europe’ S Biggest Economy</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>investor presentation, September 22</ref-text>
+</ref-info>
+<ref-fulltext>Deutsche Bank, “Building a Retail Powerhouse in Europe’ s Biggest Economy,” investor presentation, September 22, 2010.</ref-fulltext>
+<ce:source-text>Deutsche Bank, “Building a Retail Powerhouse in Europe’ s Biggest Economy,” investor presentation, September 22, 2010.</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Finansgruppe Deutscher Sparkassen- und Giroverband</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Winning Throughtrust: 2009,” Annual Financial Report, and “The Savings Banks Finance Group: An Overview</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>March</ref-text>
+</ref-info>
+<ref-fulltext>Finansgruppe Deutscher Sparkassen- und Giroverband, “Winning ThroughTrust: 2009,” Annual financial report, and “The Savings Banks Finance Group: An Overview,” March 2011.</ref-fulltext>
+<ce:source-text>Finansgruppe Deutscher Sparkassen- und Giroverband, “Winning ThroughTrust: 2009,” Annual financial report, and “The Savings Banks Finance Group: An Overview,” March 2011.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Kaserer</ce:surname>
+<ce:given-name>Christoph</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Staatliche Hilfen fü R Banken Und Ihre Kosten—Notwendigkeit Und Merkmale Einer Ausstiegsstrategie</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>working paper, July 29</ref-text>
+</ref-info>
+<ref-fulltext>Christoph Kaserer, “Staatliche Hilfen fü r Banken und ihre Kosten—Notwendigkeit und Merkmale einer Ausstiegsstrategie,” working paper, July 29, 2010.</ref-fulltext>
+<ce:source-text>Christoph Kaserer, “Staatliche Hilfen fü r Banken und ihre Kosten—Notwendigkeit und Merkmale einer Ausstiegsstrategie,” working paper, July 29, 2010.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.G.</ce:initials>
+<ce:surname>Neuger</ce:surname>
+<ce:given-name>James G.</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>R.</ce:initials>
+<ce:surname>McLeod</ce:surname>
+<ce:given-name>Robert</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Germany Agrees to EU Demand to Scrap Bank Subsidies</ref-sourcetitle>
+<ref-publicationyear first="2001"/>
+<ref-text>Bloomberg News, July 17</ref-text>
+</ref-info>
+<ref-fulltext>James G. Neuger and Robert McLeod, “Germany Agrees to EU Demand to Scrap Bank Subsidies,” Bloomberg News, July 17, 2001;</ref-fulltext>
+<ce:source-text>James G. Neuger and Robert McLeod, “Germany Agrees to EU Demand to Scrap Bank Subsidies,” Bloomberg News, July 17, 2001;</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.D.</ce:initials>
+<ce:surname>Kropf</ce:surname>
+<ce:given-name>Michael Dawson</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>P.</ce:initials>
+<ce:surname>Rioual</ce:surname>
+<ce:given-name>Patrick</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>German Landesbanken: Facing an Uncertain Future</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>FitchRatings research report, October 26</ref-text>
+</ref-info>
+<ref-fulltext>Michael Dawson Kropf and Patrick Rioual, “German Landesbanken: Facing an Uncertain Future,” FitchRatings research report, October 26, 2009.</ref-fulltext>
+<ce:source-text>Michael Dawson Kropf and Patrick Rioual, “German Landesbanken: Facing an Uncertain Future,” FitchRatings research report, October 26, 2009.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Kirchfeld</ce:surname>
+<ce:given-name>Aaron</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Simmons</ce:surname>
+<ce:given-name>Jacqueline</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Dublin Connection</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>101</first-page>
+<last-page>109</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Bloomberg Markets, December</ref-text>
+</ref-info>
+<ref-fulltext>Aaron Kirchfeld and Jacqueline Simmons, “The Dublin Connection,” Bloomberg Markets, December 2008, 101– 109.</ref-fulltext>
+<ce:source-text>Aaron Kirchfeld and Jacqueline Simmons, “The Dublin Connection,” Bloomberg Markets, December 2008, 101– 109.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Barten</ce:surname>
+<ce:given-name>Katharina</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Raab</ce:surname>
+<ce:given-name>Claude</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:surname>Metzler</ce:surname>
+<ce:given-name>Swen</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>M.</ce:initials>
+<ce:surname>Kuelpmann</ce:surname>
+<ce:given-name>Mathias</ce:given-name>
+</author>
+<author seq="5">
+<ce:initials>C.</ce:initials>
+<ce:surname>Schuler</ce:surname>
+<ce:given-name>Carola</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Germany</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Moody’ s Investors Service, Banking System Outlook, October 14</ref-text>
+</ref-info>
+<ref-fulltext>Katharina Barten, Claude Raab, Swen Metzler, Mathias Kuelpmann and Carola Schuler, “Germany,” Moody’ s Investors Service, Banking System Outlook, October 14, 2010. Also Bloomberg LP figures.</ref-fulltext>
+<ce:source-text>Katharina Barten, Claude Raab, Swen Metzler, Mathias Kuelpmann and Carola Schuler, “Germany,” Moody’ s Investors Service, Banking System Outlook, October 14, 2010. Also Bloomberg LP figures.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>European Commission</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>State Aid: Commission Opens In- Depth Investigation into Restructuring of Westlb</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-text>EU press release, October 1</ref-text>
+</ref-info>
+<ref-fulltext>European Commission, “State Aid: Commission Opens In- depth Investigation into Restructuring of WestLB,” EU press release, October 1, 2008.</ref-fulltext>
+<ce:source-text>European Commission, “State Aid: Commission Opens In- depth Investigation into Restructuring of WestLB,” EU press release, October 1, 2008.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-english>WestLB to Discuss Sale with Potential Bidders</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>January 15</ref-text>
+</ref-info>
+<ref-fulltext>James Wilson, “WestLB to Discuss Sale with Potential Bidders,” Financial Times, January 15, 2011;</ref-fulltext>
+<ce:source-text>James Wilson, “WestLB to Discuss Sale with Potential Bidders,” Financial Times, January 15, 2011;</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-english>WestLB Gets Ready to Cut Operations Back to Core</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Stevens</ce:surname>
+<ce:given-name>Laura</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>February 17</ref-text>
+</ref-info>
+<ref-fulltext>Laura Stevens, “WestLB Gets Ready to Cut Operations Back to Core,” Wall Street Journal, February 17, 2011;</ref-fulltext>
+<ce:source-text>Laura Stevens, “WestLB Gets Ready to Cut Operations Back to Core,” Wall Street Journal, February 17, 2011;</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>European Commission</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>State Aid: Commission Extends Investigation into WestLB’ S Bad Bank and Restructuring</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>EU press release, May 11</ref-text>
+</ref-info>
+<ref-fulltext>European Commission, “State Aid: Commission Extends Investigation into WestLB’ s Bad Bank and Restructuring,” EU press release, May 11, 2010;</ref-fulltext>
+<ce:source-text>European Commission, “State Aid: Commission Extends Investigation into WestLB’ s Bad Bank and Restructuring,” EU press release, May 11, 2010;</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Germany”; Fitch Ratings</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Barten</ce:surname>
+<ce:given-name>Raab</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Metzler</ce:surname>
+<ce:given-name>Kuelpmann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Resolution of WestLB’ S RWN Requires Greater Clarity on Ownership and Business Model</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Press release, February 21</ref-text>
+</ref-info>
+<ref-fulltext>Barten, Raab, Metzler, Kuelpmann, and Schuler, “Germany”; Fitch Ratings, “Resolution of WestLB’ s RWN Requires Greater Clarity on Ownership and Business Model,” Press release, February 21, 2011.</ref-fulltext>
+<ce:source-text>Barten, Raab, Metzler, Kuelpmann, and Schuler, “Germany”; Fitch Ratings, “Resolution of WestLB’ s RWN Requires Greater Clarity on Ownership and Business Model,” Press release, February 21, 2011.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>WestLB</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Westimmo Sale: Bank Turns down Current Offers</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>press release, October 26</ref-text>
+</ref-info>
+<ref-fulltext>WestLB, “WestImmo Sale: Bank Turns Down Current Offers,” press release, October 26, 2010.</ref-fulltext>
+<ce:source-text>WestLB, “WestImmo Sale: Bank Turns Down Current Offers,” press release, October 26, 2010.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Almunia</ce:surname>
+<ce:given-name>Joaquín</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Landesbanken and the EU Competition Rules</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>speech given in Berlin at 9th Handelsblatt annual conference, February 2</ref-text>
+</ref-info>
+<ref-fulltext>Joaquín Almunia, “Landesbanken and the EU Competition Rules,” speech given in Berlin at 9th Handelsblatt annual conference, February 2, 2011;</ref-fulltext>
+<ce:source-text>Joaquín Almunia, “Landesbanken and the EU Competition Rules,” speech given in Berlin at 9th Handelsblatt annual conference, February 2, 2011;</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Magnusson</ce:surname>
+<ce:given-name>Niklas</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>O.</ce:initials>
+<ce:surname>Suess</ce:surname>
+<ce:given-name>Oliver</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Westlb Owners Propose Turning German Lender into Verbundbank</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, April 15</ref-text>
+</ref-info>
+<ref-fulltext>Niklas Magnusson and Oliver Suess, “WestLB Owners Propose Turning German Lender Into Verbundbank,” Bloomberg News, April 15, 2011.</ref-fulltext>
+<ce:source-text>Niklas Magnusson and Oliver Suess, “WestLB Owners Propose Turning German Lender Into Verbundbank,” Bloomberg News, April 15, 2011.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bank for International Settlements</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>BIS Quarterly Review</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June</ref-text>
+</ref-info>
+<ref-fulltext>Bank for International Settlements, BIS Quarterly Review, June 2011.</ref-fulltext>
+<ce:source-text>Bank for International Settlements, BIS Quarterly Review, June 2011.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>EU Defends Stress Tests as Standards Draw Doubts</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Stevens</ce:surname>
+<ce:given-name>Laura</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Wall Street Journal</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>March 10</ref-text>
+</ref-info>
+<ref-fulltext>Laura Stevens, “EU Defends Stress Tests as Standards Draw Doubts,” Wall Street Journal, March 10, 2011;</ref-fulltext>
+<ce:source-text>Laura Stevens, “EU Defends Stress Tests as Standards Draw Doubts,” Wall Street Journal, March 10, 2011;</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Kirchfeld</ce:surname>
+<ce:given-name>Aaron</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>O.</ce:initials>
+<ce:surname>Suess</ce:surname>
+<ce:given-name>Oliver</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>German State Banks Defend Silent Participations in Stress Tests</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg News, March 10</ref-text>
+</ref-info>
+<ref-fulltext>Aaron Kirchfeld, and Oliver Suess, “German State Banks Defend Silent Participations in Stress Tests,” Bloomberg News, March 10, 2011.</ref-fulltext>
+<ce:source-text>Aaron Kirchfeld, and Oliver Suess, “German State Banks Defend Silent Participations in Stress Tests,” Bloomberg News, March 10, 2011.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Helaba Plans to Adapt Hybrid Capital to Withstand EBA Stress Tests</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Wilson</ce:surname>
+<ce:given-name>James</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>April 21</ref-text>
+</ref-info>
+<ref-fulltext>James Wilson, “Helaba Plans to Adapt Hybrid Capital to Withstand EBA Stress Tests,” Financial Times, April 21, 2011.</ref-fulltext>
+<ce:source-text>James Wilson, “Helaba Plans to Adapt Hybrid Capital to Withstand EBA Stress Tests,” Financial Times, April 21, 2011.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>H.-J.</ce:initials>
+<ce:surname>Dübel</ce:surname>
+<ce:given-name>Hans - Joachim</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Germany’ S Path into the Financial Crisis and Resolution Activities</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>Center for European Policy Studies presentation, October 12</ref-text>
+</ref-info>
+<ref-fulltext>Hans - Joachim Dübel, “Germany’ s Path into the Financial Crisis and Resolution Activities,” Center for European Policy Studies presentation, October 12, 2009;</ref-fulltext>
+<ce:source-text>Hans - Joachim Dübel, “Germany’ s Path into the Financial Crisis and Resolution Activities,” Center for European Policy Studies presentation, October 12, 2009;</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Barten</ce:surname>
+<ce:given-name>Raab</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Metzler</ce:surname>
+<ce:given-name>Kuelpmann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Germany</ref-sourcetitle>
+<ref-text>Bloomberg LP data</ref-text>
+</ref-info>
+<ref-fulltext>Barten, Raab, Metzler, Kuelpmann, and Schuler, “Germany”; Bloomberg LP data.</ref-fulltext>
+<ce:source-text>Barten, Raab, Metzler, Kuelpmann, and Schuler, “Germany”; Bloomberg LP data.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>FMS Wertmanagement</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>HRE Transfer to FMS Wertmanagement a Success</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Federal Agency for Market Stabilization press release, October 3</ref-text>
+</ref-info>
+<ref-fulltext>FMS Wertmanagement, “HRE Transfer to FMS Wertmanagement a Success,” Federal Agency for Market Stabilization press release, October 3, 2010.</ref-fulltext>
+<ce:source-text>FMS Wertmanagement, “HRE Transfer to FMS Wertmanagement a Success,” Federal Agency for Market Stabilization press release, October 3, 2010.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>European Commission</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>State Aid: Commission Approved Recapitalization of Commerzbank</ref-sourcetitle>
+<ref-publicationyear first="2009"/>
+<ref-text>European Union press release, May 7, Bloomberg LP data</ref-text>
+</ref-info>
+<ref-fulltext>European Commission, “State Aid: Commission Approved Recapitalization of Commerzbank,” European Union press release, May 7, 2009; Bloomberg LP data.</ref-fulltext>
+<ce:source-text>European Commission, “State Aid: Commission Approved Recapitalization of Commerzbank,” European Union press release, May 7, 2009; Bloomberg LP data.</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Commerzbank AG</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2010"/>
+<ref-text>Annual Report</ref-text>
+</ref-info>
+<ref-fulltext>Commerzbank AG, Annual Report 2010.</ref-fulltext>
+<ce:source-text>Commerzbank AG, Annual Report 2010.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Germany”; Mathias Kuelpmann and Carola Schuler</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:surname>Barten</ce:surname>
+<ce:given-name>Raab</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>K.</ce:initials>
+<ce:surname>Metzler</ce:surname>
+<ce:given-name>Kuelpmann</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Moody’s Downgrades German Banks’ Subordinated Debt</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Moody’ s Investors Service press release, February 17</ref-text>
+</ref-info>
+<ref-fulltext>Barten, Raab, Metzler, Kuelpmann and Schuler, “Germany”; Mathias Kuelpmann and Carola Schuler, “Moody’s Downgrades German Banks’ Subordinated Debt,” Moody’ s Investors Service press release, February 17, 2011;</ref-fulltext>
+<ce:source-text>Barten, Raab, Metzler, Kuelpmann and Schuler, “Germany”; Mathias Kuelpmann and Carola Schuler, “Moody’s Downgrades German Banks’ Subordinated Debt,” Moody’ s Investors Service press release, February 17, 2011;</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-sourcetitle>Commerz Feels Regulatory Bite as Premium Soars for Tier Two</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Euroweek, 1195, March 11</ref-text>
+</ref-info>
+<ref-fulltext>“Commerz Feels Regulatory Bite as Premium Soars for Tier Two,” Euroweek, 1195, March 11, 2011.</ref-fulltext>
+<ce:source-text>“Commerz Feels Regulatory Bite as Premium Soars for Tier Two,” Euroweek, 1195, March 11, 2011.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Vorsprung durch Exports: Which G7 Economy Was the Best Performer of the Past Decade? And Can It Keep It Up</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>The Economist</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>February 3</ref-text>
+</ref-info>
+<ref-fulltext>“Vorsprung durch Exports: Which G7 Economy Was the Best Performer of the Past Decade? And Can It Keep It Up?” The Economist, February 3, 2011;</ref-fulltext>
+<ce:source-text>“Vorsprung durch Exports: Which G7 Economy Was the Best Performer of the Past Decade? And Can It Keep It Up?” The Economist, February 3, 2011;</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>International Monetary Fund</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>World Economic Outlook</ref-sourcetitle>
+<ref-text>database</ref-text>
+</ref-info>
+<ref-fulltext>International Monetary Fund, World Economic Outlook database</ref-fulltext>
+<ce:source-text>International Monetary Fund, World Economic Outlook database</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

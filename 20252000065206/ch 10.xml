@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-03T09:39:29</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="20">
+<reference seq="1">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bank for International Settlements</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Regular OTC Derivatives Market Statistics</ref-sourcetitle>
+<ref-publicationyear first="1999" last="2013"/>
+<ref-text>semi - annual reports</ref-text>
+</ref-info>
+<ref-fulltext>Bank for International Settlements, “Regular OTC Derivatives Market Statistics,” semi - annual reports, 1999 – 2010;</ref-fulltext>
+<ce:source-text>Bank for International Settlements, “Regular OTC Derivatives Market Statistics,” semi - annual reports, 1999 – 2010;</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>International Monetary Fund</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>World Economic Outlook</ref-sourcetitle>
+<ref-text>database</ref-text>
+</ref-info>
+<ref-fulltext>International Monetary Fund, World Economic Outlook database;</ref-fulltext>
+<ce:source-text>International Monetary Fund, World Economic Outlook database;</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>World Federation of Exchanges</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2010"/>
+<ref-text>10 Years in Review (2000 – 2009)</ref-text>
+</ref-info>
+<ref-fulltext>World Federation of Exchanges, “10 Years in Review (2000 – 2009),” 2010.</ref-fulltext>
+<ce:source-text>World Federation of Exchanges, “10 Years in Review (2000 – 2009),” 2010.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Office of the Comptroller of the Currency</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>OCC’s Quarterly Report on Bank Trading and Derivatives Activities</ref-sourcetitle>
+<ref-publicationyear first="2005" last="2013"/>
+</ref-info>
+<ref-fulltext>Office of the Comptroller of the Currency, “OCC’s Quarterly Report on Bank Trading and Derivatives Activities,” 2005 – 2011.</ref-fulltext>
+<ce:source-text>Office of the Comptroller of the Currency, “OCC’s Quarterly Report on Bank Trading and Derivatives Activities,” 2005 – 2011.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>North</ce:surname>
+<ce:given-name>Cady</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Too - Big - to - Fail Banks Get Bigger after Dodd - Frank</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Bloomberg Government report, March 18</ref-text>
+</ref-info>
+<ref-fulltext>Cady North, “Too - Big - to - Fail Banks Get Bigger After Dodd - Frank,” Bloomberg Government report, March 18, 2011;</ref-fulltext>
+<ce:source-text>Cady North, “Too - Big - to - Fail Banks Get Bigger After Dodd - Frank,” Bloomberg Government report, March 18, 2011;</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>İ.</ce:initials>
+<ce:surname>Ötker - Robe</ce:surname>
+<ce:given-name>İnci</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Narain</ce:surname>
+<ce:given-name>Aditya</ce:given-name>
+</author>
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Ilyina</ce:surname>
+<ce:given-name>Anna</ce:given-name>
+</author>
+<author seq="4">
+<ce:initials>J.</ce:initials>
+<ce:surname>Surti</ce:surname>
+<ce:given-name>Jay</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Too - Important - to - Fail Conundrum: Impossible to Ignore and Difficult to Resolve</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>International Monetary Fund, Monetary and Capital Markets Department report, May 27</ref-text>
+</ref-info>
+<ref-fulltext>İnci Ötker - Robe, Aditya Narain, Anna Ilyina, and Jay Surti, “The Too - Important - to - Fail Conundrum: Impossible to Ignore and Difficult to Resolve,” International Monetary Fund, Monetary and Capital Markets Department report, May 27, 2011.</ref-fulltext>
+<ce:source-text>İnci Ötker - Robe, Aditya Narain, Anna Ilyina, and Jay Surti, “The Too - Important - to - Fail Conundrum: Impossible to Ignore and Difficult to Resolve,” International Monetary Fund, Monetary and Capital Markets Department report, May 27, 2011.</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Office of the Comptroller of the Currency</ce:text>
+</collaboration>
+</ref-authors>
+<ref-publicationyear first="2008" last="2013"/>
+</ref-info>
+<ref-fulltext>Office of the Comptroller of the Currency, 2008 – 2011;</ref-fulltext>
+<ce:source-text>Office of the Comptroller of the Currency, 2008 – 2011;</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Bank for International Settlements</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>OTC Derivatives Market Activity in the Second Half of 2010</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>report published May</ref-text>
+</ref-info>
+<ref-fulltext>Bank for International Settlements, “OTC Derivatives Market Activity in the Second Half of 2010,” report published May 2011.</ref-fulltext>
+<ce:source-text>Bank for International Settlements, “OTC Derivatives Market Activity in the Second Half of 2010,” report published May 2011.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>U.S. Congress</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Dodd - Frank Wall Street Reform and Consumer Protection Act</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>H.R. 4173, became Public Law No: 111 - 203 on July 21</ref-text>
+</ref-info>
+<ref-fulltext>U.S. Congress, “Dodd - Frank Wall Street Reform and Consumer Protection Act,” H.R. 4173, became Public Law No: 111 - 203 on July 21, 2010;</ref-fulltext>
+<ce:source-text>U.S. Congress, “Dodd - Frank Wall Street Reform and Consumer Protection Act,” H.R. 4173, became Public Law No: 111 - 203 on July 21, 2010;</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Douglas</ce:surname>
+<ce:given-name>Andrew</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>European Market Infrastructure Regulation — EMIR</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Depository Trust and Clearing Corporation presentation, March 16</ref-text>
+</ref-info>
+<ref-fulltext>Andrew Douglas, “European Market Infrastructure Regulation — EMIR,” Depository Trust and Clearing Corporation presentation, March 16, 2011.</ref-fulltext>
+<ce:source-text>Andrew Douglas, “European Market Infrastructure Regulation — EMIR,” Depository Trust and Clearing Corporation presentation, March 16, 2011.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-title>
+<ref-titletext-english>How Clearing Helped ICE Reinforce Ties with Banks</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Chaffin</ce:surname>
+<ce:given-name>Joshua</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:surname>Weitzman</ce:surname>
+<ce:given-name>Hal</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Financial Times</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>April 30</ref-text>
+</ref-info>
+<ref-fulltext>Joshua Chaffin and Hal Weitzman,“How Clearing Helped ICE Reinforce Ties with Banks,” Financial Times, April 30, 2011.</ref-fulltext>
+<ce:source-text>Joshua Chaffin and Hal Weitzman,“How Clearing Helped ICE Reinforce Ties with Banks,” Financial Times, April 30, 2011.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>The Depository Trust &amp; Clearing Corporation</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Trade Information Warehouse Data</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Top 1000 Reference Entities, for week ending June 6</ref-text>
+</ref-info>
+<ref-fulltext>The Depository Trust &amp; Clearing Corporation, “Trade Information Warehouse Data,” Top 1000 Reference Entities, for week ending June 6, 2011;</ref-fulltext>
+<ce:source-text>The Depository Trust &amp; Clearing Corporation, “Trade Information Warehouse Data,” Top 1000 Reference Entities, for week ending June 6, 2011;</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:surname>Roubini</ce:surname>
+<ce:given-name>Nouriel</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Nowakowski</ce:surname>
+<ce:given-name>David</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>CDS and Debt Restructuring: Does the Existence of Credit Derivatives Make Restructuring Harder</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Roubini Global Economics analysis report, April 21</ref-text>
+</ref-info>
+<ref-fulltext>Nouriel Roubini and David Nowakowski, “CDS and Debt Restructuring: Does the Existence of Credit Derivatives Make Restructuring Harder?” Roubini Global Economics analysis report, April 21, 2011.</ref-fulltext>
+<ce:source-text>Nouriel Roubini and David Nowakowski, “CDS and Debt Restructuring: Does the Existence of Credit Derivatives Make Restructuring Harder?” Roubini Global Economics analysis report, April 21, 2011.</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Allied Irish Banks Plc</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>AIB — Intention to Buyback Outstanding Securities</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>company press release, May 11</ref-text>
+</ref-info>
+<ref-fulltext>Allied Irish Banks Plc, “AIB — Intention to Buyback Outstanding Securities,” company press release, May 11, 2011;</ref-fulltext>
+<ce:source-text>Allied Irish Banks Plc, “AIB — Intention to Buyback Outstanding Securities,” company press release, May 11, 2011;</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Credit Event’ Ruling Sought for Allied Irish Banks</ref-titletext-english>
+</ref-title>
+<ref-sourcetitle>Reuters Hedgeworld</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 10</ref-text>
+</ref-info>
+<ref-fulltext>“‘Credit Event’ Ruling Sought for Allied Irish Banks,” Reuters Hedgeworld, June 10, 2011;</ref-fulltext>
+<ce:source-text>“‘Credit Event’ Ruling Sought for Allied Irish Banks,” Reuters Hedgeworld, June 10, 2011;</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Noonan Says Bank Debt Order Now Effective in 16 of 18 Securities</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Flynn</ce:surname>
+<ce:given-name>Finbarr</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Brennan</ce:surname>
+<ce:given-name>Joe</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bloomberg News</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 9</ref-text>
+</ref-info>
+<ref-fulltext>Finbarr Flynn and Joe Brennan, “Noonan Says Bank Debt Order Now Effective in 16 of 18 Securities,” Bloomberg News, June 9, 2011;</ref-fulltext>
+<ce:source-text>Finbarr Flynn and Joe Brennan, “Noonan Says Bank Debt Order Now Effective in 16 of 18 Securities,” Bloomberg News, June 9, 2011;</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Bank of Ireland Faces Legal Challenge Over Refinancing Deal</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>Russell</ce:surname>
+<ce:given-name>Jonathan</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Telegraph</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>June 12</ref-text>
+</ref-info>
+<ref-fulltext>Jonathan Russell, “Bank of Ireland Faces Legal Challenge Over Refinancing Deal,” The Telegraph, June 12, 2011.</ref-fulltext>
+<ce:source-text>Jonathan Russell, “Bank of Ireland Faces Legal Challenge Over Refinancing Deal,” The Telegraph, June 12, 2011.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>U.S. Department of the Treasury</ce:text>
+</collaboration>
+</ref-authors>
+<ref-sourcetitle>Fact Sheet: Notice of Proposed Determination on Foreign Exchange Swaps and Forwards</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>press release, April 29</ref-text>
+</ref-info>
+<ref-fulltext>U.S. Department of the Treasury, “Fact Sheet: Notice of Proposed Determination on Foreign Exchange Swaps and Forwards,” press release, April 29, 2011.</ref-fulltext>
+<ce:source-text>U.S. Department of the Treasury, “Fact Sheet: Notice of Proposed Determination on Foreign Exchange Swaps and Forwards,” press release, April 29, 2011.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Duffie</ce:surname>
+<ce:given-name>Darrell</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>On the Clearing of Foreign Exchange Derivatives</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>working paper, May 12</ref-text>
+</ref-info>
+<ref-fulltext>Darrell Duffie, “On the Clearing of Foreign Exchange Derivatives,” working paper, May 12, 2011.</ref-fulltext>
+<ce:source-text>Darrell Duffie, “On the Clearing of Foreign Exchange Derivatives,” working paper, May 12, 2011.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Man in the Middle</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>Y.</ce:initials>
+<ce:surname>Onaran</ce:surname>
+<ce:given-name>Yalman</ce:given-name>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>McKee</ce:surname>
+<ce:given-name>Michael</ce:given-name>
+</author>
+</ref-authors>
+<ref-sourcetitle>Bloomberg Markets</ref-sourcetitle>
+<volisspag>
+<page-information>
+<pages>
+<first-page>33</first-page>
+<last-page>46</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>April (2009)</ref-text>
+</ref-info>
+<ref-fulltext>Yalman Onaran and Michael McKee, “Man in the Middle,” Bloomberg Markets, April (2009): 33 – 46.</ref-fulltext>
+<ce:source-text>Yalman Onaran and Michael McKee, “Man in the Middle,” Bloomberg Markets, April (2009): 33 – 46.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>
