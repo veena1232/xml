@@ -1,0 +1,687 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-03-01T12:12:36</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300"/>
+<itemidlist>
+<itemid idtype="TPB-ID"></itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+</citation-info>
+<citation-title/>
+<source type="book" country="">
+<sourcetitle></sourcetitle>
+<sourcetitle-abbrev></sourcetitle-abbrev>
+<isbn type="print" length="10"></isbn>
+<isbn type="print" length="13"></isbn>
+<isbn type="electronic" length="10"></isbn>
+<isbn type="electronic" length="13"></isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page></first-page>
+<last-page></last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first=""/>
+<publicationdate>
+<year></year>
+<month>01</month>
+<day>01</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url"></ce:e-address>
+</website>
+<publisher>
+<publishername></publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code></classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+<tail>
+<bibliography refcount="30">
+<reference seq="1">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Les pratiques de recherche d’information informelles des jeunes sur internet</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Aillerie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Communication</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<ref-website>
+<ce:e-address type="url">http://archivesic.ccsd.cnrs.fr/sic_00344181/</ce:e-address>
+</ref-website>
+<ref-text>Colloque international de l’ERTé, Lille</ref-text>
+</ref-info>
+<ref-fulltext>Aillerie, K. (2008). Les pratiques de recherche d’information informelles des jeunes sur internet. Communication, Colloque international de l’ERTé, Lille [Online]. Available at: http://archivesic.ccsd.cnrs.fr/sic_00344181/ [Accessed 3 January 2021].</ref-fulltext>
+<ce:source-text>Aillerie, K. (2008). Les pratiques de recherche d’information informelles des jeunes sur internet. Communication, Colloque international de l’ERTé, Lille [Online]. Available at: http://archivesic.ccsd.cnrs.fr/sic_00344181/ [Accessed 3 January 2021].</ce:source-text>
+</reference>
+<reference seq="2">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Les pratiques de recherche d’information informelles des jeunes sur internet</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Aillerie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>L’éducation à La Culture Informationnelle</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Chapron, F. and Delamotte, E. Presses de l’Enssib, Villeurbanne</ref-text>
+</ref-info>
+<ref-fulltext>Aillerie, K. (2010). Les pratiques de recherche d’information informelles des jeunes sur internet. In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ref-fulltext>
+<ce:source-text>Aillerie, K. (2010). Les pratiques de recherche d’information informelles des jeunes sur internet. In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ce:source-text>
+</reference>
+<reference seq="3">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Aillerie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pratiques Informationnelles Informelles Des Adolescents (14–18 Ans) Sur Le Web</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>PhD thesis, Université Paris XIII, Université Paris-Nord, France</ref-text>
+</ref-info>
+<ref-fulltext>Aillerie, K. (2011). Pratiques informationnelles informelles des adolescents (14–18 ans) sur le Web. PhD thesis, Université Paris XIII, Université Paris-Nord, France.</ref-fulltext>
+<ce:source-text>Aillerie, K. (2011). Pratiques informationnelles informelles des adolescents (14–18 ans) sur le Web. PhD thesis, Université Paris XIII, Université Paris-Nord, France.</ce:source-text>
+</reference>
+<reference seq="4">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Aillerie</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pratiques Informationnelles Des Jeunes: Quels Enjeux Pour Quelle “culture numérique”</ref-sourcetitle>
+<ref-publicationyear first="2016"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>28</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>41</first-page>
+<last-page>45</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Champs Culturels</ref-text>
+</ref-info>
+<ref-fulltext>Aillerie, K. (2016). Pratiques informationnelles des jeunes: quels enjeux pour quelle “culture numérique” ? Champs Culturels, 28, 41–45.</ref-fulltext>
+<ce:source-text>Aillerie, K. (2016). Pratiques informationnelles des jeunes: quels enjeux pour quelle “culture numérique” ? Champs Culturels, 28, 41–45.</ce:source-text>
+</reference>
+<reference seq="5">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Pourquoi faut-il étudier les pratiques informelles des apprenants en matière d’information et de documentation</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Béguin-Verbrugge</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Savoirs Et Histoires: Deux Colloques Internationaux En éducation</ref-sourcetitle>
+<ref-publicationyear first="2006"/>
+<ref-text>Astolfi, J.-P. and Houssaye, J.Laboratoire de sciences de l’éducation-CIVIIC, Mont-Saint-Aignan</ref-text>
+</ref-info>
+<ref-fulltext>Béguin-Verbrugge, A. (2006). Pourquoi faut-il étudier les pratiques informelles des apprenants en matière d’information et de documentation ? In Savoirs et histoires: deux colloques internationaux en éducation, Astolfi, J.-P. and Houssaye, J. (eds). Laboratoire de sciences de l’éducation-CIVIIC, Mont-Saint-Aignan.</ref-fulltext>
+<ce:source-text>Béguin-Verbrugge, A. (2006). Pourquoi faut-il étudier les pratiques informelles des apprenants en matière d’information et de documentation ? In Savoirs et histoires: deux colloques internationaux en éducation, Astolfi, J.-P. and Houssaye, J. (eds). Laboratoire de sciences de l’éducation-CIVIIC, Mont-Saint-Aignan.</ce:source-text>
+</reference>
+<reference seq="6">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Les représentations des risques numériques en éducation: construction de normes dans les discours en circulation</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Revue COSSI</ref-sourcetitle>
+<ref-publicationyear first="2018"/>
+<ref-website>
+<ce:e-address type="url">https://revue-cossi.info/numeros/n-5-2018-processus-normalisation-durabilite-information/729-5-2018-capelle</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Capelle, C. (2018). Les représentations des risques numériques en éducation: construction de normes dans les discours en circulation. Revue COSSI, 5 [Online]. Available at: https://revue-cossi.info/numeros/n-5-2018-processus-normalisation-durabilite-information/729-5-2018-capelle [Accessed 3 January 2021].</ref-fulltext>
+<ce:source-text>Capelle, C. (2018). Les représentations des risques numériques en éducation: construction de normes dans les discours en circulation. Revue COSSI, 5 [Online]. Available at: https://revue-cossi.info/numeros/n-5-2018-processus-normalisation-durabilite-information/729-5-2018-capelle [Accessed 3 January 2021].</ce:source-text>
+</reference>
+<reference seq="7">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Le design de la visibilité</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cardon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Réseaux</ref-sourcetitle>
+<ref-publicationyear first="2008"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>6</vol-first>
+<iss-first>152</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>93</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Cardon, D. (2008). Le design de la visibilité. Réseaux, 6(152), 93–137.</ref-fulltext>
+<ce:source-text>Cardon, D. (2008). Le design de la visibilité. Réseaux, 6(152), 93–137.</ce:source-text>
+</reference>
+<reference seq="8">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Cardon</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>À Quoi rêvent Les Algorithmes</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>Le Seuil, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Cardon, D. (2015). À quoi rêvent les algorithmes. Le Seuil, Paris.</ref-fulltext>
+<ce:source-text>Cardon, D. (2015). À quoi rêvent les algorithmes. Le Seuil, Paris.</ce:source-text>
+</reference>
+<reference seq="9">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>La culture de l’information, un domaine de débats conceptuels</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Chante</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Les Enjeux De l’information Et De La Communication</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>33</first-page>
+<last-page>44</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Chante, A. (2010). La culture de l’information, un domaine de débats conceptuels. Les enjeux de l’information et de la communication, 1, 33–44.</ref-fulltext>
+<ce:source-text>Chante, A. (2010). La culture de l’information, un domaine de débats conceptuels. Les enjeux de l’information et de la communication, 1, 33–44.</ce:source-text>
+</reference>
+<reference seq="10">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>De la recherche de l’information aux pratiques informationnelles</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Chaudiron</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ihadjadene</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Études De Communication</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>2</vol-first>
+<iss-first>35</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>13</first-page>
+<last-page>30</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Chaudiron, S. and Ihadjadene, M. (2011). De la recherche de l’information aux pratiques informationnelles. Études de communication, 2(35), 13–30.</ref-fulltext>
+<ce:source-text>Chaudiron, S. and Ihadjadene, M. (2011). De la recherche de l’information aux pratiques informationnelles. Études de communication, 2(35), 13–30.</ce:source-text>
+</reference>
+<reference seq="11">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Cordier</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Grandir connectés: Les Adolescents Et La recherché d’information</ref-sourcetitle>
+<ref-publicationyear first="2015"/>
+<ref-text>C&amp;F, Caen</ref-text>
+</ref-info>
+<ref-fulltext>Cordier, A. (2015). Grandir connectés: les adolescents et la recherché d’information. C&amp;F, Caen.</ref-fulltext>
+<ce:source-text>Cordier, A. (2015). Grandir connectés: les adolescents et la recherché d’information. C&amp;F, Caen.</ce:source-text>
+</reference>
+<reference seq="12">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Introduction</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Coutant</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Hermès La Revue</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>59</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>9</first-page>
+<last-page>17</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Coutant, A. and Stenger. T. (2011). Introduction. Hermès La Revue. 1(59), 9–17.</ref-fulltext>
+<ce:source-text>Coutant, A. and Stenger. T. (2011). Introduction. Hermès La Revue. 1(59), 9–17.</ce:source-text>
+</reference>
+<reference seq="13">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Culture et pratiques numériques juvéniles: quels usages pour quelles compétences</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Dauphin</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Questions Vives</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>7</vol-first>
+<iss-first>17</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>37</first-page>
+<last-page>52</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">https://doi.org/10.4000/questionsvives.988</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Dauphin, F. (2012). Culture et pratiques numériques juvéniles: quels usages pour quelles compétences ? Questions vives, 7(17), 37–52 [Online]. Available at: https://doi.org/10.4000/questionsvives.988 [Accessed 3 January 2021].</ref-fulltext>
+<ce:source-text>Dauphin, F. (2012). Culture et pratiques numériques juvéniles: quels usages pour quelles compétences ? Questions vives, 7(17), 37–52 [Online]. Available at: https://doi.org/10.4000/questionsvives.988 [Accessed 3 January 2021].</ce:source-text>
+</reference>
+<reference seq="14">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Doueihi</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pour Un Humanisme numérique</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<ref-text>Le Seuil, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Doueihi, M. (2011). Pour un humanisme numérique. Le Seuil, Paris.</ref-fulltext>
+<ce:source-text>Doueihi, M. (2011). Pour un humanisme numérique. Le Seuil, Paris.</ce:source-text>
+</reference>
+<reference seq="15">
+<ref-info>
+<ref-title>
+<ref-titletext-english>Sociality through social network sites</ref-titletext-english>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>N.B.</ce:initials>
+<ce:surname>Ellison</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>D.</ce:initials>
+<ce:surname>Boyd</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>The Oxford Handbook of Internet Studies</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<volisspag>
+<page-information>
+<pages>
+<first-page>151</first-page>
+<last-page>172</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-website>
+<ce:e-address type="url">http://www.academia.edu/7731305/Ellison_N._B._and_boyd_d._2013_._Sociality_through_Social_Network_Sites._In_Dutton_W._H._Ed._The_Oxford_Handbook_of_Internet_Studies._Oxford_Oxford_University_Press_pp</ce:e-address>
+</ref-website>
+<ref-text>Dutton, W.H.Oxford University Press, Oxford</ref-text>
+</ref-info>
+<ref-fulltext>Ellison, N.B. and Boyd, D. (2013). Sociality through social network sites. In The Oxford Handbook of Internet Studies, Dutton, W.H. (ed.). Oxford University Press, Oxford [Online]. Available at: http://www.academia.edu/7731305/Ellison_N._B._and_boyd_d._2013_._Sociality_through_Social_Network_Sites._In_Dutton_W._H._Ed._The_Oxford_Handbook_of_Internet_Studies._Oxford_Oxford_University_Press_pp._151–172.</ref-fulltext>
+<ce:source-text>Ellison, N.B. and Boyd, D. (2013). Sociality through social network sites. In The Oxford Handbook of Internet Studies, Dutton, W.H. (ed.). Oxford University Press, Oxford [Online]. Available at: http://www.academia.edu/7731305/Ellison_N._B._and_boyd_d._2013_._Sociality_through_Social_Network_Sites._In_Dutton_W._H._Ed._The_Oxford_Handbook_of_Internet_Studies._Oxford_Oxford_University_Press_pp._151–172.</ce:source-text>
+</reference>
+<reference seq="16">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:surname>Juanals</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>La Culture De l’information: Du Livre Au numérique</ref-sourcetitle>
+<ref-publicationyear first="2003"/>
+<ref-text>Hermes Science Lavoisier, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Juanals, B. (2003). La culture de l’information: du livre au numérique. Hermes Science Lavoisier, Paris.</ref-fulltext>
+<ce:source-text>Juanals, B. (2003). La culture de l’information: du livre au numérique. Hermes Science Lavoisier, Paris.</ce:source-text>
+</reference>
+<reference seq="17">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Bouillon de cultures: la culture de l’information est-elle un concept international</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Le Deuff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>L’éducation à La Culture Informationnelle</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Chapron, F. and Delamotte, E.Presses de l’Enssib, Villeurbanne</ref-text>
+</ref-info>
+<ref-fulltext>Le Deuff, O. (2010). Bouillon de cultures: la culture de l’information est-elle un concept international ? In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ref-fulltext>
+<ce:source-text>Le Deuff, O. (2010). Bouillon de cultures: la culture de l’information est-elle un concept international ? In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ce:source-text>
+</reference>
+<reference seq="18">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Le Deuff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Éducation Et réseaux socionumériques: Des Environnements Qui nécessitent Une Formation</ref-sourcetitle>
+<ref-publicationyear first="2011"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>1</vol-first>
+<iss-first>59</iss-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>67</first-page>
+<last-page>73</last-page>
+</pages>
+</page-information>
+</volisspag>
+<ref-text>Hermès La Revue</ref-text>
+</ref-info>
+<ref-fulltext>Le Deuff, O. (2011). Éducation et réseaux socionumériques: des environnements qui nécessitent une formation. Hermès La Revue, 1(59), 67–73.</ref-fulltext>
+<ce:source-text>Le Deuff, O. (2011). Éducation et réseaux socionumériques: des environnements qui nécessitent une formation. Hermès La Revue, 1(59), 67–73.</ce:source-text>
+</reference>
+<reference seq="19">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Littératies informationnelles, médiatiques et numériques: de la concurrence à la convergence</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>O.</ce:initials>
+<ce:surname>Le Deuff</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Études De Communication</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<volisspag>
+<volume-issue-number>
+<vol-first>38</vol-first>
+</volume-issue-number>
+<page-information>
+<pages>
+<first-page>131</first-page>
+<last-page>147</last-page>
+</pages>
+</page-information>
+</volisspag>
+</ref-info>
+<ref-fulltext>Le Deuff, O. (2012). Littératies informationnelles, médiatiques et numériques: de la concurrence à la convergence ? Études de communication, 38, 131–147.</ref-fulltext>
+<ce:source-text>Le Deuff, O. (2012). Littératies informationnelles, médiatiques et numériques: de la concurrence à la convergence ? Études de communication, 38, 131–147.</ce:source-text>
+</reference>
+<reference seq="20">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Liquète</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Médiations</ref-sourcetitle>
+<ref-text>CNRS Éditions, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Liquète, V. (ed.) (2010). Médiations. CNRS Éditions, Paris.</ref-fulltext>
+<ce:source-text>Liquète, V. (ed.) (2010). Médiations. CNRS Éditions, Paris.</ce:source-text>
+</reference>
+<reference seq="21">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>V.</ce:initials>
+<ce:surname>Liquète</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Pratiques Informelles Et Non-Formelles d’information Des Jeunes: Comment Les considérer Dans Les Structures Documentaires Et bibliothéconomiques ? Actes De La journée Du 10 Novembre 2011</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>Université de Bordeaux, Bordeaux</ref-text>
+</ref-info>
+<ref-fulltext>Liquète, V. (2012). Pratiques informelles et non-formelles d’information des jeunes: comment les considérer dans les structures documentaires et bibliothéconomiques ? Actes de la journée du 10 novembre 2011. Université de Bordeaux, Bordeaux.</ref-fulltext>
+<ce:source-text>Liquète, V. (2012). Pratiques informelles et non-formelles d’information des jeunes: comment les considérer dans les structures documentaires et bibliothéconomiques ? Actes de la journée du 10 novembre 2011. Université de Bordeaux, Bordeaux.</ce:source-text>
+</reference>
+<reference seq="22">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Traces numériques et recrutement: du symptôme au cheminement</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>L.</ce:initials>
+<ce:surname>Merzeau</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Traces numériques: De La Production à l’interprétation</ref-sourcetitle>
+<ref-publicationyear first="2013"/>
+<ref-text>Galinon-Mélénec, B. and Zlitni, S. CNRS Éditions, Paris</ref-text>
+</ref-info>
+<ref-fulltext>�Merzeau, L. (2013). Traces numériques et recrutement: du symptôme au cheminement. In Traces numériques: de la production à l’interprétation, Galinon-Mélénec, B. and Zlitni, S. (eds). CNRS Éditions, Paris.</ref-fulltext>
+<ce:source-text>�Merzeau, L. (2013). Traces numériques et recrutement: du symptôme au cheminement. In Traces numériques: de la production à l’interprétation, Galinon-Mélénec, B. and Zlitni, S. (eds). CNRS Éditions, Paris.</ce:source-text>
+</reference>
+<reference seq="23">
+<ref-info>
+<ref-authors>
+<collaboration seq="1">
+<ce:text>Ministère de l’Éducation Nationale</ce:text>
+</collaboration>
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Robine</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Circulaire De Mission Des Documentalistes n° 2017-051 Du 28-3-2017 Réseau Canopé</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-website>
+<ce:e-address type="url">https://www.reseau-canope.fr/savoirscdi/metier/textes-reglementaires-pour- exercerle-metier-de-professeur-documentaliste/acces-chronologique-aux-textes- reglementaires/2010-2019/circulaire-n-2017-051-du-28-3-2017.html</ce:e-address>
+</ref-website>
+</ref-info>
+<ref-fulltext>Ministère de l’Éducation Nationale, Robine, F. (2017). Circulaire de mission des documentalistes n° 2017-051 du 28-3-2017 Réseau Canopé [Online]. Available at: https://www.reseau-canope.fr/savoirscdi/metier/textes-reglementaires-pour- exercerle-metier-de-professeur-documentaliste/acces-chronologique-aux-textes- reglementaires/2010-2019/circulaire-n-2017-051-du-28-3-2017.html [Accessed 3 January 2021].</ref-fulltext>
+<ce:source-text>Ministère de l’Éducation Nationale, Robine, F. (2017). Circulaire de mission des documentalistes n° 2017-051 du 28-3-2017 Réseau Canopé [Online]. Available at: https://www.reseau-canope.fr/savoirscdi/metier/textes-reglementaires-pour- exercerle-metier-de-professeur-documentaliste/acces-chronologique-aux-textes- reglementaires/2010-2019/circulaire-n-2017-051-du-28-3-2017.html [Accessed 3 January 2021].</ce:source-text>
+</reference>
+<reference seq="24">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>E.</ce:initials>
+<ce:surname>Morin</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Introduction à La pensée Complexe</ref-sourcetitle>
+<ref-text>1990, ESF, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Morin, E. (1990). Introduction à la pensée complexe. ESF, Paris.</ref-fulltext>
+<ce:source-text>Morin, E. (1990). Introduction à la pensée complexe. ESF, Paris.</ce:source-text>
+</reference>
+<reference seq="25">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Pasquier</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Cultures lycéennes: La Tyrannie De La majorité</ref-sourcetitle>
+<ref-publicationyear first="2005"/>
+<ref-text>Éditions Autrement, Paris</ref-text>
+</ref-info>
+<ref-fulltext>�Pasquier, D. (2005). Cultures lycéennes: la tyrannie de la majorité. Éditions Autrement, Paris.</ref-fulltext>
+<ce:source-text>�Pasquier, D. (2005). Cultures lycéennes: la tyrannie de la majorité. Éditions Autrement, Paris.</ce:source-text>
+</reference>
+<reference seq="26">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Éducations aux médias, à l’information et aux TIC: ce qui nous unit est ce qui nous sépare</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Serres</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>L’éducation à La Culture Informationnelle</ref-sourcetitle>
+<ref-publicationyear first="2010"/>
+<ref-text>Chapron, F. and Delamotte, E.Presses de l’Enssib, Villeurbanne</ref-text>
+</ref-info>
+<ref-fulltext>Serres, A. (2010). Éducations aux médias, à l’information et aux TIC: ce qui nous unit est ce qui nous sépare. In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ref-fulltext>
+<ce:source-text>Serres, A. (2010). Éducations aux médias, à l’information et aux TIC: ce qui nous unit est ce qui nous sépare. In L’éducation à la culture informationnelle, Chapron, F. and Delamotte, E. (eds). Presses de l’Enssib, Villeurbanne.</ce:source-text>
+</reference>
+<reference seq="27">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Serres</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Dans Le Labyrinthe: évaluer l’information Sur Internet</ref-sourcetitle>
+<ref-publicationyear first="2012"/>
+<ref-text>C&amp;F, Caen</ref-text>
+</ref-info>
+<ref-fulltext>Serres, A. (2012). Dans le labyrinthe: évaluer l’information sur Internet. C&amp;F, Caen.</ref-fulltext>
+<ce:source-text>Serres, A. (2012). Dans le labyrinthe: évaluer l’information sur Internet. C&amp;F, Caen.</ce:source-text>
+</reference>
+<reference seq="28">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Affiliation intellectuelle et culture numérique: la question du modèle</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Serres</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Les Affiliations Par Et Avec Le numérique</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Liquète, V. and Soumagnac, K.Hermann, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Serres, A. (2017). Affiliation intellectuelle et culture numérique: la question du modèle. In Les affiliations par et avec le numérique, Liquète, V. and Soumagnac, K. (eds). Hermann, Paris.</ref-fulltext>
+<ce:source-text>Serres, A. (2017). Affiliation intellectuelle et culture numérique: la question du modèle. In Les affiliations par et avec le numérique, Liquète, V. and Soumagnac, K. (eds). Hermann, Paris.</ce:source-text>
+</reference>
+<reference seq="29">
+<ref-info>
+<ref-title>
+<ref-titletext-nonenglish>Formes d’affiliation dans les pratiques informationnelles des lycéens avec le numériques: le cas des Travaux Personnels Encadrés</ref-titletext-nonenglish>
+</ref-title>
+<ref-authors>
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Soumagnac</ce:surname>
+</author>
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Les Affiliations Par Et Avec Le numérique</ref-sourcetitle>
+<ref-publicationyear first="2017"/>
+<ref-text>Liquète, V. and Soumagnac, K.Hermann, Paris</ref-text>
+</ref-info>
+<ref-fulltext>Soumagnac, K. and Capelle, C. (2017). Formes d’affiliation dans les pratiques informationnelles des lycéens avec le numériques: le cas des Travaux Personnels Encadrés (TPE). In Les affiliations par et avec le numérique, Liquète, V. and Soumagnac, K. (eds). Hermann, Paris.</ref-fulltext>
+<ce:source-text>Soumagnac, K. and Capelle, C. (2017). Formes d’affiliation dans les pratiques informationnelles des lycéens avec le numériques: le cas des Travaux Personnels Encadrés (TPE). In Les affiliations par et avec le numérique, Liquète, V. and Soumagnac, K. (eds). Hermann, Paris.</ce:source-text>
+</reference>
+<reference seq="30">
+<ref-info>
+<ref-authors>
+<author seq="1">
+<ce:initials>P.</ce:initials>
+<ce:surname>Watier</ce:surname>
+</author>
+</ref-authors>
+<ref-sourcetitle>Une Introduction à La Sociologie compréhensive</ref-sourcetitle>
+<ref-publicationyear first="2002"/>
+<ref-text>Circé, Belval</ref-text>
+</ref-info>
+<ref-fulltext>Watier, P. (2002). Une introduction à la sociologie compréhensive. Circé, Belval.</ref-fulltext>
+<ce:source-text>Watier, P. (2002). Une introduction à la sociologie compréhensive. Circé, Belval.</ce:source-text>
+</reference>
+</bibliography>
+</tail>
+</bibrecord>
+</unit-content>
+</unit></units>

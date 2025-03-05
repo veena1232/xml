@@ -1,0 +1,889 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Perceptions and Analysis of Digital Risks</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Liquète</ce:surname>
+<ce:given-name>Vincent</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>The concept of digital risk, which has become ubiquitous in the media, sustains a number of myths and beliefs about the digital world. This book explores the opposite view of these ideologies by focusing on digital risks as perceived by actors in their respective contexts. Perceptions and Analysis of Digital Risks identifies the different types of risks that concern actors and actually impact their daily lives, within education or various socio-professional environments. It provides an analysis of the strategies used by the latter to deal with these risks as they conduct their activities; thus making it possible to characterize the digital cultures and, more broadly, the informational cultures at work. This book offers many avenues for action in terms of educating the younger generations, training teachers and leaders, and mediating risks.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>204</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ed"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Foreword</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Morandi</ce:surname>
+<ce:given-name>Franc</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>F.</ce:initials>
+<ce:surname>Morandi</ce:surname>
+<ce:given-name>Franc</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>The concept of digital risk, which has become ubiquitous in the media, sustains a number of myths and beliefs about the digital world. This book explores the opposite view of these ideologies by focusing on digital risks as perceived by actors in their respective contexts. Perceptions and Analysis of Digital Risks identifies the different types of risks that concern actors and actually impact their daily lives, within education or various socio-professional environments. It provides an analysis of the strategies used by the latter to deal with these risks as they conduct their activities; thus making it possible to characterize the digital cultures and, more broadly, the informational cultures at work. This book offers many avenues for action in terms of educating the younger generations, training teachers and leaders, and mediating risks.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>X</first-page>
+<last-page>XV</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ed"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Introduction</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>V.</ce:initials>
+<ce:surname>Liquète</ce:surname>
+<ce:given-name>Vincent</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>The concept of digital risk, which has become ubiquitous in the media, sustains a number of myths and beliefs about the digital world. This book explores the opposite view of these ideologies by focusing on digital risks as perceived by actors in their respective contexts. Perceptions and Analysis of Digital Risks identifies the different types of risks that concern actors and actually impact their daily lives, within education or various socio-professional environments. It provides an analysis of the strategies used by the latter to deal with these risks as they conduct their activities; thus making it possible to characterize the digital cultures and, more broadly, the informational cultures at work. This book offers many avenues for action in terms of educating the younger generations, training teachers and leaders, and mediating risks.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>XVii</first-page>
+<last-page>XXi</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Digital Risks: An Obstacle or a Lever for Education?</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>C.</ce:initials>
+<ce:surname>Capelle</ce:surname>
+<ce:given-name>Camille</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Bordeaux</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Bordeaux, France</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>This chapter proposes characterizing different types of digital risks and subsequently compares them with the perceptions of teachers at the beginning of their career. The objective is to understand how these representations around the notion of “digital risks” can be a brake or a lever for educating young people about digital issues. First, the chapter defines the notion of “digital risk” and characterizes the diversity of risks that may correspond to this notion. It then shows which risks school faces with digital technology. Next, the chapter presents the methodology used to collect the representations and declared practices of new teachers regarding these risks. Finally, it provides the analysis of the teachers' representations and practices and to a reflection on the impact these have on the education of students in the digital world.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>26</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Teenagers Faced with “Fake News”: Perceptions and the Evaluation of an Epistemic Risk</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Sahut</ce:surname>
+<ce:given-name>Gilles</ce:given-name>
+</author>
+<affiliation>
+<organization>Jean Jaurès University</organization>
+<city>Toulouse</city>
+<country iso-code="FRA" />
+<ce:source-text>Jean Jaurès University Toulouse, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>S.</ce:initials>
+<ce:surname>Francisco</ce:surname>
+<ce:given-name>Sylvie</ce:given-name>
+</author>
+<affiliation>
+<organization>Inspé</organization>
+<city>Toulouse</city>
+<country iso-code="FRA" />
+<ce:source-text>Inspé Toulouse, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>This chapter focuses on how an objective approach to fake news is perceived by a specific segment of the population: teenagers. It first proposes a synthesis of studies on the production and dissemination processes of fake news and how it is identified and assessed by the public. The aim is to characterize fake news from a scientific point of view to better identify the informational risks it is likely to generate. The chapter then aims to uncover the perceptions held by teenagers on this informational and social phenomenon. It describes the methodology of the authors' study, based on interviews with 14 young people aged 14 to 17. Finally, the results are presented and discussed by comparing them to other studies, particularly those concerning credibility judgments. They are considered in relation to questions on Media and Information Literacy and, more particularly, through reflections on the teaching practices used to enable young people to critically evaluate information.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>27</first-page>
+<last-page>54</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">“A Big Nebula that is a Bit Scary” (Louise, Trainee Schoolteacher): Training through/in Digital Technology, in School and in Professional Training</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>Cordier</ce:surname>
+<ce:given-name>Anne</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Lorraine</organization>
+<city>Nancy</city>
+<country iso-code="FRA" />
+<ce:source-text>University of Lorraine, Nancy, France</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>Cordier</ce:surname>
+<ce:given-name>Anne</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Lorraine</organization>
+<city>Nancy</city>
+<country iso-code="FRA" />
+<ce:source-text>University of Lorraine, Nancy, France</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>The media panics linked to the digital risks are knocking on the doors of schools, which are being called upon to adapt to the digital world. Anxious to grasp and understand the practices and representations of digital technology, and more broadly, of media and information literacy among trainee teachers and their trainers, the researchers and practitioners involved in the Prémices project deployed a mixed methodology, combining quantitative and qualitative data collection within the same French teacher training institute. The responses between the types of actors markedly differ when we go into more detail about their personal use of digital technology, and in particular, the possession of an account on a digital social network. The PRÉMICES project aims to forge connections between pedagogical practices that use digital technology as a tool and as a teaching and learning object in the classroom, and practices that have been tested in professional training.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>55</first-page>
+<last-page>80</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Top Managers Confronted with Information Risks: An Exploratory Study within the Telecommunications Sector</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>D.</ce:initials>
+<ce:surname>Lekic</ce:surname>
+<ce:given-name>Dijana</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Paris 8</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Paris 8, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:surname>Lezon-Rivière</ce:surname>
+<ce:given-name>Anna</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Paris 8</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Paris 8, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Ihadjadene</ce:surname>
+<ce:given-name>Madjid</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Paris 8</organization>
+<country iso-code="FRA" />
+<ce:source-text>University of Paris 8, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>The digital transformation implemented through numerous projects is the reality of all industries and organizations, public or private. The Organisation for Economic Co-operation and Development notes that the focus previously placed on the security of information systems and networks is now broadening to encompass the security of economic and social activities that rely on new digital technologies. Numerous scientific works highlight the role of the top manager in information risk management and their influence on employee behavior. The authors' empirical study was conducted as part of a research project within Orange, the French telecommunications company. The study focused on the top managers of the entities of the telecom network domain. Rooted in constructivism, the research methodology consisted of a circular and iterative approach to data collection and analysis. Due to the daily processing and handling of sensitive data by network stakeholders, information risk management is considered a “critical issue'.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>81</first-page>
+<last-page>110</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Cell Phones and Scamming Risks in Cameroon: Users’ Experiences and Socio-Institutional Responses</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Tsopfack Fofack</ce:surname>
+<ce:given-name>Freddy</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Dschang</organization>
+<country iso-code="CMR" />
+<ce:source-text>University of Dschang, Cameroon</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A.B.</ce:initials>
+<ce:surname>Rengou</ce:surname>
+<ce:given-name>Abdel Bernazi</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Yaoundé 1</organization>
+<country iso-code="CMR" />
+<ce:source-text>University of Yaoundé 1, Cameroon</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>By subjecting cell phone scams to the scrutiny of sociological analysis, this chapter elucidates the processes at work in the socio-institutional governance of cell phone use. This has been achieved by conducting a critical socio-analysis of the mechanisms by which cell phone users are affected by scams and of the socio-institutional dynamics related to the supervision of the use of this communication tool in Cameroon. First, the chapter presents the various methods used in cell phone scams, followed by a look at the socio-institutional mediations at work in the monitoring of the telephone sector to address this risk. It questions the effectiveness of these mediations in view of the prevalence of this digital risk. Despite the existence of various socio-institutional mediations that carry out both preventive and remedial actions, such as MINPOSTEL, the judicial services, regulatory bodies, telecommunication companies and other users, the risk of mobile deception remains prevalent.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>111</first-page>
+<last-page>133</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Towards a Normative Prescription of Information Practices on Digital Social Networks: A Study of Documentary Pedagogical Projects in Middle School</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.</ce:initials>
+<ce:surname>ENTRAYGUES</ce:surname>
+<ce:given-name>Adeline</ce:given-name>
+</author>
+<affiliation>
+<organization>Bordeaux-Montaigne University</organization>
+<country iso-code="FRA" />
+<ce:source-text>Bordeaux-Montaigne University, France</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.</ce:initials>
+<ce:surname>ENTRAYGUES</ce:surname>
+<ce:given-name>Adeline</ce:given-name>
+</person>
+<affiliation>
+<organization>Bordeaux-Montaigne University</organization>
+<country iso-code="FRA" />
+<ce:source-text>Bordeaux-Montaigne University, France</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>This chapter proposes a model of the research objects, namely, heterogeneous information practices, digital social networks (DSNs) and information literacy. It shows two axes of results relating to the representations of the teacher librarians and the learners of the risks within the framework of information practices on the DSNs. First, the chapter situates the risks as perceived by teachers and learners, and then moves on to the treatment of risk in learning and its reception by learners. For the pedagogues represented by the teacher librarians, the subject of DSN implies awareness-raising pedagogical sequences, even though the projects observed have also chosen to approach DSNs as media or communication vectors. Reasoned information practices on the DSNs imply a complex relationship to the standard and the rule for adolescents, and even more so when the prescriptions are dictated by the school. Finally, the chapter argues that risk influences the formation of an information culture on DSNs.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>135</first-page>
+<last-page>157</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119887959</ce:doi>
+<itemid idtype="TPB-ID">20252000055995</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">MIL as a Tool for Teachers to Prevent Risk and Transmit Digital Culture</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>PASCAU</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</author>
+<affiliation>
+<organization>Bordeaux-Montaigne University</organization>
+<country iso-code="FRA" />
+<ce:source-text>Bordeaux-Montaigne University, France</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.</ce:initials>
+<ce:surname>PASCAU</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</person>
+<affiliation>
+<organization>Bordeaux-Montaigne University</organization>
+<country iso-code="FRA" />
+<ce:source-text>Bordeaux-Montaigne University, France</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2021</publishercopyright>
+<ce:para>Parents and teachers are aware of the digital risks, but they do not master the mechanics of these often-solitary uses: access to pornography and violent images, child pornography networks, cyber harassment, health risks and so on. Both a poison and a remedy, digital technology worries and excites in equal measure. Schools are firmly turning a digital corner by introducing programs that link digital skills and information culture to basic learning. The confusion between media and information literacy (MIL) and digital literacy raises questions because MIL has a much broader purpose than just the use of digital tools in the classroom. When asked to clarify what they mean by MIL and digital literacy, the teachers' answers as a whole provide a fairly complete picture of what MIL is and go far beyond risk prevention alone, even though in professional practice it is not implemented.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Perceptions and Analysis of Digital Risks</sourcetitle>
+<sourcetitle-abbrev>Perceptions and Analysis of Digital Risks</sourcetitle-abbrev>
+<isbn type="print" length="13">9781786307446</isbn>
+<isbn type="electronic" length="13">9781119887959</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>159</first-page>
+<last-page>191</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2021"/>
+<publicationdate>
+<year>2021</year>
+<month>12</month>
+<day>17</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119887959</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1700</classification-code>
+<classification-code>2200</classification-code>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
