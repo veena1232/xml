@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119201663</ce:doi>
+<itemid idtype="TPB-ID">20252000059920</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">The Index Trading Course Workbook: Step-by-Step Exercises and Tests to Help You Master The Index Trading Course</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.A.</ce:initials>
+<ce:surname>Fontanills</ce:surname>
+<ce:given-name>George A.</ce:given-name>
+</author>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>T.</ce:initials>
+<ce:surname>Gentile</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</author>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.A.</ce:initials>
+<ce:surname>Fontanills</ce:surname>
+<ce:given-name>George A.</ce:given-name>
+</person>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>T.</ce:initials>
+<ce:surname>Gentile</ce:surname>
+<ce:given-name>Tom</ce:given-name>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2006 by George A. Fontanills, Tom Gentile, and Richard Cawood. All rights reserved.</publishercopyright>
+<ce:para>An indispensable, hands-on companion to The Index Trading Course In The Index Trading Course, financial experts George Fontanills and Tom Gentile provide an in-depth look at the tools and techniques used to trade in this profitable market. Now, in The Index Trading Course Workbook, Fontanills and Gentile offer a wealth of practical exercises that will help further your understanding of index trading, as well as test and apply what you've learned before you take one step into the real markets-where time and money are luxuries you can't afford to lose. The media assignments found in each chapter are especially useful. They'll help you put the material you've read into action by prompting you to access some of the extensive media tools currently available to all traders-including financial papers, magazines, the Internet, and television.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>The index trading course workbook: step-by-step exercises and tests to help you master the index trading course</sourcetitle>
+<sourcetitle-abbrev>The index n.a. course workb.: step-by-step exercises and tests to help you n.a. the index n.a. course</sourcetitle-abbrev>
+<isbn type="print" length="13">9780471745983</isbn>
+<isbn type="electronic" length="13">9781119201663</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>210</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2015"/>
+<publicationdate>
+<year>2015</year>
+<month>10</month>
+<day>10</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119201663</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>2000</classification-code>
+<classification-code>1400</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
