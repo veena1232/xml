@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Continental Rifted Margins 1: Definition and Methodology</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</author>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</person>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>Rifted margins mark the transition between continents and oceans, which are the two first-order types of land masses on Earth. Rifted margins contribute to our understanding of lithospheric extensional processes and are studied by various disciplines of Earth Science (geology, geophysics, geochemistry). Thanks to better and wider public access to high-quality data, our understanding in these areas has improved significantly over these last two decades. This book summarizes this knowledge evolution and details where we stand today, with a series of case examples included. It is structured in a practical way, with concise text descriptions and comprehensive diagrams. Continental Rifted Margins 1 is a useful resource for students and newcomers to the rifted margin community - a "cookbook" of sorts to facilitate the reading of scientific publications and provide basic definitions and explanations.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>349</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ed"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Preface</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</author>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</person>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>Rifted margins mark the transition between continents and oceans, which are the two first-order types of land masses on Earth. Rifted margins contribute to our understanding of lithospheric extensional processes and are studied by various disciplines of Earth Science (geology, geophysics, geochemistry). Thanks to better and wider public access to high-quality data, our understanding in these areas has improved significantly over these last two decades. This book summarizes this knowledge evolution and details where we stand today, with a series of case examples included. It is structured in a practical way, with concise text descriptions and comprehensive diagrams. Continental Rifted Margins 1 is a useful resource for students and newcomers to the rifted margin community - a "cookbook" of sorts to facilitate the reading of scientific publications and provide basic definitions and explanations.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>ix</first-page>
+<last-page>xiv</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">What is Rifting? Introduction and Basic Definitions</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</author>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</person>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>Rifts can be summarized as geographical regions consisting of extensional sedimentary basins of various sizes, with various tectonic and sedimentary geometries that are linked in various structural contexts. This chapter provides a list of the main types of rifts and case examples. It provides the definition of the active and passive rifting categories, as these are regularly mentioned in the literature and are the primary designations of extensional rift settings. The chapter lists the major tectonic structures and basin types encountered in rifts and rifted margins. Subsidence is the stage that leads to the progressive deepening of the basin floor and hence allows the accumulation of sediments in rift basins. It is the process by which the lithosphere regains isostatic equilibrium. Sedimentation, although always present in rift basins, is extremely variable from one system to the other. Traditionally, sedimentary sequences of rift basins are subdivided into three categories: pre-, syn- and post-rifts.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>3</first-page>
+<last-page>69</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">What is a Rifted Margin? From the Early Models to Modern Views and Future Challenges</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</author>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>G.</ce:initials>
+<ce:surname>Peron-Pinvidic</ce:surname>
+<ce:given-name>Gwenn</ce:given-name>
+</person>
+<affiliation>
+<organization>Geological Survey of Norway (NGU)</organization>
+<city>Trondheim</city>
+<country iso-code="NOR" />
+<ce:source-text>Geological Survey of Norway (NGU), Trondheim, Norway</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>Rifted margins are major geological objects that mark the transition between continents and oceans, the two first-order types of land masses present on Earth. Rifted margins and offshore rift basins are of high interest for many various reasons. Rifted margins include several morphologically distinct entities: continental shelf, continental slope, continental rise, and abyssal plain. Rifted margins are extremely diverse, and encompass a variety of geometries, basement compositions and sedimentary architectures that, in turn, indicate differences in temporal and spatial evolution. The chapter reviews the evolution of knowledge on rift and rifted margin evolution and architecture, from the pioneering models that defined the fundamental physical rules governing lithospheric extension to modern conceptual models and today's consensus and debates. Modern concepts now include polyphase, in-and-out of sequence fault-systems, concave-downward detachments, zones of newly accreted basement with low-angle top-basement fault surface, among others.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>71</first-page>
+<last-page>176</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">How Can We Identify and Study Remnants of Rifted Margins</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>G.</ce:initials>
+<ce:surname>Mohn</ce:surname>
+<ce:given-name>Geoffroy</ce:given-name>
+</author>
+<affiliation>
+<organization>CY Cergy Paris Université</organization>
+<city>Cergy-Pontoise</city>
+<country iso-code="FRA" />
+<ce:source-text>CY Cergy Paris Université, Cergy-Pontoise, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>J.</ce:initials>
+<ce:surname>Tugend</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</author>
+<affiliation>
+<organization>CY Cergy Paris Université</organization>
+<city>Cergy-Pontoise</city>
+<country iso-code="FRA" />
+<ce:source-text>CY Cergy Paris Université, Cergy-Pontoise, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:surname>Petri</ce:surname>
+<ce:given-name>Benoît</ce:given-name>
+</author>
+<affiliation>
+<organization>Université de Strasbourg</organization>
+<country iso-code="FRA" />
+<ce:source-text>Université de Strasbourg, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="4">
+<author seq="4">
+<ce:initials>A.</ce:initials>
+<ce:surname>McCarthy</ce:surname>
+<ce:given-name>Anders</ce:given-name>
+</author>
+<affiliation>
+<organization>CY Cergy Paris Université</organization>
+<city>Cergy-Pontoise</city>
+<country iso-code="CHE" />
+<ce:source-text>CY Cergy Paris Université, Cergy-Pontoise, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="5">
+<author seq="5">
+<ce:initials>D.</ce:initials>
+<ce:surname>Frizon de Lamotte</ce:surname>
+<ce:given-name>Dominique</ce:given-name>
+</author>
+<affiliation>
+<organization>CY Cergy Paris Université</organization>
+<city>Cergy-Pontoise</city>
+<country iso-code="FRA" />
+<ce:source-text>CY Cergy Paris Université, Cergy-Pontoise, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>This chapter aims to provide an overview of the methodology developed over the past few decades to recognize the remnants of rifted margins in orogens. It provides a brief overview of the main characteristics of orogenic systems that should be taken into account when investigating fossil remnants of rifted margins. Rifted margins are commonly divided into distinct rift domains, recording different steps of crustal and lithospheric thinning. In spite of the large variability of the styles of rifted margins, these domains share common characteristics from one margin to another. The chapter refers some classification which was developed previously, to recognize the following domains: the proximal domain, the necking domain and the hyperextension/ exhumation domain. It provides an application of the principles and criteria described on the key examples selected across the Alps and the Pyrenees as well as the Rif belt, where distinct rift domains can be identified.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>181</first-page>
+<last-page>221</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">What Can We Learn from Marine Geophysics to Study Rifted Margins?</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:surname>AUTIN1</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</author>
+<affiliation>
+<organization>Université de Strasbourg</organization>
+<country iso-code="FRA" />
+<ce:source-text>Université de Strasbourg, France</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>L.</ce:initials>
+<ce:surname>Watremez</ce:surname>
+<ce:given-name>Louise</ce:given-name>
+</author>
+<affiliation>
+<organization>Université de Lille</organization>
+<city>Lille</city>
+<country iso-code="FRA" />
+<ce:source-text>Université de Lille, Lille, France</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>This chapter describes the main geophysical methods used when studying offshore rifts and rifted margins. Geophysical data are often the only constraints available for interpretation of offshore rifted continental margins. Seismic reflection, refraction and potential fields are all valuable datasets carrying relevant information. In the absence of rock samples, geophysical methods are the only way to study rifted margins. They provide indirect imaging of the crust and sediments, as well as potential field data. There is a large spectrum of interpretations for rifted margins. Sometimes it is linked to the large diversity of rifted margins, sometimes it is linked to different geological scenarios. It is thus important to understand how each geological or geophysical object is recognized and their possible interpretation. In marine geophysics, the free-air gravity anomaly is computed from raw data.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>223</first-page>
+<last-page>263</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Numerical Modeling of Rifting: An Overview</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Pérez-Gussinyé</ce:surname>
+<ce:given-name>Marta</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bremen</organization>
+<country iso-code="DEU" />
+<ce:source-text>University of Bremen, Germany</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>Z.</ce:initials>
+<ce:surname>Liu</ce:surname>
+<ce:given-name>Zhonglan</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bremen</organization>
+<country iso-code="DEU" />
+<ce:source-text>University of Bremen, Germany</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>Numerical models constitute not only technical advances, but also their theoretical conception, and results lead to conceptual advances in the understanding of rifting. By dynamic models of rifting, the authors encapsulate a wide variety of numerical models that seek to understand rift dynamics by quantitatively modeling the interactions between the temperature and deformation fields during extension, given an initial lithospheric rheology and geotherm. They give a broad overview on how numerical models have helped to unravel the main controls on margin and sediment architecture. The authors first broadly review some early dynamic models that led to significant advances, and then they focus on results with more modern codes. Numerical models of rifting have been pivotal in defining how and which key factors control rift and sedimentary architecture and in unraveling the heat flow and subsidence history of margins.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>265</first-page>
+<last-page>307</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1002/9781119986928</ce:doi>
+<itemid idtype="TPB-ID">20252000073021</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Analogue Modeling of Continental Rifting: An Overview</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>F.</ce:initials>
+<ce:surname>Zwaan</ce:surname>
+<ce:given-name>Frank</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bern</organization>
+<country iso-code="CHE" />
+<ce:source-text>University of Bern, Switzerland</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>G.</ce:initials>
+<ce:surname>Schreurs</ce:surname>
+<ce:given-name>Guido</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Bern</organization>
+<country iso-code="CHE" />
+<ce:source-text>University of Bern, Switzerland</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© ISTE Ltd 2022</publishercopyright>
+<ce:para>This chapter describes how analogue modeling techniques have been used to study a wide variety of aspects associated with rifting processes, from normal fault development to lithospheric necking towards continental breakup. When using analogue modeling techniques, proper scaling is necessary to guarantee geometrical, kinematic and dynamic similarity between a model and its natural equivalent. Researchers have been using increasingly sophisticated techniques to monitor deformation in their analogue experiments. The most basic option, used since the early days of modeling, is photography. The chapter provides an overview of various examples, ranging from quasi-2D models of crustal and lithospheric scale experiments, to models involving 3D rift processes, such as oblique extension, rift segment interaction and rotational rifting. When zooming out and applying brittle-viscous layers representing the entire brittle-ductile crust, researchers have found various influences of lithospheric strength as well as model boundary conditions on the mode of rifting.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Continental Rifted Margins 1: Definition and Methodology</sourcetitle>
+<sourcetitle-abbrev>Continental Rifted Margins 1: Definition and Methodology</sourcetitle-abbrev>
+<isbn type="print" length="13">9781789450613</isbn>
+<isbn type="electronic" length="13">9781119986928</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>309</first-page>
+<last-page>343</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2022"/>
+<publicationdate>
+<year>2022</year>
+<month>07</month>
+<day>27</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://onlinelibrary.wiley.com/doi/book/10.1002/9781119986928</ce:e-address>
+</website>
+<publisher>
+<publishername>Wiley</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>1900</classification-code>
+<classification-code>3100</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+
+
+</unit-content>
+</unit>
+</units>
