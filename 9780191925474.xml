@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-28T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.1093/9780191925474.001.0001</ce:doi>
+<itemid idtype="TPB-ID">20252000100748</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+<author-keywords>
+<author-keyword>peacekeeping</author-keyword>
+<author-keyword>United Nations (UN)</author-keyword>
+<author-keyword>authoritarianism</author-keyword>
+<author-keyword>democratization</author-keyword>
+<author-keyword>electoral support</author-keyword>
+<author-keyword>security sector reform</author-keyword>
+<author-keyword>Cambodia</author-keyword>
+<author-keyword>Democratic Republic of Congo</author-keyword>
+<author-keyword>Haiti</author-keyword>
+<author-keyword>Liberia</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">United Nations Peacekeeping and the Politics of Authoritarianism</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.V.B.</ce:initials>
+<ce:surname>von Billerbeck</ce:surname>
+<ce:given-name>Sarah</ce:given-name>
+</author>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>B.J.G.</ce:initials>
+<ce:surname>Gippert</ce:surname>
+<ce:given-name>Birte Julia</ce:given-name>
+</author>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>K.O.</ce:initials>
+<ce:surname>Oksamytna</ce:surname>
+<ce:given-name>Kseniya</ce:given-name>
+<ce:suffix>Sr.</ce:suffix>
+</author>
+<affiliation>
+<organization>Department of International Politics</organization>
+<city>London</city>
+<country iso-code="GBR" />
+Department of International Politics, City St George’s, University of London, London, GBR</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="4">
+<author seq="4">
+<ce:initials>O.T.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Tansey</ce:surname>
+<ce:given-name>Oisín</ce:given-name>
+</author>
+<affiliation>
+<organization>Department of War Studies</organization>
+<city>London</city>
+<country iso-code="GBR" />
+<ce:source-text>Department of War Studies King’s College London</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>S.V.B.</ce:initials>
+<ce:surname>von Billerbeck</ce:surname>
+<ce:given-name>Sarah</ce:given-name>
+</person>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>B.J.G.</ce:initials>
+<ce:surname>Gippert</ce:surname>
+<ce:given-name>Birte Julia</ce:given-name>
+</person>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>K.O.</ce:initials>
+<ce:surname>Oksamytna</ce:surname>
+<ce:given-name>Kseniya</ce:given-name>
+<ce:suffix>Sr.</ce:suffix>
+</person>
+<affiliation>
+<organization>Department of International Politics</organization>
+<city>London</city>
+<country iso-code="GBR" />
+Department of International Politics, City St George’s, University of London, London, GBR</ce:source-text>
+</affiliation>
+</correspondence>
+<correspondence>
+<person>
+<ce:initials>O.T.</ce:initials>
+<ce:degrees>Prof.</ce:degrees>
+<ce:surname>Tansey</ce:surname>
+<ce:given-name>Oisín</ce:given-name>
+</person>
+<affiliation>
+<organization>Department of War Studies</organization>
+<city>London</city>
+<country iso-code="GBR" />
+<ce:source-text>Department of War Studies King’s College London</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© Sarah von Billerbeck, Birte Julia Gippert, Kseniya Oksamytna, &amp; Oisín Tansey 2025.</publishercopyright>
+<ce:para>Why do countries hosting United Nations (UN) peacekeeping operations tend to consolidate authoritarian forms of governance, despite the UN’s own stated aim of promoting democratization? This book advances a theoretically innovative and empirically rich answer to this question: while the UN does not intentionally promote authoritarianism, it faces a number of constraints and dilemmas that give rise to what we call authoritarian enabling. Enabling can occur through two mechanisms, capacity-building and the creation of a permissive environment, which enhance the ability of host governments to engage in authoritarian behavior and signal to them that doing so is low cost. We illustrate these two mechanisms with four in-depth case studies of UN peacekeeping operations: the UN Transitional Administration in Cambodia (UNTAC), the UN Mission in the Democratic Republic of Congo / UN Stabilization Mission in the Democratic Republic of Congo (MONUC/MONUSCO), the United Nations Stabilization Mission in Haiti / Mission des Nations Unies pour la Stabilisation en Haïti (MINUSTAH), and the UN Mission in Liberia (UNMIL). While enabling stops short of the outright promotion of authoritarianism, it explains why the UN’s activities often appear to contradict its stated objectives and the outcomes it delivers fall short of its goals. In addition to its theoretical and empirical contributions, the book suggests how these dilemmas and challenges can be overcome.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>United Nations Peacekeeping and the Politics of Authoritarianism</sourcetitle>
+<sourcetitle-abbrev>United Nations Peacekeeping and the Politics of Authoritarianism</sourcetitle-abbrev>
+<isbn type="print" length="13">9780192898999</isbn>
+<isbn type="electronic" length="13">9780191925474</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>273</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2025"/>
+<publicationdate>
+<year>2025</year>
+<month>01</month>
+<day>10</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://doi.org/10.1093/9780191925474.001.0001</ce:e-address>
+</website>
+<publisher>
+<publishername>Oxford University Press</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+</unit-content>
+</unit>
+</units>
