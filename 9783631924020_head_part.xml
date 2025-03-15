@@ -1,0 +1,1999 @@
+<?xml version="1.0" encoding="utf-8"?><units xmlns="http://www.elsevier.com/xml/ani/ani" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ce="http://www.elsevier.com/xml/ani/common" xsi:schemaLocation="http://www.elsevier.com/xml/ani/ani http://www.elsevier.com/xml/ani/ani515-input.xsd">
+<unit type="BATCH">
+<unit-info>
+<unit-id>1</unit-id>
+<order-id>1</order-id>
+<parcel-id>none</parcel-id>
+<supplier-id>5</supplier-id>
+<timestamp>2025-02-17T14:13:21</timestamp>
+</unit-info>
+<unit-content>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="bk"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+<author-keywords>
+<author-keyword>Early childhood education</author-keyword>
+<author-keyword>Multilingual pedagogies</author-keyword>
+<author-keyword>Multicultural education</author-keyword>
+<author-keyword>Language education</author-keyword>
+</author-keywords>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Martínez-León</ce:surname>
+<ce:given-name>Natalia</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<city>Granada</city>
+<country iso-code="ESP" />
+<ce:source-text>Natalia Martínez-León. PhD professor and researcher at the University of Granada. Belonging to the research project research “Design of a teacher profile for pre-primary Education from a plurilingual approach: learning foreign and additional languages in early childhood (LEyLA)”. Areas of specialization: early-age multilingualism, multilingual education, CLIL, pre-K education, ICLHE, educational technology and transnational literacies, linguistic landscape and its educational use.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Andúgar Soto</ce:surname>
+<ce:given-name>Ana</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Alicante</organization>
+<city>Alicante</city>
+<country iso-code="ESP" />
+<ce:source-text>Ana Andúgar Soto.. Lecturer and researcher in the pre- primary and primary education degrees at the University of Alicante.. PhD in Teaching Foreign Languages in Early Childhood Education.. She belongs to the research group HUM840 “Open Knowledge for Social Action” of the University of Granada, and she is currently involved in the R+ D project “Design of a teacher profile for pre- primary Education from a plurilingual approach: learning foreign and additional languages in early childhood (LEyLA)”..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Cortina-Pérez</ce:surname>
+<ce:given-name>Beatriz</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<city>Granada</city>
+<country iso-code="ESP" />
+<ce:source-text>Beatriz Cortina- Pérez. Associate professor at the Department of Languages and Literature Didactics of the University of Granada (Spain). Her teaching is focused on TEFL, both at graduate and postgraduate level. She is Vice- dean for International Relations, Research &amp; Innovation at the Faculty of Education and Humanities (Univ. Granada).. Among her main research areas are very young language learners (VYLL), EFL teaching &amp; innovation, teacher training and intercultural education. Founder of ELLMEnet, network that brings together individuals who are interested in early language learning (from 0 to 6/ 7). She just published Handbook of CLIL in Pre- primary Education: Moving Towards Developmentally Appropriate Practices (Springer International Handbooks of Education.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>This book offers an in-depth look at early years education, recognizing the pivotal role of early education in shaping individual development.The central argument of this collective work is that multilingual pedagogies are not only beneficial but essential for promoting holistic learning experiences during a child’s formative years.The book advocates for a paradigm shift in early education, emphasizing the importance of equipping educators with the skills to handle diverse linguistic classrooms.Titled "Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches," it offers theoretical insights and innovative methods beyond traditional educational boundaries.The book provides a roadmap to foster environments that celebrate linguistic diversity, making it a valuable resource for educators and researchers.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>1</first-page>
+<last-page>423</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ed"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Introduction</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>N.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Martínez-León</ce:surname>
+<ce:given-name>Natalia</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<city>Granada</city>
+<country iso-code="ESP" />
+<ce:source-text>Natalia Martínez-León. PhD professor and researcher at the University of Granada. Belonging to the research project research “Design of a teacher profile for pre-primary Education from a plurilingual approach: learning foreign and additional languages in early childhood (LEyLA)”. Areas of specialization: early-age multilingualism, multilingual education, CLIL, pre-K education, ICLHE, educational technology and transnational literacies, linguistic landscape and its educational use.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Andúgar Soto</ce:surname>
+<ce:given-name>Ana</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Alicante</organization>
+<city>Alicante</city>
+<country iso-code="ESP" />
+<ce:source-text>Ana Andúgar Soto. Lecturer and researcher in the pre- primary and primary education degrees at the University of Alicante.. PhD in Teaching Foreign Languages in Early Childhood Education. She belongs to the research group HUM840 “Open Knowledge for Social Action” of the University of Granada, and she is currently involved in the R+ D project “Design of a teacher profile for pre- primary Education from a plurilingual approach: learning foreign and additional languages in early childhood (LEyLA)”.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>B.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Cortina-Pérez</ce:surname>
+<ce:given-name>Beatriz</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<city>Granada</city>
+<country iso-code="ESP" />
+<ce:source-text>Beatriz Cortina- Pérez.. Associate professor at the Department of Languages and Literature Didactics of the University of Granada (Spain). Her teaching is focused on TEFL, both at graduate and postgraduate level.. She is Vice- dean for International Relations, Research &amp; Innovation at the Faculty of Education and Humanities (Univ. Granada).. Among her main research areas are very young language learners (VYLL), EFL teaching &amp; innovation, teacher training and intercultural education.. Founder of ELLMEnet, network that brings together individuals who are interested in early language learning (from 0 to 6/ 7). She just published Handbook of CLIL in Pre- primary Education: Moving Towards Developmentally Appropriate Practices (Springer International Handbooks of Education.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>This book offers an in-depth look at early years education, recognizing the pivotal role of early education in shaping individual development.The central argument of this collective work is that multilingual pedagogies are not only beneficial but essential for promoting holistic learning experiences during a child’s formative years.The book advocates for a paradigm shift in early education, emphasizing the importance of equipping educators with the skills to handle diverse linguistic classrooms.Titled "Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches," it offers theoretical insights and innovative methods beyond traditional educational boundaries.The book provides a roadmap to foster environments that celebrate linguistic diversity, making it a valuable resource for educators and researchers.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>9</first-page>
+<last-page>16</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Funds of Knowledge and Identity Approaches to Early Language Education: Experiences From across the Globe</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Waddington</ce:surname>
+<ce:given-name>Julie</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Girona</organization>
+<city>Girona</city>
+<country iso-code="ESP" />
+<ce:source-text>Julie Waddington. Lecturer (Professora Serra Húnter) in Language and Literature Education at the University of Girona, Spain. Her work focuses on foreign language teaching in childhood education, the role of children’s literature in promoting holistic language learning, and questions related to learner and teacher identity. She has published on language education in journals such as Language, Culture and Curriculum; System; ELT Journal; and European Early Childhood Education Research Journal; and on applications of the funds of knowledge approach in Psicologia em Pesquisa.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>H.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Hedges</ce:surname>
+<ce:given-name>Helen</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Auckland</organization>
+<city>Auckland</city>
+<country iso-code="NZL" />
+<ce:source-text>Helen Hedges.. Professor of Early Childhood Education at the University of Auckland, New Zealand.. Her work focuses on young children’s interests and learning, and ways teachers recognise and engage with these in curriculum and pedagogy.. She has published on funds of knowledge and identity in journals such as Contemporary Issues in Early Childhood; Journal of Curriculum Studies; and Mind, Culture and Activity..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>S.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Little</ce:surname>
+<ce:given-name>Sabine</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Sheffield</organization>
+<city>Sheffield</city>
+<country iso-code="GBR" />
+<ce:source-text>Sabine Little.. Lecturer in Languages Education at the University of Sheffield, United Kingdom.. Her research focuses on the intersection of language, identity, and well- being, working holistically with children, families, and schools.. She convenes the Literacy and Multilingualism Special Interest Group for the UK Literacy Association, and co- convenes the European Educational Research Association’s Network 31: Language and Education..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="4">
+<author seq="4">
+<ce:initials>D.L.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Banegas</ce:surname>
+<ce:given-name>Dario Luis</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Edinburgh</organization>
+<city>Edinburgh</city>
+<country iso-code="GBR" />
+<ce:source-text>Dario Luis Banegas.. Lecturer in Language Education at the University of Edinburgh, United Kingdom and an Associate Fellow with the University of Warwick.. His research examines different aspects of language (teacher) education in South America such as (funds of) identity, motivation, writing development, teacher research engagement, social justice, and curriculum development..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="5">
+<author seq="5">
+<ce:initials>M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Cooper</ce:surname>
+<ce:given-name>Maria</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Auckland</organization>
+<city>Auckland</city>
+<country iso-code="NZL" />
+<ce:source-text>Dario Luis Banegas. Lecturer in Language Education at the University of Edinburgh, United Kingdom and an Associate Fellow with the University of Warwick.. His research examines different aspects of language (teacher) education in South America such as (funds of) identity, motivation, writing development, teacher research engagement, social justice, and curriculum development.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="6">
+<author seq="6">
+<ce:initials>M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Esteban-Guitart</ce:surname>
+<ce:given-name>Moisès</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Girona</organization>
+<city>Girona</city>
+<country iso-code="ESP" />
+<ce:source-text>Maria Cooper.. European- Pasifika Senior Lecturer in Early Childhood Education at the University of Auckland, New Zealand.. Her specialisms include leadership, infant and toddler pedagogies, and learners with Pasifika heritages.. She has published on teacher leadership, teacher- family partnerships and supporting Pasifika learners across a range of journals, such as International Journal of Leadership in Education and Contemporary Issues in Early Childhood.. She is currently leading a project exploring Pasifika notions of leadership..</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The first section of the book lays a solid foundation, delving into key theories and concepts in multilingual pedagogy. This section not only explores the theoretical underpinnings but also provides insight into how these theories can be applied in early learning environments. From the significance of the sociocultural environment to the cognitive strategies employed by young learners, this section sets the stage for a deeper understanding of the subsequent sections. The first chapter builds on the theories of funds of knowledge and funds of identity, showing the benefits of incorporating them into early language learning practice. Benefits related mainly to learning and development, as well as social justice, in regions such as Argentina, Catalonia, England, and New Zealand. The second chapter on global citizenship encourages learners to understand and reflect upon the world, as well as respond to its challenges and paradoxes. This chapter demonstrates how awakening to languages, a pluralistic approach with a long history in Europe, and other multilingual pedagogies suit particularly well as early childhood global citizenship pedagogies. The section continues with a chapter that delves into early literacy acquisition in EFL and bilingual settings, exploring and reflecting on the needs of EFL students when it comes to reading and writing in English, especially in the early stages of literacy, as well as offering a series of criteria to adapt the methodology synthetic phonics to an EFL context. Finally, the concept of metalinguistic awareness is covered in the fourth chapter, along with learning techniques that may help the early learner become more conscious of his multilingual identity.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>19</first-page>
+<last-page>36</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Nurturing Children’s Global Citizenship Through Multilingual Pedagogies</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Lourenço</ce:surname>
+<ce:given-name>Mónica</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Aveiro</organization>
+<city>Aveiro</city>
+<country iso-code="PRT" />
+<ce:source-text>Mónica Lourenço. Researcher and teacher educator at the University of Aveiro, Portugal. She has a PhD in Didactics and Teacher Education and over 15 years of experience teaching and supervising students in the field of language education and early language learning. She has wide experience coordinating and participating in international projects on plurilingualism and incomprehension, and has published extensively in the fields of early language learning, education for diversity, global citizenship education, and teacher education.. Her current research interests focus on the transformative potential of communities of practice and purpose in teacher education for global citizenship.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Lourenço</ce:surname>
+<ce:given-name>Mónica</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Aveiro</organization>
+<city>Aveiro</city>
+<country iso-code="PRT" />
+<ce:source-text>Mónica Lourenço.. Researcher and teacher educator at the University of Aveiro, Portugal.. She has a PhD in Didactics and Teacher Education and over 15 years of experience teaching and supervising students in the field of language education and early language learning.. She has wide experience coordinating and participating in international projects on plurilingualism and incomprehension, and has published extensively in the fields of early language learning, education for diversity, global citizenship education, and teacher education.. Her current research interests focus on the transformative potential of communities of practice and purpose in teacher education for global citizenship..</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The first section of the book lays a solid foundation, delving into key theories and concepts in multilingual pedagogy. This section not only explores the theoretical underpinnings but also provides insight into how these theories can be applied in early learning environments. From the significance of the sociocultural environment to the cognitive strategies employed by young learners, this section sets the stage for a deeper understanding of the subsequent sections. The first chapter builds on the theories of funds of knowledge and funds of identity, showing the benefits of incorporating them into early language learning practice. Benefits related mainly to learning and development, as well as social justice, in regions such as Argentina, Catalonia, England, and New Zealand. The second chapter on global citizenship encourages learners to understand and reflect upon the world, as well as respond to its challenges and paradoxes. This chapter demonstrates how awakening to languages, a pluralistic approach with a long history in Europe, and other multilingual pedagogies suit particularly well as early childhood global citizenship pedagogies. The section continues with a chapter that delves into early literacy acquisition in EFL and bilingual settings, exploring and reflecting on the needs of EFL students when it comes to reading and writing in English, especially in the early stages of literacy, as well as offering a series of criteria to adapt the methodology synthetic phonics to an EFL context. Finally, the concept of metalinguistic awareness is covered in the fourth chapter, along with learning techniques that may help the early learner become more conscious of his multilingual identity.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>37</first-page>
+<last-page>55</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Early Literacy Acquisition in EFL and Bilingual Settings: Some Insights from Research</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.I.</ce:initials>
+<ce:surname>García Abellán</ce:surname>
+<ce:given-name>Ana Isabel</ce:given-name>
+</author>
+<affiliation>
+<organization>Catholic University of Murcia (UCAM)</organization>
+<city>Murcia</city>
+<country iso-code="ESP" />
+<ce:source-text>Ana Isabel García Abellán. Lecturer and researcher at the Catholic University of Murcia (UCAM). Prior to her service at UCAM, she worked as a pre- primary and primary teacher in a school where she supervised the implementation of the bilingual program. She has experience as a teacher trainer and literacy consultant, specialized in the area of Phonics for EFL students. She is also the author of different CLIL course books and teaching materials.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>A.I.</ce:initials>
+<ce:surname>García Abellán</ce:surname>
+<ce:given-name>Ana Isabel</ce:given-name>
+</person>
+<affiliation>
+<organization>Catholic University of Murcia (UCAM)</organization>
+<city>Murcia</city>
+<country iso-code="ESP" />
+<ce:source-text>Ana Isabel García Abellán. Lecturer and researcher at the Catholic University of Murcia (UCAM). Prior to her service at UCAM, she worked as a pre- primary and primary teacher in a school where she supervised the implementation of the bilingual program. She has experience as a teacher trainer and literacy consultant, specialized in the area of Phonics for EFL students. She is also the author of different CLIL course books and teaching materials.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The first section of the book lays a solid foundation, delving into key theories and concepts in multilingual pedagogy. This section not only explores the theoretical underpinnings but also provides insight into how these theories can be applied in early learning environments. From the significance of the sociocultural environment to the cognitive strategies employed by young learners, this section sets the stage for a deeper understanding of the subsequent sections. The first chapter builds on the theories of funds of knowledge and funds of identity, showing the benefits of incorporating them into early language learning practice. Benefits related mainly to learning and development, as well as social justice, in regions such as Argentina, Catalonia, England, and New Zealand. The second chapter on global citizenship encourages learners to understand and reflect upon the world, as well as respond to its challenges and paradoxes. This chapter demonstrates how awakening to languages, a pluralistic approach with a long history in Europe, and other multilingual pedagogies suit particularly well as early childhood global citizenship pedagogies. The section continues with a chapter that delves into early literacy acquisition in EFL and bilingual settings, exploring and reflecting on the needs of EFL students when it comes to reading and writing in English, especially in the early stages of literacy, as well as offering a series of criteria to adapt the methodology synthetic phonics to an EFL context. Finally, the concept of metalinguistic awareness is covered in the fourth chapter, along with learning techniques that may help the early learner become more conscious of his multilingual identity.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>57</first-page>
+<last-page>73</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Metalinguistic Awareness: A Crucial Factor of Language Learning and Teaching</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>V.P.</ce:initials>
+<ce:surname>Thomou</ce:surname>
+<ce:given-name>Vivi Paraskevi</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Crete</organization>
+<city>Crete</city>
+<country iso-code="GRC" />
+<ce:source-text>Vivi Paraskevi Thomou.. Assistant Professor at the University of Crete, Greece.. She teaches courses of Linguistics and Applied Linguistics.. Her research interests include Vocabulary Learning and Teaching and Pedagogical Lexicography</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Christodoulakis</ce:surname>
+<ce:given-name>Christos</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Crete</organization>
+<city>Crete</city>
+<country iso-code="GRC" />
+<ce:source-text>Christos Christodoulakis. Elementary school teacher in Crete, Greece. He received a bachelor’s degree in Primary Education from University of Crete, Greece and a master’s degree in Teaching of Greek as a Second Language from University of Crete, Greece. His interests include vocabulary learning and teaching in L1 and L2 from a cognitive perspective.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The first section of the book lays a solid foundation, delving into key theories and concepts in multilingual pedagogy. This section not only explores the theoretical underpinnings but also provides insight into how these theories can be applied in early learning environments. From the significance of the sociocultural environment to the cognitive strategies employed by young learners, this section sets the stage for a deeper understanding of the subsequent sections. The first chapter builds on the theories of funds of knowledge and funds of identity, showing the benefits of incorporating them into early language learning practice. Benefits related mainly to learning and development, as well as social justice, in regions such as Argentina, Catalonia, England, and New Zealand. The second chapter on global citizenship encourages learners to understand and reflect upon the world, as well as respond to its challenges and paradoxes. This chapter demonstrates how awakening to languages, a pluralistic approach with a long history in Europe, and other multilingual pedagogies suit particularly well as early childhood global citizenship pedagogies. The section continues with a chapter that delves into early literacy acquisition in EFL and bilingual settings, exploring and reflecting on the needs of EFL students when it comes to reading and writing in English, especially in the early stages of literacy, as well as offering a series of criteria to adapt the methodology synthetic phonics to an EFL context. Finally, the concept of metalinguistic awareness is covered in the fourth chapter, along with learning techniques that may help the early learner become more conscious of his multilingual identity.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>75</first-page>
+<last-page>94</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Translanguaging in a Heritage Language Classroom: Inclusive and Collaborative Learning Pedagogy</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.Y.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Jang</ce:surname>
+<ce:given-name>Soon Young</ce:given-name>
+</author>
+<affiliation>
+<organization>California State Polytechnic University, Pomona</organization>
+<city>Pomona</city>
+<country iso-code="USA" />
+<ce:source-text>Soon Young Jang. Assistant Professor in the Early Childhood Studies Department at California State Polytechnic University, Pomona. She obtained her Ph.D. in Language and Literacies Education at the University of Toronto, Canada. Her research interests include children’s bilingualism and biliteracy, heritage language learning, translanguaging, and language policy and practice.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>S.Y.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Jang</ce:surname>
+<ce:given-name>Soon Young</ce:given-name>
+</person>
+<affiliation>
+<organization>California State Polytechnic University</organization>
+<city>Pomona</city>
+<country iso-code="USA" />
+<ce:source-text>Soon Young Jang. Assistant Professor in the Early Childhood Studies Department at California State Polytechnic University, Pomona. She obtained her Ph.D. in Language and Literacies Education at the University of Toronto, Canada. Her research interests include children’s bilingualism and biliteracy, heritage language learning, translanguaging, and language policy and practice.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>97</first-page>
+<last-page>118</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Project-Based Learning and Picture Books in the CLIL Pre-primary Classroom: A Winning Combination to Develop Intercultural Competence</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Fernández-Fernández</ce:surname>
+<ce:given-name>Raquel</ce:given-name>
+</author>
+<affiliation>
+<organization>Universidad de Alcalá</organization>
+<city>Madrid</city>
+<country iso-code="ESP" />
+<ce:source-text>Raquel Fernández- Fernández. Lecturer in the Modern Philology Department at Universidad de Alcalá (Madrid, Spain). She holds a PhD with a dissertation on the use of literature in EFL contexts in secondary education. In 2014 she was awarded the European Language Label for the coordination of a Bilingual Project in Higher Education. Her fields of interest are EFL innovative methodologies, the use of literature in bilingual education, bilingual literacy development and CLIL teacher education.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A. V.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>López-Fuentes</ce:surname>
+<ce:given-name>Ana Virginia</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Zaragoza</organization>
+<city>Zaragoza</city>
+<country iso-code="ESP" />
+<ce:source-text>Ana Virginia López- Fuentes. Lecturer in the Department of Education, University of Zaragoza, España. In 2016 she completed an MA in Cinema and Literature in English and in May 2021 she obtained a PhD in English Studies, both from the University of Zaragoza. Her PhD thesis focused on the potential of cosmopolitanism in twenty- first- century Disney animation films to promote inclusive education.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>119</first-page>
+<last-page>137</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Supporting the Acquisition of Irish as a Minority Language in the Early Years: An Analysis of Three Family, Community and Early Childhood Education Projects</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+ <ce:initials>M.</ce:initials>
+<ce:surname>Mhic Mhathúna</ce:surname>
+<ce:given-name>Máire</ce:given-name>
+</author>
+<affiliation>
+<organization>Technological University Dublin</organization>
+<city>Dublin</city>
+<country iso-code="IRL" />
+<ce:source-text>Technological University Dublin, Dublin, Ireland</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>A.</ce:initials>
+<ce:degrees></ce:degrees>
+<ce:surname>Ní Dhiorbháin</ce:surname>
+<ce:given-name>Aisling</ce:given-name>
+</author>
+<affiliation>
+<organization>Dublin City University</organization>
+<city>Dublin</city>
+<country iso-code="IRL" />
+<ce:source-text>Aisling Ní Dhiorbháin. Associate Professor in Teagasc na Gaeilge (Teaching of Irish) in the Institute of Education, Dublin City University.. Her research and teaching focuses on various aspects of second language teaching and learning with a particular emphasis on Irish and other minority languages. She is Director of Sealbhú: The DCU Research Centre for the Learning and Teaching of Irish.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="">
+ <ce:initials>P.</ce:initials>
+<ce:surname>Ó Duibhir</ce:surname>
+<ce:given-name>Pádraig</ce:given-name>
+</author>
+<affiliation>
+<organization>Dublin City University</organization>
+<city>Dublin</city>
+<country iso-code="IRL" />
+<ce:source-text>Pádraig Ó Duibhir. Professor Emeritus in the Institute of Education, Dublin City University. His research interests lie in second language acquisition and pedagogy applied to minority languages, and the Irish language in particular. He has completed a wide range of research projects in this area.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>139</first-page>
+<last-page>156</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Fostering a Multilingual Classroom: Insights from Children’s Agentive and Flexible Language Use During Imaginary Play</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>K.</ce:initials>
+<ce:surname>Shoecraft</ce:surname>
+<ce:given-name>Kelly</ce:given-name>
+</author>
+<affiliation>
+<organization>Griffith University</organization>
+<city>Brisbane</city>
+<country iso-code="AUS" />
+<ce:source-text>Kelly Shoecraft. Applied Linguist at Griffith University. Kelly has worked as a language teacher in numerous countries and was fascinated by young plurilingual children’s flexible language use. Her research areas include bilingual education, translanguaging and technology enhanced learning.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>K.</ce:initials>
+<ce:surname>Shoecraft</ce:surname>
+<ce:given-name>Kelly</ce:given-name>
+</person>
+<affiliation>
+<organization>Griffith University</organization>
+<city>Brisbane</city>
+<country iso-code="AUS" />
+<ce:source-text>Kelly Shoecraft. Applied Linguist at Griffith University. Kelly has worked as a language teacher in numerous countries and was fascinated by young plurilingual children’s flexible language use. Her research areas include bilingual education, translanguaging and technology enhanced learning.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>157</first-page>
+<last-page>176</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Fostering Early Multilingualism and Multiculturalism Through the Democratic Art of My Museum by Joanne Liu</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>R.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Domene-Benito</ce:surname>
+<ce:given-name>Rocío</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Valencia</organization>
+<city>Valencia</city>
+<country iso-code="ESP" />
+<ce:source-text>Rocío Domene- Benito. PhD in Specific Didactics, and lecturer in Language and Literature Teaching at the Faculty of Teaching of the University of Valencia. With a linguistic and literary educational background, her main research domains are related to second language teaching and new methodologies applied to Higher Education and Children’s literature. She’s published several papers on female themes and the pedagogical potential of picturebooks.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Portalés-Raga</ce:surname>
+<ce:given-name>Matilde</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Valencia</organization>
+<city>Valencia</city>
+<country iso-code="ESP" />
+<ce:source-text>Matilde Portalés- Raga.. PhD in Fine Arts, and lecturer in Didactics of Art &amp; Visual Education at the Faculty of Teaching of the University of Valencia.. Official Master’s Degree in Cultural Management and Specialization Diploma in Culture, Reading &amp; Children’s Literature.. She has given talks, workshops and courses on illustration, creativity and pedagogy in academic frameworks, libraries, schools and other organizations..Her main research lines are focused on the potential of Multiliteracies and the interdisciplinarity between Art, Literature and Culture in the learning environment..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>A.</ce:initials>
+<ce:surname>Benavent-Colás</ce:surname>
+<ce:given-name>Ana</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Groningen</organization>
+<city>Groningen</city>
+<country iso-code="NLD" />
+<ce:source-text>Ana Benavent- Colás. Holds a Teacher Training in Primary Education Degree (Speciality: English). She is interested in academic research on multilingualism and the approach of pedagogy of multiliteracies. She is now enrolled in the MA in Applied Linguistics (TEFL) (University of Groningen).</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>177</first-page>
+<last-page>197</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Biliteracy at Early Stages: Teaching Spanish and English Literacy Simultaneously</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Rendón</ce:surname>
+<ce:given-name>Sara</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Seville</organization>
+<city>Seville</city>
+<country iso-code="ESP" />
+<ce:source-text>Sara Rendón. Obtained her International PhD at the University of Seville in 2019. She previously completed a degree in English Studies and a Masters’ degree in Teaching of Secondary Education, Vocational Training and Languages Teaching. Since 2016, she has focused her research on early biliteracy and the transference of knowledge, skills and linguistic structures. She currently works as a lecturer at the Department of Language and Literature Teaching at the University of Seville and her areas of interests are bilingual education and literacy, diversity and the digital gap.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>C.</ce:initials>
+<ce:surname>Jolly</ce:surname>
+<ce:given-name>Christopher</ce:given-name>
+</author>
+<affiliation>
+<organization>Jolly Learning Ltd.</organization>
+<city>Nigeria</city>
+<country iso-code="NGA" />
+<ce:source-text>Christopher Jolly.. Managing Director, and owner, of Jolly Learning Ltd.. He founded the company in 1987, initially publishing some boxed reading games.. He published the first part of Jolly Phonics in 1992.. Chris was awarded an Honorary Doctorate of Letters in 2014 from the University of Uyo in Nigeria, and an Honorary Doctorate of Science from the University of Bristol in 2017.. In 2019 he was awarded a Lifetime Achievement Award from the IPG, a publishing trade association..</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>M.</ce:initials>
+<ce:surname>Navarro Pablo</ce:surname>
+<ce:given-name>Macarena</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Seville</organization>
+<city>Seville</city>
+<country iso-code="ESP" />
+<ce:source-text>Macarena Navarro Pablo. Teacher trainer in Early Childhood and Primary Education teacher ́s degrees at the University of Seville, where she has worked for over 20 years. Her main teaching and research interests include reflection on methods for teaching language skills development, improving language competence, analysis and design of teaching sequences, resources and materials for language teaching.. Her research spans studies of first and second language teaching and learning, bilingual education and biliterate development. She has presented at more than 40 conferences and is the author of different national and international research articles, books and chapters in these fields.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The second section ventures into the practical realm, presenting case studies and innovative experiences in multilingual classrooms. Readers will find inspiring examples and tested strategies that highlight the successful implementation of multilingual pedagogies in a variety of educational contexts. This section is a testament to the creativity and adaptability required in multilingual education in the early years and offers valuable lessons for those seeking to enrich their educational practices. The section begins with a study on the bilingual learning of Korean-Canadian children in the context of a community-based heritage language classroom. Using classroom observations, interviews with the focus teacher, and children’s artefacts as data sources, this study examines how pedagogical changes alter heritage language learners’ engagement and interactions in classroom activities. It demonstrates how new pedagogical opportunities can be created in an early childhood heritage language classroom through the use of translanguaging. The use of picture books is covered in the second chapter of this section in the CLIL pre-primary classroom to develop intercultural competence through a Project-Based Learning (PBL) proposal as a resource for dealing with language and cultural diversity in the pluricultural classroom. A contribution supporting the idea that the combination of a multicultural environment and adequate materials and methodology helps develop the intercultural competence in early years. The subsequent chapter discusses findings from three recent investigations that sought to support the acquisition and development of Irish by young children living in Irish-speaking areas (Gaeltacht) in Ireland. The chapter calls attention to home languages and the role of families. This is followed by a chapter exploring young multilingual children’s use of their unique linguistic repertoires in imaginative play in a Francophone preschool in British Columbia, Canada. The findings demonstrate that children are creative and agentive in using their entire repertoire to advance their social and linguistic development through the negotiation of meaning. This chapter advocates for classroom practices that embrace the full range of children’s linguistic abilities and adopts a strength-based, translingual approach to language use. The fifth chapter demonstrates how silent picture books can serve as culturally and artistically responsible artefacts to encourage early multilingualism among students. This is achieved through the democratisation of stories, the incorporation of specific didactics, and the potential of multiliteracies. The final chapter of the section on biliteracy at early stages involves teaching Spanish and English literacy simultaneously. A study was conducted to evaluate the effectiveness of using a phonic method to develop English literacy skills in Spanish young learners and to assess the transfer of skills between the two languages.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>199</first-page>
+<last-page>219</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Family and English Reading in Early Childhood: Attitudes and Habits</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.M.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Rico-Martín</ce:surname>
+<ce:given-name>Ana M.</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Macarena Navarro Pablo. Teacher trainer in Early Childhood and Primary Education teacher ́s degrees at the University of Seville, where she has worked for over 20 years. Her main teaching and research interests include reflection on methods for teaching language skills development, improving language competence, analysis and design of teaching sequences, resources and materials for language teaching. Her research spans studies of first and second language teaching and learning, bilingual education and biliterate development. She has presented at more than 40 conferences and is the author of different national and international research articles, books and chapters in these fields.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>M.-J.</ce:initials>
+<ce:surname>Molina-García</ce:surname>
+<ce:given-name>María-José</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>María- José Molina- García. PhD.in Spanish Philology, María José is professor in the Department of Didactics of Language and Literature at the University of Granada (Spain) and researcher in the Didactics of Language and Literature group (HUM- 457). Her main research interests are the acquisition of Spanish as a second and foreign language and its teaching in multicultural contexts.. She has directed numerous research works in these areas and she has published various books and articles.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="3">
+<author seq="3">
+<ce:initials>L.I.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Estrada-Vida</ce:surname>
+<ce:given-name>Ligia Isabel</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Ligia Isabel Estrada- Vidal. Lecturer at the Faculty of Education of the University of Granada (Department of Research and Diagnostic Methods in Education). She has participated in national and international congresses, and published numerous prestige articles and chapters. She has also participated in national and European different innovative research and teaching projects. She collaborates with various researchers as a specialist in research designs, instrument construction and data analysis. In recent years, he has participated with groups specialized in reading learning in early childhood, primary and secondary education.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="4">
+<author seq="4">
+<ce:initials>S.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Corral-Robles</ce:surname>
+<ce:given-name>Silvia</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Ligia Isabel Estrada- Vidal. Lecturer at the Faculty of Education of the University of Granada (Department of Research and Diagnostic Methods in Education). She has participated in national and international congresses, and published numerous prestige articles and chapters. She has also participated in national and European different innovative research and teaching projects. She collaborates with various researchers as a specialist in research designs, instrument construction and data analysis. In recent years, he has participated with groups specialized in reading learning in early childhood, primary and secondary education.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The third section of the book emphasises the importance of community, family, and children’s agency in the acquisition and development of multilingualism. Recognizing that language learning extends beyond the classroom walls, this section highlights how familial and community environments significantly contribute to the linguistic learning process. Through a holistic approach, this section underscores the vital role that external factors play in fostering multilingualism from an early age. This section begins with a chapter that discusses how family dynamics affect the learning process of reading in English in the initial years of Elementary Education level and the relationship with the reading habits and attitudes of these families at home. The subsequent chapter on analysing the agents responsible for the development and maintenance of the Otomi language and culture in this Mexican community. The next section is a discussion of the Maya language in the Maya region. It explores how children’s language activities and communicative practices play a fundamental role in the way languages are spoken, reclaimed, strengthened, and shifted, particularly in contact zones where language shift is prevalent and vigorous. Family language policies in French- and Spanish-speaking families of young children in Germany are also discussed. The study presents findings on parental discourse regarding children’s multilingualism, language acquisition, and language management. It provides insights into the challenges, successes, and aspirations of parents from the diverse French- and Spanish-speaking world in fostering multilingualism from an early age.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>223</first-page>
+<last-page>244</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Family, the Community and the Teachers as Agents of Development and Maintenance of Language and Culture. Let’s Continue Speaking Otomi</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.A.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Ángeles-González</ce:surname>
+<ce:given-name>José Alejandro</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Silvia Corral- Robles. Lecturer of TEFL at the Faculty of Education of the University of Granada, Spain, giving pre- service EFL courses for Early Childhood, Primary and Secondary education teachers. She has participated in national and international congresses and published numerous articles, chapters on TEFL.. She has also participated in different research and teaching innovative projects. Her research interests centre around English in early childhood, primary and secondary education, bilingual education, active methodologies, the integration of ICT as a curricular resource and inclusion, gender, and cultural diversity in the EFL classroom.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>E.</ce:initials>
+<ce:surname>Bernabé-Chávez</ce:surname>
+<ce:given-name>Evaristo</ce:given-name>
+</author>
+<affiliation>
+<organization>Universidad Pedagógica Nacional (UPN)</organization>
+<city>Madrid</city>
+<country iso-code="MEX" />
+<ce:source-text>José Alejandro Ángeles- González. Degree in Modern languages from the Universidad Autónoma de Querétaro (UAQ) and Masters Degree in education from the Benemérita y Centenaria Normal del Estado de Querétaro, Andrés Balvanera. Currently PhD student of Antropology at the University UNED (Madrid, Spain). Main field of research and work: promotion of the hñöhñö language (otomí from Querétaro) oral, written and reading skills and its social aspect; the development of skills among children, teachers and students.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The third section of the book emphasises the importance of community, family, and children’s agency in the acquisition and development of multilingualism. Recognizing that language learning extends beyond the classroom walls, this section highlights how familial and community environments significantly contribute to the linguistic learning process. Through a holistic approach, this section underscores the vital role that external factors play in fostering multilingualism from an early age. This section begins with a chapter that discusses how family dynamics affect the learning process of reading in English in the initial years of Elementary Education level and the relationship with the reading habits and attitudes of these families at home. The subsequent chapter on analysing the agents responsible for the development and maintenance of the Otomi language and culture in this Mexican community. The next section is a discussion of the Maya language in the Maya region. It explores how children’s language activities and communicative practices play a fundamental role in the way languages are spoken, reclaimed, strengthened, and shifted, particularly in contact zones where language shift is prevalent and vigorous. Family language policies in French- and Spanish-speaking families of young children in Germany are also discussed. The study presents findings on parental discourse regarding children’s multilingualism, language acquisition, and language management. It provides insights into the challenges, successes, and aspirations of parents from the diverse French- and Spanish-speaking world in fostering multilingualism from an early age.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>245</first-page>
+<last-page>264</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/ b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Maya Children Doing Language Policy: Tracing Spaces</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>A.A.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Tapia</ce:surname>
+<ce:given-name>Aldo Anzures</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Pennsylvania</organization>
+<country iso-code="USA" />
+<ce:source-text>Evaristo Bernabé- Chávez. Holds a Degree on Primary Education for indigenous studies from the Universidad Pedagógica Nacional (UPN) and Master’s degree in Amerindian studies and bilingual education from the Universidad Autónoma de Querétaro (UAQ). Hñöhñö language writer with several publications and originally from the Otomi community of El Rincón de San Ildefonso, Tultepec, Amealco de Bonfil, Querétaro. His research focuses on the promotion of the hñöhñö language (otomí from Querétaro) and its social aspect; the development of skills among children, teachers and community as agents of language promotion.</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>N.H.</ce:initials>
+<ce:surname>Hornberger</ce:surname>
+<ce:given-name>Nancy H.</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Pennsylvania</organization>
+<country iso-code="USA" />
+<ce:source-text>Nancy H. Hornberger. Professor Emerita of Education, University of Pennsylvania, USA, educational linguist and anthropologist researching and collaborating in multilingual education policy and practice in immigrant, refugee and Indigenous communities. Prolific author and editor, recently published an annotated bibliography on Educational Linguistics in the Oxford Bibliographies in Linguistics; former editor of the Encyclopedia of Language and Education (Springer) and longstanding co- editor of Multilingual Matters’ Bilingual Education and Bilingualism book series. Honorary doctorate from Umeå University, Sweden and elected to membership in the National Academy of Education, USA.</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The third section of the book emphasises the importance of community, family, and children’s agency in the acquisition and development of multilingualism. Recognizing that language learning extends beyond the classroom walls, this section highlights how familial and community environments significantly contribute to the linguistic learning process. Through a holistic approach, this section underscores the vital role that external factors play in fostering multilingualism from an early age. This section begins with a chapter that discusses how family dynamics affect the learning process of reading in English in the initial years of Elementary Education level and the relationship with the reading habits and attitudes of these families at home. The subsequent chapter on analysing the agents responsible for the development and maintenance of the Otomi language and culture in this Mexican community. The next section is a discussion of the Maya language in the Maya region. It explores how children’s language activities and communicative practices play a fundamental role in the way languages are spoken, reclaimed, strengthened, and shifted, particularly in contact zones where language shift is prevalent and vigorous. Family language policies in French- and Spanish-speaking families of young children in Germany are also discussed. The study presents findings on parental discourse regarding children’s multilingualism, language acquisition, and language management. It provides insights into the challenges, successes, and aspirations of parents from the diverse French- and Spanish-speaking world in fostering multilingualism from an early age.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>265</first-page>
+<last-page>290</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Family Language Policies Within French and Spanish Speaking Families Residing in Germany</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.-B.</ce:initials>
+<ce:degrees>Ph.D.</ce:degrees>
+<ce:surname>Wesemeyer</ce:surname>
+<ce:given-name>Maj- Britt</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Kiel</organization>
+<country iso-code="DEU" />
+<ce:source-text>Maj-Britt Wesemeyer. PhD candidate in the Department of Romance Linguistics at the Christian- Albrecht University of Kiel, Germany. Her doctoral research investigates the family language policies in west African francophone migrant families. Currently she teaches French linguistics and language pedagogy at the university.</ce:source-text>
+</affiliation>
+<ce:e-address>mbwesemeyer@romanistik.uni-kiel.de</ce:e-address>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>F.</ce:initials>
+<ce:surname>Reyna-Muni</ce:surname>
+<ce:given-name>Facundo</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Pennsylvania</organization>
+<country iso-code="USA" />
+<ce:source-text>Facundo Reyna- Muniain.. Consultant for the European Centre of Minority Issues and external researcher at the Galician Language Institute, Instituto da Lingua Galega, Universidade de Santiago de Compostela, Spain.. He holds a doctorate in Ibero- Romance Linguistics at Bremen University on “Language and Identity in the case of Galician speakers and neo- Galician speakers in Argentina” and his main research and teaching areas are minority languages, multilingualism, diaspora studies, family language policy, sociolinguistics and glottopolitics.. Instituto da Lingua Galega, Universidade de Santiago de Compostela, Spain</ce:source-text>
+</affiliation>
+<ce:e-address>muniain@ecmi.de</ce:e-address>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The third section of the book emphasises the importance of community, family, and children’s agency in the acquisition and development of multilingualism. Recognizing that language learning extends beyond the classroom walls, this section highlights how familial and community environments significantly contribute to the linguistic learning process. Through a holistic approach, this section underscores the vital role that external factors play in fostering multilingualism from an early age. This section begins with a chapter that discusses how family dynamics affect the learning process of reading in English in the initial years of Elementary Education level and the relationship with the reading habits and attitudes of these families at home. The subsequent chapter on analysing the agents responsible for the development and maintenance of the Otomi language and culture in this Mexican community. The next section is a discussion of the Maya language in the Maya region. It explores how children’s language activities and communicative practices play a fundamental role in the way languages are spoken, reclaimed, strengthened, and shifted, particularly in contact zones where language shift is prevalent and vigorous. Family language policies in French- and Spanish-speaking families of young children in Germany are also discussed. The study presents findings on parental discourse regarding children’s multilingualism, language acquisition, and language management. It provides insights into the challenges, successes, and aspirations of parents from the diverse French- and Spanish-speaking world in fostering multilingualism from an early age.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>293</first-page>
+<last-page>312</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Rethinking Teacher Knowledge Base (TKB) for Early Childhood – Additional Language Teachers</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>B.</ce:initials>
+<ce:degrees>Asst. Prof.</ce:degrees>
+<ce:surname>Cortina-Pérez</ce:surname>
+<ce:given-name>Beatriz</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Beatriz Cortina- Pérez.. Associate professor at the Department of Languages and Literature Didactics of the University of Granada (Spain).. Her teaching is focused on TEFL, both at graduate and postgraduate level.. She is Vice- dean for International Relations, Research &amp; Innovation at the Faculty of Education and Humanities (Univ.. Granada).. Among her main research areas are very young language learners (VYLL), EFL teaching &amp; innovation, teacher training and intercultural education.. Founder of ELLMEnet, network that brings together individuals who are interested in early language learning (from 0 to 6/ 7).. She just published Handbook of CLIL in Pre- primary Education: Moving Towards Developmentally Appropriate Practices (Springer International Handbooks of Education</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>B.</ce:initials>
+<ce:degrees>Asst. Prof.</ce:degrees>
+<ce:surname>Cortina-Pérez</ce:surname>
+<ce:given-name>Beatriz</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Granada</organization>
+<country iso-code="ESP" />
+<ce:source-text>Beatriz Cortina- Pérez.. Associate professor at the Department of Languages and Literature Didactics of the University of Granada (Spain).. Her teaching is focused on TEFL, both at graduate and postgraduate level.. She is Vice- dean for International Relations, Research &amp; Innovation at the Faculty of Education and Humanities (Univ.. Granada).. Among her main research areas are very young language learners (VYLL), EFL teaching &amp; innovation, teacher training and intercultural education.. Founder of ELLMEnet, network that brings together individuals who are interested in early language learning (from 0 to 6/ 7).. She just published Handbook of CLIL in Pre- primary Education: Moving Towards Developmentally Appropriate Practices (Springer International Handbooks of Education</ce:source-text>
+</person>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The final section of this work emphasises the crucial role of teacher education in ensuring the success of multilingual pedagogies, focusing mainly on training teachers to successfully address the challenges and opportunities in educating children within multilingual environments. From innovative approaches in initial teacher training to strategies for ongoing professional growth, this section provides a comprehensive guide to equipping educators with the requisite skills and knowledge for effective multilingual pedagogy. The first chapter underscores the increasing urgency of preparing teachers for multilingual education across diverse educational settings, analysing the teacher knowledge base of the early childhood additional language teacher. The second chapter delves into the development of language-aware early childhood teacher education in Finland’s minority-medium mainstream context. It advocates for socially just education by training teachers to embrace multilingual pedagogies beyond national bilingualism and English, even in minority-medium schools. The third chapter explores a teacher education model for in-service preschool teachers. It focuses on integrating English effectively in multilingual preschool contexts and developing competencies necessary for teaching English through participatory action research and a task-based language approach. Moving to pre-service teachers, the subsequent chapter examines 159 pre-service EFL teachers’ perceptions regarding phonics. It analyses their experiences with an English literacy course introducing synthetic phonics and its use in EFL Spanish classrooms to promote literacy. Finally, the last chapter in this section delves into linguistically and culturally responsive pedagogy for young EFL learners. The study investigates diverse EFL classrooms in Cyprus, exploring teachers’ perceptions, attitudes, challenges, and needs regarding multilingualism and multiculturalism among young learners through various research methods involving university students. The book aims to connect theoretical insights with practical applications by exploring diverse contexts and innovative methodologies in multilingual pedagogy. This collection aims to inspire educators, policymakers, and researchers to navigate the complexities of multilingual pedagogy in the early years.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>315</first-page>
+<last-page>336</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Preparing Early Childhood Teachers for Multilingual Pedagogies Beyond Bilingualism</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>M.</ce:initials>
+<ce:surname>Bergroth</ce:surname>
+<ce:given-name>Mari</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Helsinki</organization>
+<country iso-code="FIN" />
+<ce:source-text>Mari Bergroth. University lecturer in education at the University of Helsinki, Finland and associate professor (docent) in education at Åbo Akademi University.. Her research interests include learning and teaching in a multilingual society. Her recent published work focus on educational policy; language- in- education policy; family language policy; developing language- aware teacher education for both bilingual and mainstream eductional leadership</ce:source-text>
+</affiliation>
+</author-group>
+<author-group seq="2">
+<author seq="2">
+<ce:initials>M.</ce:initials>
+<ce:surname>Londen</ce:surname>
+<ce:given-name>Monica</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Helsinki</organization>
+<country iso-code="FIN" />
+<ce:source-text>Mari Bergroth. University lecturer in education at the University of Helsinki, Finland and associate professor (docent) in education at Åbo Akademi University. Her research interests include learning and teaching in a multilingual society. Her recent published work focus on educational policy; language- in- education policy; family language policy; developing language- aware teacher education for both bilingual and mainstream educMonica Londen.. University lecturer in education at the faculty of educational sciences at the University of Helsinki, Finland.. Her research interests include learning and teaching in higher education, self- regulated learning and diversity in education.. Her current research projects focus on inclusion and exclusion in early childhood education, positive education and educational leadership</ce:source-text>
+</affiliation>
+</author-group>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The final section of this work emphasises the crucial role of teacher education in ensuring the success of multilingual pedagogies, focusing mainly on training teachers to successfully address the challenges and opportunities in educating children within multilingual environments. From innovative approaches in initial teacher training to strategies for ongoing professional growth, this section provides a comprehensive guide to equipping educators with the requisite skills and knowledge for effective multilingual pedagogy. The first chapter underscores the increasing urgency of preparing teachers for multilingual education across diverse educational settings, analysing the teacher knowledge base of the early childhood additional language teacher. The second chapter delves into the development of language-aware early childhood teacher education in Finland’s minority-medium mainstream context. It advocates for socially just education by training teachers to embrace multilingual pedagogies beyond national bilingualism and English, even in minority-medium schools. The third chapter explores a teacher education model for in-service preschool teachers. It focuses on integrating English effectively in multilingual preschool contexts and developing competencies necessary for teaching English through participatory action research and a task-based language approach. Moving to pre-service teachers, the subsequent chapter examines 159 pre-service EFL teachers’ perceptions regarding phonics. It analyses their experiences with an English literacy course introducing synthetic phonics and its use in EFL Spanish classrooms to promote literacy. Finally, the last chapter in this section delves into linguistically and culturally responsive pedagogy for young EFL learners. The study investigates diverse EFL classrooms in Cyprus, exploring teachers’ perceptions, attitudes, challenges, and needs regarding multilingualism and multiculturalism among young learners through various research methods involving university students. The book aims to connect theoretical insights with practical applications by exploring diverse contexts and innovative methodologies in multilingual pedagogy. This collection aims to inspire educators, policymakers, and researchers to navigate the complexities of multilingual pedagogy in the early years.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>337</first-page>
+<last-page>354</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">English in Inclusive Multilingual Preschools: Researching the Potential of a Teacher Education Model for in- Service Teachers</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>K.B.</ce:initials>
+<ce:surname>de Jersey</ce:surname>
+<ce:given-name>Kirsten Birsak</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Education</organization>
+<country iso-code="DEU" />
+<ce:source-text>Kirsten Birsak de Jersey.. Institut für Anglistik, Lecturer at the University of Education, Freiburg, Germany, specializing in early language teaching through storytelling and task- based language learning and has been teaching at the pre- primary and primary school levels for over 20 years.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>K.B.</ce:initials>
+<ce:surname>de Jersey</ce:surname>
+<ce:given-name>Kirsten Birsak</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Education</organization>
+<country iso-code="DEU" />
+<ce:source-text>Kirsten Birsak de Jersey.. Institut für Anglistik, Lecturer at the University of Education, Freiburg, Germany, specializing in early language teaching through storytelling and task- based language learning and has been teaching at the pre- primary and primary school levels for over 20 years.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The final section of this work emphasises the crucial role of teacher education in ensuring the success of multilingual pedagogies, focusing mainly on training teachers to successfully address the challenges and opportunities in educating children within multilingual environments. From innovative approaches in initial teacher training to strategies for ongoing professional growth, this section provides a comprehensive guide to equipping educators with the requisite skills and knowledge for effective multilingual pedagogy. The first chapter underscores the increasing urgency of preparing teachers for multilingual education across diverse educational settings, analysing the teacher knowledge base of the early childhood additional language teacher. The second chapter delves into the development of language-aware early childhood teacher education in Finland’s minority-medium mainstream context. It advocates for socially just education by training teachers to embrace multilingual pedagogies beyond national bilingualism and English, even in minority-medium schools. The third chapter explores a teacher education model for in-service preschool teachers. It focuses on integrating English effectively in multilingual preschool contexts and developing competencies necessary for teaching English through participatory action research and a task-based language approach. Moving to pre-service teachers, the subsequent chapter examines 159 pre-service EFL teachers’ perceptions regarding phonics. It analyses their experiences with an English literacy course introducing synthetic phonics and its use in EFL Spanish classrooms to promote literacy. Finally, the last chapter in this section delves into linguistically and culturally responsive pedagogy for young EFL learners. The study investigates diverse EFL classrooms in Cyprus, exploring teachers’ perceptions, attitudes, challenges, and needs regarding multilingualism and multiculturalism among young learners through various research methods involving university students. The book aims to connect theoretical insights with practical applications by exploring diverse contexts and innovative methodologies in multilingual pedagogy. This collection aims to inspire educators, policymakers, and researchers to navigate the complexities of multilingual pedagogy in the early years.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>355</first-page>
+<last-page>375</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Exploring the Views of Spanish Pre- Service Teachers on Phonics from a Qualitative Research Perspective</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Molina</ce:surname>
+<ce:given-name>Javier Fernández</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Oxford</organization>
+<country iso-code="DEU" />
+<ce:source-text>Javier Fernández Molina. Degree in English Philology (UA), Master in Foreign Language Teaching (UCAM), Master in English and Spanish for Specific Purposes (UA), PGDip (UCL), Javier attended the seminars and workshops at the University of Oxford (English Language Teachers’ Summer Seminar) in 2016 and 2108.. PhD candidate, Javier is a Postgraduate Teaching Assistant (PGTA) at the University of Alicante (Faculty of Education).. He has taught seminars at Hochschule pa Vestlandet (Norway) and Middlesex University (UK). His fields of interest include English pronunciation, EduTech, CLIL and phonics</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>J.F.</ce:initials>
+<ce:surname>Molina</ce:surname>
+<ce:given-name>Javier Fernández</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Oxford</organization>
+<country iso-code="DEU" />
+<ce:source-text>Javier Fernández Molina. Degree in English Philology (UA), Master in Foreign Language Teaching (UCAM), Master in English and Spanish for Specific Purposes (UA), PGDip (UCL), Javier attended the seminars and workshops at the University of Oxford (English Language Teachers’ Summer Seminar) in 2016 and 2108.. PhD candidate, Javier is a Postgraduate Teaching Assistant (PGTA) at the University of Alicante (Faculty of Education).. He has taught seminars at Hochschule pa Vestlandet (Norway) and Middlesex University (UK). His fields of interest include English pronunciation, EduTech, CLIL and phonics</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The final section of this work emphasises the crucial role of teacher education in ensuring the success of multilingual pedagogies, focusing mainly on training teachers to successfully address the challenges and opportunities in educating children within multilingual environments. From innovative approaches in initial teacher training to strategies for ongoing professional growth, this section provides a comprehensive guide to equipping educators with the requisite skills and knowledge for effective multilingual pedagogy. The first chapter underscores the increasing urgency of preparing teachers for multilingual education across diverse educational settings, analysing the teacher knowledge base of the early childhood additional language teacher. The second chapter delves into the development of language-aware early childhood teacher education in Finland’s minority-medium mainstream context. It advocates for socially just education by training teachers to embrace multilingual pedagogies beyond national bilingualism and English, even in minority-medium schools. The third chapter explores a teacher education model for in-service preschool teachers. It focuses on integrating English effectively in multilingual preschool contexts and developing competencies necessary for teaching English through participatory action research and a task-based language approach. Moving to pre-service teachers, the subsequent chapter examines 159 pre-service EFL teachers’ perceptions regarding phonics. It analyses their experiences with an English literacy course introducing synthetic phonics and its use in EFL Spanish classrooms to promote literacy. Finally, the last chapter in this section delves into linguistically and culturally responsive pedagogy for young EFL learners. The study investigates diverse EFL classrooms in Cyprus, exploring teachers’ perceptions, attitudes, challenges, and needs regarding multilingualism and multiculturalism among young learners through various research methods involving university students. The book aims to connect theoretical insights with practical applications by exploring diverse contexts and innovative methodologies in multilingual pedagogy. This collection aims to inspire educators, policymakers, and researchers to navigate the complexities of multilingual pedagogy in the early years.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>375</first-page>
+<last-page>396</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
+<bibrecord>
+<item-info>
+<status state="new" stage="S300" />
+<itemidlist>
+<ce:doi>10.3726/b22160</ce:doi>
+<itemid idtype="TPB-ID">2024200062162X</itemid>
+</itemidlist>
+</item-info>
+<head>
+<citation-info>
+<citation-type code="ch"/>
+<citation-language xml:lang="ENG"/>
+<abstract-language xml:lang="ENG"/>
+</citation-info>
+<citation-title>
+<titletext xml:lang="ENG" original="y">Linguistically and Culturally Responsive Pedagogy for Young EFL Learners</titletext>
+</citation-title>
+<author-group seq="1">
+<author seq="1">
+<ce:initials>S.</ce:initials>
+<ce:surname>Karpava</ce:surname>
+<ce:given-name>Sviatlana</ce:given-name>
+</author>
+<affiliation>
+<organization>University of Cyprus</organization>
+<country iso-code="DEU" />
+<ce:source-text>Sviatlana Karpava.. Lecturer in Applied Linguistics/ TESOL and Coordinator of the MA in TESOL programme at the Department of English Studies, University of Cyprus.. Co- Director of the Discourse, Context and Society (DISCONSO) Lab and the Testing, Teaching and Translation Lab, MC/ Core group member/ WG5 Leader of the EuroFam Cost Action Network, General Secretary of Early Language Learning Research Association (ELLRA), Steering Group Member of the Association for Educational Assessment- Europe (AEA), active member and research collaborator of the Cyprus Linguistic Society (CyLing), the Diversity, Equality and Inclusivity Office (UCY), Cyprus Acquisition Team (CAT) and Harmonious Bilingualism Network (HaBilnet).. She is a senior editor and production head of the English as a foreign language International Journal and an associate editor and style editor of the MEXTESOL Journal.. Her area of research is applied linguistics, second/ third language acquisition, bilingualism, multilingualism, sociolinguistics, teaching and education.</ce:source-text>
+</affiliation>
+</author-group>
+<correspondence>
+<person>
+<ce:initials>S.</ce:initials>
+<ce:surname>Karpava</ce:surname>
+<ce:given-name>Sviatlana</ce:given-name>
+</person>
+<affiliation>
+<organization>University of Cyprus</organization>
+<country iso-code="DEU" />
+<ce:source-text>Sviatlana Karpava.. Lecturer in Applied Linguistics/ TESOL and Coordinator of the MA in TESOL programme at the Department of English Studies, University of Cyprus.. Co- Director of the Discourse, Context and Society (DISCONSO) Lab and the Testing, Teaching and Translation Lab, MC/ Core group member/ WG5 Leader of the EuroFam Cost Action Network, General Secretary of Early Language Learning Research Association (ELLRA), Steering Group Member of the Association for Educational Assessment- Europe (AEA), active member and research collaborator of the Cyprus Linguistic Society (CyLing), the Diversity, Equality and Inclusivity Office (UCY), Cyprus Acquisition Team (CAT) and Harmonious Bilingualism Network (HaBilnet).. She is a senior editor and production head of the English as a foreign language International Journal and an associate editor and style editor of the MEXTESOL Journal.. Her area of research is applied linguistics, second/ third language acquisition, bilingualism, multilingualism, sociolinguistics, teaching and education.</ce:source-text>
+</affiliation>
+</correspondence>
+<abstracts>
+<abstract xml:lang="ENG" original="y">
+<publishercopyright>© 2024 Peter Lang Group AG, Lausanne</publishercopyright>
+<ce:para>The final section of this work emphasises the crucial role of teacher education in ensuring the success of multilingual pedagogies, focusing mainly on training teachers to successfully address the challenges and opportunities in educating children within multilingual environments. From innovative approaches in initial teacher training to strategies for ongoing professional growth, this section provides a comprehensive guide to equipping educators with the requisite skills and knowledge for effective multilingual pedagogy. The first chapter underscores the increasing urgency of preparing teachers for multilingual education across diverse educational settings, analysing the teacher knowledge base of the early childhood additional language teacher. The second chapter delves into the development of language-aware early childhood teacher education in Finland’s minority-medium mainstream context. It advocates for socially just education by training teachers to embrace multilingual pedagogies beyond national bilingualism and English, even in minority-medium schools. The third chapter explores a teacher education model for in-service preschool teachers. It focuses on integrating English effectively in multilingual preschool contexts and developing competencies necessary for teaching English through participatory action research and a task-based language approach. Moving to pre-service teachers, the subsequent chapter examines 159 pre-service EFL teachers’ perceptions regarding phonics. It analyses their experiences with an English literacy course introducing synthetic phonics and its use in EFL Spanish classrooms to promote literacy. Finally, the last chapter in this section delves into linguistically and culturally responsive pedagogy for young EFL learners. The study investigates diverse EFL classrooms in Cyprus, exploring teachers’ perceptions, attitudes, challenges, and needs regarding multilingualism and multiculturalism among young learners through various research methods involving university students. The book aims to connect theoretical insights with practical applications by exploring diverse contexts and innovative methodologies in multilingual pedagogy. This collection aims to inspire educators, policymakers, and researchers to navigate the complexities of multilingual pedagogy in the early years.</ce:para>
+</abstract>
+</abstracts>
+<source type="book" country="CHE">
+<sourcetitle>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle>
+<sourcetitle-abbrev>Multilingual Pedagogies for Early Years: Theoretical Insights and Innovative Approaches</sourcetitle-abbrev>
+<isbn type="print" length="13">9783631918340</isbn>
+<isbn type="electronic" length="13">9783631924020</isbn>
+<volisspag>
+<page-information>
+<pages>
+<first-page>397</first-page>
+<last-page>416</last-page>
+</pages>
+</page-information>
+</volisspag>
+<publicationyear first="2024"/>
+<publicationdate>
+<year>2024</year>
+<month>12</month>
+<day>03</day>
+</publicationdate>
+<website type="item">
+<ce:e-address type="url">https://www.peterlang.com/document/1519492#ch05-c2</ce:e-address>
+</website>
+<publisher>
+<publishername>Peter Lang GmbH, Internationaler Verlag der Wissenschaften</publishername>
+</publisher>
+</source>
+<enhancement>
+<classificationgroup>
+<classifications type="ASJC">
+<classification>
+<classification-code>3300</classification-code>
+<classification-code>1200</classification-code>
+</classification>
+</classifications>
+</classificationgroup>
+</enhancement>
+</head>
+</bibrecord>
